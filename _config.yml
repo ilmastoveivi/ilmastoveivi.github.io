@@ -1,0 +1,15 @@
+# Site settings
+
+title: Ilmastoveivi
+desc: todo
+image: https://ilmastoveivi2019.fi/img/todo.png
+twitter: todo
+url: https://ilmastoveivi2019.fi
+slogan: Tässä on sloganin paikka, mikset jo laukaise?!
+ga: UA-TODO
+
+
+# Build settings
+sass:
+    sass_dir: _sass
+    style: compressed
