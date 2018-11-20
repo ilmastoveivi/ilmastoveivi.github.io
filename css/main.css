@@ -241,6 +241,14 @@ button i,
     margin-right: 0.25em;
 }
 
+#button-hover {
+  animation-play-state: paused;
+}
+
+#button-hover:hover {
+  animation-play-state: running;
+}
+
 .button.small {
     display: inline-block;
     margin-top: 0;
