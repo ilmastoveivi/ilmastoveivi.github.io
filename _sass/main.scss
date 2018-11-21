@@ -9,6 +9,7 @@ $heading: #000000;
 $body: #c9c8ca;
 $body-weight: 500;
 $heading-weight: 900;
+$font: 'Libre Franklin', sans-serif;
 
 
 /*! HTML5 Boilerplate v6.1.0 | MIT License | https://html5boilerplate.com/ */
@@ -116,7 +117,7 @@ textarea {
 body {
     background-color: $body;
     background-image: url('../img/bg1.png');
-    font-family: 'Libre Franklin', sans-serif;
+    font-family: $font;
 }
 
 a {
@@ -128,39 +129,41 @@ a {
 
 article {
     min-height: 80em;
-    max-width: 45rem;
+    max-width: 30rem;
     margin: 0 auto;
-    padding: 0 2em 5em 2em;
+    padding: 0 4em 5em 4em;
 }
 
-h1 {
+h1.logo {
     text-align: center;
     margin: 0 auto;
-    width: 60%;
+    margin-top: -1em;
+    margin-bottom: -1.75em;
+    width: 80%;
 }
 
-h1 img {
+h1.logo img {
     width: 100%;
     padding: 2em 0;
 }
 
-h2 {
+h1.slogan, #share h1 {
     text-transform: uppercase;
     font-size: 2.5em;
     line-height: 1.1;
     color: $heading;
     font-weight: $heading-weight;
     text-align: center;
-    margin: 2em 1em -1em 1em;
+    margin: 2em 0 0 0;
     transform: rotate(-7deg);
 }
 
-h3 {
+h2 {
     text-align: center;
     color: $heading;
     font-weight: $heading-weight;
     font-size: 1.6em;
-    margin: -2em 3em 0 3em;
+    margin: 0;
 }
 
 h4 {
@@ -199,9 +202,6 @@ p {
 }
 
 #share {
-    background-color: antiquewhite;
-    padding: 2em;
-    border-radius: 1em;
     text-align: center;
 }
 
@@ -210,23 +210,30 @@ p {
 
 #share table {
     margin: 0 auto;
+    margin-top: 1em;
+}
+
+#share table td, #share table th {
+  padding: 0.25em 0;
+  border-bottom: 1px solid #888;
 }
 
 #share table th {
-    text-align: right;
+    text-align: left;
     padding-right: 1em;
-
 }
 
-.thanks {
-    margin-top: 0;
+#thanks-check {
+  text-align: center;
+  font-size: 3em;
+  margin-top: 2em;
+  margin-bottom: -1.5em;
 }
 
-.thanks .far {
+#thanks-check .far {
     display: block;
     font-size: 250%;
     margin-bottom: 0.2em;
-
 }
 
 
@@ -234,7 +241,6 @@ button,
 .button {
     background-color: $accent1;
     color: $text;
-    font-size: 1.5em;
     font-weight: $heading-weight;
     padding: 1em;
     border-radius: 0.25em;
@@ -245,9 +251,12 @@ button,
     margin: 0 auto;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
-    transform: rotate(-7deg);
 }
 
+#sign-button {
+  transform: rotate(-7deg);
+    font-size: 1.5em;
+}
 
 button i,
 .button i {
@@ -263,6 +272,8 @@ button i,
 }
 
 .button.small {
+      background-color: $accent2;
+  color: white;
     display: inline-block;
     margin-top: 0;
     margin-bottom: 0.5em;
@@ -270,24 +281,33 @@ button i,
 }
 
 .twitter {
-    background-color: #1da1f2;
+    background-color: #1da1f2 !important;
 }
 
 .facebook {
-    background-color: #4267b2;
+    background-color: #4267b2 !important;
 }
 
 .messenger {
-    background-color: #0084ff;
+    background-color: #0084ff !important;
 }
 
 .whatsapp {
-    background-color: #01e675;
+    background-color: #01e675 !important;
+}
+
+.button.smaller {
+      background-color: $accent2;
+      color: white;
+  padding: 0.25em 1em;
+  margin: 0;
+  margin-right: 0.25em;
 }
 
 .buttons {
     text-align: center;
     margin-top: 1em;
+    margin-bottom: 2em;
 }
 
 footer {

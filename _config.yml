@@ -4,9 +4,13 @@ title: Ilmastoveivi
 desc: todo
 image: https://ilmastoveivi2019.fi/img/todo.png
 twitter: todo
-url: https://ilmastoveivi2019.fi
 slogan: Tässä on sloganin paikka, mikset jo laukaise?!
-ga: UA-TODO
+share-title: To do
+share-text: To do
+share-url: https://ilmastoveivi2019.fi
+ga: UA-129569534-1
+typeform-url: https://ilmastoveivi.typeform.com/to/i8v9Ap
+redirect-url: https://ilmastoveivi.github.io/kiitos.html
 
 
 # Build settings

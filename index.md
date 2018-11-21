@@ -1,8 +1,10 @@
 ---
 layout: default
+title:
+button-text: No tottakai allekirjoitan!
 ---
 
-### Alaotsikko ohjaa kohti leipätekstiä kuin kurkiaura konsanaan
+## Alaotsikko ohjaa kohti leipätekstiä kuin kurkiaura konsanaan
 
 Mieleni minun tekevi, aivoni ajattelevi lähteäni laulamahan, saa'ani sanelemahan, sukuvirttä suoltamahan, lajivirttä laulamahan. Sanat suussani sulavat, puhe'et putoelevat, kielelleni kerkiävät, hampahilleni hajoovat.
 
