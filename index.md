@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-button-text: No tottakai allekirjoitan!
+button-text: Lue vetoomus ja allekirjoita
 summary-text: Ilmastoveivillä kampeamme Suomen ilmastoasioiden kansainväliseen kärkeen. Kiekko on jo liikkeellä, ratkaisun paikka on nyt.
 
 ---

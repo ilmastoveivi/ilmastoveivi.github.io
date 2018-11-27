@@ -4,10 +4,12 @@
 
 $accent1: #00a0d2;
 $accent2: #39474f;
-$text: #000000;
-$heading: #000000;
+$text: #5784ff;
+$heading: #5784ff;
 $brand-color-blue: #CCDAFF;
 $brand-color-white: white;
+$brand-color-black: black;
+$brand-color-brown: #ff8978;
 $body-weight: 500;
 $heading-weight: 900;
 $font: 'Libre Franklin', sans-serif;
@@ -263,8 +265,8 @@ button,
 }
 
 #sign-button {
-  transform: rotate(-7deg);
-    font-size: 1.5em;
+  background-color: $brand-color-brown;
+  color: $brand-color-black;
 }
 
 button i,
