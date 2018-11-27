@@ -2,12 +2,17 @@
 layout: default
 title:
 button-text: No tottakai allekirjoitan!
+summary-text: Ilmastoveivillä kampeamme Suomen ilmastoasioiden kansainväliseen kärkeen. Kiekko on jo liikkeellä, ratkaisun paikka on nyt.
+
 ---
 
-## Alaotsikko ohjaa kohti leipätekstiä kuin kurkiaura konsanaan
+## Tavoite
 
-Mieleni minun tekevi, aivoni ajattelevi lähteäni laulamahan, saa'ani sanelemahan, sukuvirttä suoltamahan, lajivirttä laulamahan. Sanat suussani sulavat, puhe'et putoelevat, kielelleni kerkiävät, hampahilleni hajoovat.
+Suomi on EU:n puheenjohtajamaa heinäkuusta joulukuuhun 2019. Ilmastoveivin tähtäimessä on, että kansan tuella Suomi käyttää hyväksi EU-puheenjohtajakautensa mahdollisuudet ja ajaa tiukasti ilmaston lämpenemisen rajaamista 1,5 asteeseen. Tuolloin Suomella on puheenjohtajamaan mandaatti tehdä aloite EU:n ilmastopaketin avaamiseksi, jotta EU aloittaisi matkansa kohti kunnianhimoista, mutta välttämätöntä 1,5 asteen tavoitetta.
 
-Veli kulta, veikkoseni, kaunis kasvinkumppalini! Lähe nyt kanssa laulamahan, saa kera sanelemahan yhtehen yhyttyämme, kahta'alta käytyämme! Harvoin yhtehen yhymme, saamme toinen toisihimme näillä raukoilla rajoilla, poloisilla Pohjan mailla.
 
-Lyökämme käsi kätehen, sormet sormien lomahan, lauloaksemme hyviä, parahia pannaksemme, kuulla noien kultaisien, tietä mielitehtoisien, nuorisossa nousevassa, kansassa kasuavassa: noita saamia sanoja, virsiä virittämiä vyöltä vanhan Väinämöisen, alta ahjon Ilmarisen, päästä kalvan Kaukomielen, Joukahaisen jousen tiestä, Pohjan peltojen periltä, Kalevalan kankahilta.
+## Näin se tehdään
+
+Tämän tavoitteen saavuttamiseksi Ilmastoveivi tavoittelee 100 000 allekirjoitusta vetoomukselle, joka luovutetaan Suomen uudelle pääministerille keväällä 2019.
+
+Ilmastoveivi yhdistää suomalaiset iästä, taustasta ja elämäntilanteesta riippumatta toimimaan yhdessä ilmastonmuutoksen torjumiseksi. Ilmastoveivillä vaadimme yhteen ääneen Suomea ottamaan johtoaseman ilmastonmuutoksen pysäyttämisessä, ja päättäjiltä rohkeutta tehdä merkittäviä poliittisia ratkaisuja.
