@@ -6,7 +6,8 @@ $accent1: #00a0d2;
 $accent2: #39474f;
 $text: #000000;
 $heading: #000000;
-$body: #c9c8ca;
+$brand-color-blue: #CCDAFF;
+$brand-color-white: white;
 $body-weight: 500;
 $heading-weight: 900;
 $font: 'Libre Franklin', sans-serif;
@@ -115,9 +116,17 @@ textarea {
 
 
 body {
-    background-color: $body;
-    background-image: url('../img/bg1.png');
+    background-color: $brand-color-blue;
     font-family: $font;
+}
+
+section {
+    background-color: $brand-color-white;
+    color: $brand-color-blue;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: 40px;
+    border-radius: 10px;
 }
 
 a {
