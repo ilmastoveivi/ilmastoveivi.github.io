@@ -4,7 +4,7 @@
 
 $accent1: #00a0d2;
 $accent2: #39474f;
-$text: #5784ff;
+$text-blue: #5784ff;
 $heading: #5784ff;
 $brand-color-blue: #CCDAFF;
 $brand-color-white: white;
@@ -124,7 +124,7 @@ body {
 
 section {
     background-color: $brand-color-white;
-    color: $brand-color-blue;
+    color: $text-blue;
     padding-right: 20px;
     padding-left: 20px;
     margin-top: 40px;
@@ -133,7 +133,7 @@ section {
 
 a {
     background-color: $accent1;
-    color: $text;
+    color: $text-blue;
     text-decoration: none;
 }
 
@@ -251,7 +251,7 @@ p {
 button,
 .button {
     background-color: $accent1;
-    color: $text;
+    color: $text-blue;
     font-weight: $heading-weight;
     padding: 1em;
     border-radius: 0.25em;
