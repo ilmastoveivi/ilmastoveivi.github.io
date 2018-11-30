@@ -1,8 +1,13 @@
 ---
 layout: default
 title:
-button-text: Lue vetoomus ja allekirjoita
 summary-text: Ilmastoveivillä kampeamme Suomen ilmastoasioiden kansainväliseen kärkeen. Kiekko on jo liikkeellä, ratkaisun paikka on nyt.
+act-title: Näin vaikutat
+act-text1: Allekirjoittamalla luot joukkovoiman
+act-text2: …jolla kannustetaan poliitikkoja
+act-text3: …edistämään EU:ssa tavoitetta ilmaston lämpenemisen rajaamisesta 1,5 asteeseen
+button-text: Lue vetoomus ja allekirjoita
+
 
 ---
 

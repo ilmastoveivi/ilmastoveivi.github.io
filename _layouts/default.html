@@ -1,27 +1,35 @@
 {% include header.html %}
 
+        <h1 class="logo"><img src="img/logo.png" alt="{{site.title}}" /></h1>
 
-        <div class="animated bounceInDown"><h1 class="slogan">{{site.slogan}}</h1></div>
+        <div class=""><h1 class="slogan">{{site.slogan}}</h1></div>
 
-        <h1 class="logo animated flipInY"><img src="img/logo-large.png" alt="{{site.title}}" /></h1>
-
-        <section id="summary">
+        <section class="shaded">
             {{page.summary-text}}
         </section>
-        
+
         <section id="manifesto">
             {{content}}
         </section>
 
-        <section id="impact-steps">
-            <h2>Näin vaikutat</h2>
-            
+        <section id="act">
+            <h2>{{page.act-title}}</h2>
+
+            <h3>1</h3>
+            <p>{{page.act-text1}}</p>
+
+            <h3>2</h3>
+            <p>{{page.act-text2}}</p>
+
+            <h3>3</h3>
+            <p>{{page.act-text3}}</p>
+
         </section>
 
 
-        <section id="sign">
+        <section id="sign" class="shaded">
 
-            <div id="button-hover"><button id="sign-button"><i class="fas fa-file-signature"></i> {{page.button-text}} </button></div>
+            <div id="button-hover"><button id="sign-button"> {{page.button-text}} </button></div>
 
 
             <script src="https://embed.typeform.com/embed.js"></script>
