@@ -1,35 +1,63 @@
 {% include header.html %}
 
-        <section id="share">
+        <h1 class="thanks">{{page.title}}</h1>
 
-        <div id="thanks-check"><i class="far fa-check-circle"></i></div>
+        <!-- TODO: counter -->
 
-        {{content}}
+        <section id="thanks">
 
-            <div class="buttons">
-                <a href="https://twitter.com/intent/tweet?text={{site.share-text | uri_escape}}" target="_blank" class="button small twitter"><i class="fab fa-twitter"></i> Twitter</a>
-                <a href="https://www.facebook.com/sharer/sharer.php?u={{site.share-url | uri_escape}}" target="_blank" class="button small facebook"><i class="fab fa-facebook-square"></i> Facebook</a>
-                <a href="fb-messenger://share/?link={{site.share-url | uri_escape}}" target="_blank" class="button small messenger"><i class="fab fa-facebook-messenger"></i> Messenger</a>
-                <a href="https://api.whatsapp.com/send?text={{site.share-text | uri_escape}}" target="_blank" class="button small whatsapp"><i class="fab fa-whatsapp"></i> WhatsApp</a>
-                <a href="mailto:?subject={{site.share-title | uri_escape}}&body={{site.share-text | uri_escape}}" class="button small email"><i class="far fa-envelope"></i> Sähköposti</a>
+            <p class="intro">{{page.intro}}</p>
+
+            <div class="subsection clearfix">
+              <h2>{{page.title1}}</h2>
+              <img src="img/thanks-challenge.png" alt="" />
+              <p>{{page.text1}}</p>
             </div>
-        </p>
 
-        <h2>{{page.title2}}</h2>
+            <div class="subsection clearfix">
+              <h2>{{page.title2}}</h2>
+              <img src="img/thanks-share.png" alt="" />
+              <p>{{page.text2}}</p>
 
-            <table>
-              {% for politician in site.data.politicians-fi %}
-                <tr>
-                    <th>
-                        {{politician.name}} / {{politician.party}}
-                    </th>
-                    <td>
-                        <a href="mailto:{{politician.email}}?subject={{site.share-title | uri_escape}}&body={{site.share-text | uri_escape}}" class="button smaller"><i class="far fa-envelope"></i></a></td>
-                    <td>
-                        <a href="https://twitter.com/intent/tweet?text=%40{{politician.twitter | uri_escape }}%20{{site.share-text | uri_escape}}" class="button smaller twitter"><i class="fab fa-twitter"></i></a></td>
-                </tr>
-              {% endfor %}
-            </table>
+              <div class="buttons">
+                  <a href="https://twitter.com/intent/tweet?text={{site.share-text | uri_escape}}" target="_blank" class="button small twitter"><i class="fab fa-twitter"></i> Twitter</a>
+                  <a href="https://www.facebook.com/sharer/sharer.php?u={{site.share-url | uri_escape}}" target="_blank" class="button small facebook"><i class="fab fa-facebook-square"></i> Facebook</a>
+                  <a href="fb-messenger://share/?link={{site.share-url | uri_escape}}" target="_blank" class="button small messenger"><i class="fab fa-facebook-messenger"></i> Messenger</a>
+                  <a href="https://api.whatsapp.com/send?text={{site.share-text | uri_escape}}" target="_blank" class="button small whatsapp"><i class="fab fa-whatsapp"></i> WhatsApp</a>
+                  <a href="mailto:?subject={{site.share-title | uri_escape}}&body={{site.share-text | uri_escape}}" class="button small email"><i class="far fa-envelope"></i> Sähköposti</a>
+              </div>
+
+              <table>
+                {% for politician in site.data.politicians-fi %}
+                  <tr>
+                      <th>
+                          {{politician.name}} / {{politician.party}}
+                      </th>
+                      <td>
+                          <a href="mailto:{{politician.email}}?subject={{site.share-title | uri_escape}}&body={{site.share-text | uri_escape}}" class="button smaller"><i class="far fa-envelope"></i></a></td>
+                      <td>
+                          <a href="https://twitter.com/intent/tweet?text=%40{{politician.twitter | uri_escape }}%20{{site.share-text | uri_escape}}" class="button smaller twitter"><i class="fab fa-twitter"></i></a></td>
+                  </tr>
+                {% endfor %}
+              </table>
+
+            </div>
+
+            <div class="subsection clearfix">
+              <h2>{{page.title3}}</h2>
+              <img src="img/thanks-vote.png" alt="" />
+              <p>{{page.text3}}</p>
+            </div>
+
+            <div class="subsection clearfix">
+              <h2>{{page.title4}}</h2>
+              <p>{{page.text4}}</p>
+              <div class="buttons">
+                  <a href="https://twitter.com/{{site.twitter}}" target="_blank" class="button small twitter"><i class="fab fa-twitter"></i> Twitter</a>
+                  <a href="https://www.facebook.com/{{site.facebook}}" target="_blank" class="button small facebook"><i class="fab fa-facebook-square"></i> Facebook</a>
+              </div>
+            </div>
+
 
         </section>
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-summary-text: Ilmastoveivillä kampeamme Suomen ilmastoasioiden kansainväliseen kärkeen. Kiekko on jo liikkeellä, ratkaisun paikka on nyt.
+intro: Ilmastoveivillä kampeamme Suomen ilmastoasioiden kansainväliseen kärkeen. Kiekko on jo liikkeellä, ratkaisun paikka on nyt.
 act-title: Näin vaikutat
 act-text1: Allekirjoittamalla luot joukkovoiman
 act-text2: …jolla kannustetaan poliitikkoja

@@ -154,18 +154,18 @@ h1, h2, h3, h4 {
 }
 
 h1.logo {
-    text-align: center;
-    margin: 0 auto;
+    margin: 0;
     margin-top: 1em;
-    background-image: url('../img/ice.png');
-    background-repeat: no-repeat;
-    background-size: 100% auto;
-    height: 12em;
-}
-
-h1.logo img {
-  width: 6em;
-  margin-top: 2.6em;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    .bg {
+      width: 100%;
+    }
+    .front {
+      margin-top: -62%;
+      width: 34%;
+    }
 }
 
 h1.slogan {
@@ -175,9 +175,16 @@ h1.slogan {
     line-height: 0.75;
     text-align: center;
     margin: 0 auto;
-    margin-top: -1.85em;
+    margin-top: -1.7em;
     width: 60%;
     transform: rotate(-11deg);
+}
+
+h1.thanks {
+  text-transform: uppercase;
+  font-size: 12em;
+  text-align: center;
+  margin: 0;
 }
 
 h2 {
@@ -198,44 +205,46 @@ p {
   font-weight: $body-weight;
 }
 
-
 .shaded {
   background: -webkit-linear-gradient(left, $color-container-tint 0, #fff 100%);
   background-color: $color-container-tint;
+}
+
+#intro {
+  margin-top: 0;
+}
+
+.intro {
   font-weight: $heading-weight;
   font-size: 1.3em;
-  padding-left: 4em;
-  padding-right: 4em;
+  margin: 0.5em 0;
+  padding-left: 5%;
+  padding-right: 5%;
   text-align: center;
 }
 
-.marker {
-    text-align: center;
-    color: #888;
+#act div {
+  float: left;
+  width: 28%;
+  padding: 0 2.5%;
+  text-align: center;
+  img {
+    display:block;
+    width: 100%;
+  }
 }
 
-#sign {
-
-}
-
-#sign-embedded {
-    border: 1px solid $color-accent1;
-    height: 30em;
-    border-radius: 1em;
-    background-color: antiquewhite;
-}
-
-#skip {
-    text-align: center;
-    margin-top: -2em;
-    margin-bottom: 3em;
+#thanks {
+  h2 {
+    text-align: left;
+  }
+  img {
+      float: right;
+  }
 }
 
 #share {
     text-align: center;
-}
-
-#share p {
 }
 
 #share table {
@@ -251,19 +260,6 @@ p {
 #share table th {
     text-align: left;
     padding-right: 1em;
-}
-
-#thanks-check {
-  text-align: center;
-  font-size: 3em;
-  margin-top: 2em;
-  margin-bottom: -1.5em;
-}
-
-#thanks-check .far {
-    display: block;
-    font-size: 250%;
-    margin-bottom: 0.2em;
 }
 
 
@@ -287,6 +283,8 @@ button,
 #sign-button {
   background-color: $color-accent1;
   color: $color-text-dark;
+  font-size: 1.3em;
+  margin: 1em auto;
 }
 
 button i,
@@ -312,19 +310,27 @@ button i,
 }
 
 .twitter {
+    background: transparent;
     background-color: #1da1f2 !important;
+    color: white !important;
 }
 
 .facebook {
+    background: transparent;
     background-color: #4267b2 !important;
+    color: white !important;
 }
 
 .messenger {
+    background: transparent;
     background-color: #0084ff !important;
+    color: white !important;
 }
 
 .whatsapp {
+    background: transparent;
     background-color: #01e675 !important;
+    color: white !important;
 }
 
 .button.smaller {
@@ -336,31 +342,29 @@ button i,
 }
 
 .buttons {
-    text-align: center;
     margin-top: 1em;
     margin-bottom: 2em;
 }
 
 footer {
     margin-top: 2em;
-    padding-top: 2em;
-    margin-right: 2em;
-    margin-left: 2em;
     text-align: center;
+    a {
+      color: $color-text-dark;
+      background: transparent;
+      border-bottom: 1px dotted $color-text;
+    }
+    a:hover {
+      background: $color-accent1;
+      border-bottom: 1px solid $color-text-dark;
+    }
+    #legal {
+      color: $color-text-dark;
+      font-size: 0.6em;
+    }
+
 }
 
-footer p {
-}
-
-footer a {
-
-}
-
-#legal {
-  color: $color-text-dark;
-  font-size: 0.6em;
-    margin-top: 3em;
-}
 
 
 /* ==========================================================================

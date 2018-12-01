@@ -4,13 +4,14 @@ title: Ilmastoveivi
 desc: Ilmastoveivillä kampeamme Suomen ilmastoasioiden kansainväliseen kärkeen. Kiekko on jo liikkeellä, ratkaisun paikka on nyt.
 image: https://ilmastoveivi2019.fi/img/todo.png
 twitter: todo
+facebook: todo
 slogan: Ollaan me ihmeitä ennenkin tehty
 share-title: Ollaan me ihmeitä ennenkin tehty
-share-text: Ilmastoveivillä kampeamme Suomen ilmastoasioiden kansainväliseen kärkeen. Kiekko on jo liikkeellä, ratkaisun paikka on nyt.
+share-text: Ilmastoveivillä kampeamme Suomen ilmastoasioiden kansainväliseen kärkeen. Kiekko on jo liikkeellä, ratkaisun paikka on nyt. http://ilmastoveivi2019.fi
 share-url: https://ilmastoveivi2019.fi
 ga: UA-129569534-1
 typeform-url: https://ilmastoveivi.typeform.com/to/i8v9Ap
-redirect-url: https://ilmastoveivi.github.io/kiitos.html
+redirect-url: http://127.0.0.1:4000/kiitos.html
 
 
 # Build settings

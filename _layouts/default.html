@@ -1,28 +1,38 @@
 {% include header.html %}
 
-        <h1 class="logo"><img src="img/logo.png" alt="{{site.title}}" /></h1>
+        <h1 class="logo">
+            <img class="bg" src="img/ice.png" alt="" />
+            <img class="front" src="img/logo.png" alt="{{site.title}}" />
+          </h1>
 
         <div class=""><h1 class="slogan">{{site.slogan}}</h1></div>
 
-        <section class="shaded">
-            {{page.summary-text}}
+        <section class="shaded" id="intro">
+            <p class="intro">{{page.intro}}</p>
         </section>
 
-        <section id="manifesto">
+        <section>
             {{content}}
         </section>
 
-        <section id="act">
+
+        <section id="act" class="clearfix">
             <h2>{{page.act-title}}</h2>
 
-            <h3>1</h3>
-            <p>{{page.act-text1}}</p>
+            <div>
+              <img src="img/number-1.png" alt="1">
+              <p>{{page.act-text1}}</p>
+            </div>
 
-            <h3>2</h3>
-            <p>{{page.act-text2}}</p>
+            <div>
+              <img src="img/number-2.png" alt="2">
+              <p>{{page.act-text2}}</p>
+            </div>
 
-            <h3>3</h3>
-            <p>{{page.act-text3}}</p>
+            <div>
+              <img src="img/number-3.png" alt="3">
+              <p>{{page.act-text3}}</p>
+            </div>
 
         </section>
 
@@ -38,8 +48,8 @@
                 window.addEventListener('DOMContentLoaded', function() {
                     popup = window.typeformEmbed.makePopup('{{site.typeform-url}}', {
                         autoClose: 1,
-                        hideHeaders: true,
-                        hideFooter: true,
+                        hideHeaders: false,
+                        hideFooter: false,
                         onSubmit: function() {
                             console.log('Typeform successfully submitted');
                             window.location.href = '{{site.redirect-url}}'

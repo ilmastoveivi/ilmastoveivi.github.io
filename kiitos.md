@@ -1,13 +1,17 @@
 ---
-title: Kiitos!
-title2: Tavoita poliitikot!
 layout: thanks
+title: Kiitos!
+intro: Jos pääsit vaikuttamisen makuun, tässä vielä muita tapoja siihen
+title1: Haasta
+text1: Haasta koulusi / työpaikkasi / harrastusseurasi / ompeluseurasi / pubivisaseurueesi / päiväkotisi / puskaradiosi / vanhainkotisi / järjestösi / seurakuntasi / taloyhtiösi / kirjekaverisi / bändikerhosi / lähikauppasi / urheilujärjestösi / avantouintiseurasi / baarikoplasi / bingokerhosi / opiskelijajärjestösi / lukupiirisi / kuorosi / someyhteisösi / uimakoulusi / saunaseurasi mukaan veivaamaan!
+title2: Jaa
+text2: Kerro Ilmastoveivistä somessa! Julkista keskustelua tarvitaan laajemman tason vaikuttavien ratkaisujen aikaansaamiseksi
+title3: Äänestä
+text3: Äänestä kevään 2019 eduskuntavaaleissa ja tue poliitikkoja, jotka ovat sitoutuneet ilmaston lämpenemisen hillitsemiseen. Lähetä ehdokkaallesi linkki Ilmastoveivi- kampanjaan ja kysy onko hän sitoutunut sen tavoitteisiin. Vastuu ei ole pelkästään yksilöillä, vaan poliittisessa päätöksenteossa, johon sinäkin voit vaikuttaa.
+title4: Seuraa
+text4: Lorem ipsum dolor sit amet jotain tekstiä tähänkin jookos
+
+
 ---
 
-# Kiitos!
-
-Siitä vanha Väinämöinen itse korjasta kohosi, nousi reestä nostamatta, yleni ylentämättä; tuosta pirttihin tulevi, alle kattojen ajaikse
-
-## Pistetään jakaen!
-
-Tuoahan hopeatuoppi, kultakannu kannetahan: ei veä vähäistäkänä, pikkuistakana piätä verta vanhan Väinämöisen, hurmetta jalon urohon.
+sdfs
