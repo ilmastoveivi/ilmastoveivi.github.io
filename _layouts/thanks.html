@@ -1,22 +1,22 @@
 {% include header.html %}
 
-        <h1 class="thanks">{{page.title}}</h1>
+        <h1 class="thanks animated zoomIn faster">{{page.title}}</h1>
 
         <!-- TODO: counter -->
 
-        <section id="thanks">
+        <section id="thanks" class="animated fadeIn">
 
             <p class="intro">{{page.intro}}</p>
 
             <div class="subsection clearfix">
               <h2>{{page.title1}}</h2>
-              <img src="img/thanks-challenge.png" alt="" />
+              <div class="right"><img src="img/thanks-challenge.png" alt="" /></div>
               <p>{{page.text1}}</p>
             </div>
 
             <div class="subsection clearfix">
               <h2>{{page.title2}}</h2>
-              <img src="img/thanks-share.png" alt="" />
+              <div class="right"><img src="img/thanks-share.png" alt="" /></div>
               <p>{{page.text2}}</p>
 
               <div class="buttons">
@@ -27,6 +27,7 @@
                   <a href="mailto:?subject={{site.share-title | uri_escape}}&body={{site.share-text | uri_escape}}" class="button small email"><i class="far fa-envelope"></i> Sähköposti</a>
               </div>
 
+              TÄMÄ VIELÄ KESKEN:
               <table>
                 {% for politician in site.data.politicians-fi %}
                   <tr>
@@ -45,7 +46,7 @@
 
             <div class="subsection clearfix">
               <h2>{{page.title3}}</h2>
-              <img src="img/thanks-vote.png" alt="" />
+              <div class="right"><img src="img/thanks-vote.png" alt="" /></div>
               <p>{{page.text3}}</p>
             </div>
 
@@ -60,6 +61,5 @@
 
 
         </section>
-
 
 {% include footer.html %}

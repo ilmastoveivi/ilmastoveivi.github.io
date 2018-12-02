@@ -16,6 +16,8 @@ $body-font: 'Chakra Petch', sans-serif;
 $heading-font: agency-fb-condensed, sans-serif;
 $slogan-font: learning-curve, sans-serif;
 $slogan-weight: 700;
+$line-height-normal: 1.35;
+$line-height-tighter: 1.15;
 
 
 /*! HTML5 Boilerplate v6.1.0 | MIT License | https://html5boilerplate.com/ */
@@ -32,7 +34,7 @@ $slogan-weight: 700;
 
 html {
     font-size: calc(0.8em + 1vw);
-    line-height: 1.2;
+    line-height: $line-height-normal;
 }
 
 /*
@@ -153,6 +155,12 @@ h1, h2, h3, h4 {
   color: $color-heading;
 }
 
+#basic h1 {
+  text-transform: uppercase;
+  font-size: 4em;
+  text-align: center;
+}
+
 h1.logo {
     margin: 0;
     margin-top: 1em;
@@ -182,9 +190,12 @@ h1.slogan {
 
 h1.thanks {
   text-transform: uppercase;
-  font-size: 12em;
+  font-size: 37vw; //to make it about the width of the <section> below
+  line-height: 1;
   text-align: center;
   margin: 0;
+  margin-top: 0.1em;
+  margin-bottom: -0.1em;
 }
 
 h2 {
@@ -192,6 +203,7 @@ h2 {
     font-size: 3em;
     margin: 0;
     text-transform: uppercase;
+    line-height: 1;
 }
 
 h4 {
@@ -205,6 +217,11 @@ p {
   font-weight: $body-weight;
 }
 
+#basic p {
+  font-size: 0.9em;
+  line-height: $line-height-tighter;
+}
+
 .shaded {
   background: -webkit-linear-gradient(left, $color-container-tint 0, #fff 100%);
   background-color: $color-container-tint;
@@ -212,34 +229,60 @@ p {
 
 #intro {
   margin-top: 0;
+  animation-delay: 0.5s;
+}
+
+#front-main, #act, #sign {
+  animation-delay: 0.8s;
+}
+
+#thanks {
+  animation-delay: 0.3s;
 }
 
 .intro {
   font-weight: $heading-weight;
   font-size: 1.3em;
+  line-height: $line-height-tighter;
   margin: 0.5em 0;
   padding-left: 5%;
   padding-right: 5%;
   text-align: center;
 }
 
-#act div {
-  float: left;
-  width: 28%;
-  padding: 0 2.5%;
-  text-align: center;
-  img {
-    display:block;
-    width: 100%;
+#act {
+  padding: 1em 0;
+  div {
+    float: left;
+    width: 28%;
+    padding: 0 2.5%;
+    text-align: center;
+    p {
+      line-height: $line-height-tighter;
+    }
+    img {
+      display:block;
+      width: 100%;
+    }
   }
 }
 
 #thanks {
-  h2 {
-    text-align: left;
-  }
-  img {
+  .subsection {
+    h2 {
+      text-align: left;
+    }
+    p {
+      line-height: $line-height-tighter;
+      width: 55%;
+    }
+    .right {
       float: right;
+      width: 45%;
+    }
+    img {
+        width: 100%;
+    }
   }
 }
 
@@ -305,8 +348,9 @@ button i,
   color: $color-text-dark;
     display: inline-block;
     margin-top: 0;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.75em;
     margin-right: 0.5em;
+    padding: 0.6em 1em;
 }
 
 .twitter {
@@ -349,6 +393,9 @@ button i,
 footer {
     margin-top: 2em;
     text-align: center;
+    p {
+      line-height: $line-height-tighter;
+    }
     a {
       color: $color-text-dark;
       background: transparent;
@@ -455,11 +502,107 @@ footer {
 }
 
 /* ==========================================================================
-   EXAMPLE Media Queries for Responsive Design.
-   These examples override the primary ('mobile first') styles.
-   Modify as content requires.
+   Media Queries for Responsive Design.
    ========================================================================== */
 
+@media only screen and (max-width: 1030px) {
+  html {
+      font-size: calc(0.6em + 1vw); //smaller base size for fonts
+  }
+}
+
+@media only screen and (max-width: 780px) {
+  article {
+    //max-width: none;
+    padding: 0 1.5em 5em 1.5em;
+  }
+  section {
+    padding: 1em 2em;
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  h1.slogan {
+    width: 80%;
+    margin-top: -1.6em;
+  }
+  .intro {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  #act div p {
+    font-size: 0.85em;
+  }
+  #thanks .subsection p {
+    width: 65%;
+  }
+  #thanks .subsection .right {
+    width: 35%;
+  }
+}
+
+@media only screen and (max-width: 560px) {
+  html {
+    font-size: calc(0.8em + 1vw); //larger base size again as it's otherwise starting to get undreadably small
+  }
+  h1.logo .front {
+    margin-top: -65%;
+  }
+  h1.slogan {
+    font-size: 2.9em;
+    width: 90%;
+    margin-top: -1.4em;
+  }
+  #thanks .subsection p {
+    width: 100%;
+  }
+  #thanks .subsection .right {
+    width: 100%;
+    text-align: center;
+  }
+  #thanks .subsection .right img {
+    width: 60%;
+    margin: 0 auto;
+  }
+
+}
+
+@media only screen and (max-width: 440px) {
+  h1.logo .front {
+    margin-top: -67%;
+  }
+  #act div p {
+    font-size: 0.7em;
+  }
+
+}
+
+@media only screen and (max-width: 380px) {
+  section {
+    padding: 1em 1.5em;
+  }
+  h1.slogan {
+    font-size: 2.5em;
+  }
+}
+
+@media only screen and (max-width: 319px) {
+  #act {
+    padding: 1em 1.5em;
+    div {
+      float: none;
+      width: 100%;
+      padding: 0;
+      img {
+        width: 40%;
+        margin: 0 auto;
+      }
+      p {
+        font-size: 1em;
+      }
+    }
+  }
+}
 
 
 @media print,
