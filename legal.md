@@ -1,25 +1,32 @@
 ---
 layout: basic
-title: Käyttöehdot tjsp
+title: Tietosuojaseloste
 
 ---
 
 ## Väliotsikko
 
-Mieleni minun tekevi, aivoni ajattelevi
-lähteäni laulamahan, saa'ani sanelemahan, sukuvirttä suoltamahan, lajivirttä laulamahan. Sanat suussani sulavat, puhe'et putoelevat, kielelleni kerkiävät, hampahilleni hajoovat.
+Dokumentti ilmentää miten henkilötietojen suoja on toteutettu Ilmastoveivi2019 –kampanjan tietosuojakäytännön puitteissa. 
+Käsittelemme tietojasi vastuullisesti ja haluamme olla luottamuksesi arvoisia. Voit halutessasi vaikuttaa tapaan, jolla käsittelemme tietojasi. Tietosuojakäytännöstämme tulee ilmi henkilötietoihin liittyvät oikeutesi sekä ohjeistus niiden käyttöön liittyen.
 
-Veli kulta, veikkoseni, kaunis kasvinkumppalini! Lähe nyt kanssa laulamahan, saa kera sanelemahan yhtehen yhyttyämme, kahta'alta käytyämme! Harvoin yhtehen yhymme, saamme toinen toisihimme näillä raukoilla rajoilla, poloisilla Pohjan mailla.
+Tietosi tallennetaan allekirjoittaessasi tältä sivustolta löytyvän vetoomuksen ja täten ilmoittautuessasi Ilmastoveivi2019 –kampanjaan.  Käsittelemme tietoja kerätessämme informaatiota vetoomusta varten ja tarjotaksemme sinulle hienon kokemuksen kampanjan osallisena. Keräämämme tiedot auttavat meitä ymmärtämään ilmastonmuutos kampanjoinnin tavoittaman yleisön mielenkiinnonkohteita, joka auttaa meitä tavoittessamme luoda kampanjaan osallistuville miellyttävämpi kokemus. 
 
-Lyökämme käsi kätehen, sormet sormien lomahan, lauloaksemme hyviä, parahia pannaksemme, kuulla noien kultaisien, tietä mielitehtoisien, nuorisossa nousevassa, kansassa kasuavassa: noita saamia sanoja, virsiä virittämiä vyöltä vanhan Väinämöisen, alta ahjon Ilmarisen, päästä kalvan Kaukomielen, Joukahaisen jousen tiestä, Pohjan peltojen periltä, Kalevalan kankahilta.
-Niit' ennen isoni lauloi kirvesvartta vuollessansa; niitä äitini opetti väätessänsä värttinätä, minun lasna lattialla eessä polven pyöriessä, maitopartana pahaisna, piimäsuuna pikkaraisna. Sampo ei puuttunut sanoja eikä Louhi luottehia: vanheni sanoihin sampo, katoi Louhi luottehisin, virsihin Vipunen kuoli, Lemminkäinen leikkilöihin.
 
-## Väliotsikko
+## Mistä keräämme tietoja?
 
-Viel' on muitaki sanoja, ongelmoita oppimia: tieohesta tempomia, kanervoista katkomia, risukoista riipomia, vesoista vetelemiä, päästä heinän hieromia, raitiolta ratkomia, paimenessa käyessäni, lasna karjanlaitumilla, metisillä mättähillä, kultaisilla kunnahilla, mustan Muurikin jälessä, Kimmon kirjavan keralla.
+Esimerkkejä tilanteista, jolloin henkilötietojasi tullaan keräämään:
+  - Osallistujaksi rekisteröidyttyäsi tai allekirjoittaessasi nimesi listaan
+  - Ilmoittautuessasi vapaaehtoiseksi
+  - Rekisteröityessäsi osallistujaksi yhteen tai useampaan tapahtumistamme
+  - Antaessasi luvan uutiskirjeemme lähettämiseen sekä viestien vastaanottamiseen
+  - Ottaessasi osaa joihinkin kampanjoistamme, tutkimuksistamme tai mielipidekyselyistämme
+  - Antaessasi meille palautetta, jättäessäsi meille viestin yhteydenottoa varten tai ottaessasi muulla tavalla meihin yhteyttä 
+  - Ollessasi yhteyshenkilönä tai edustajana jossain sidosryhmistämme.
+  - Jakaessasi, julkaistaessasi tai kommentoidessasi sisältöämme tai lähettäessäsi viestin sosiaalisen median kanavissamme. 
+Harjoitamme sosiaalisen median seurantaa yleisellä tasolla ymmärtääksemme osallistujiamme sekä kehittääksemme markkinointiamme.
+ 
+Henkilötietojesi kerääminen ja käsittely myös muista julkisista rekistereistä on mahdollista.
 
-Vilu mulle virttä virkkoi, sae saatteli runoja. Virttä toista tuulet toivat, meren aaltoset ajoivat. Linnut liitteli sanoja, puien latvat lausehia.
 
-Ne minä kerälle käärin, sovittelin sommelolle. Kerän pistin kelkkahani, sommelon rekoseheni; ve'in kelkalla kotihin, rekosella riihen luoksi; panin aitan parven päähän vaskisehen vakkasehen.
+## Minkälaisia tietoja keräämme?
 
-Viikon on virteni vilussa, kauan kaihossa sijaisnut. Veänkö vilusta virret, lapan laulut pakkasesta, tuon tupahan vakkaseni, rasian rahin nenähän, alle kuulun kurkihirren, alle kaunihin katoksen, aukaisen sanaisen arkun, virsilippahan viritän, kerittelen pään kerältä, suorin solmun sommelolta?
