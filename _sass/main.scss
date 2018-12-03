@@ -33,7 +33,7 @@ $line-height-tighter: 1.15;
    ========================================================================== */
 
 html {
-    font-size: calc(0.8em + 1vw);
+    font-size: calc(0.7em + 1vw);
     line-height: $line-height-normal;
 }
 
@@ -155,12 +155,6 @@ h1, h2, h3, h4 {
   color: $color-heading;
 }
 
-#basic h1 {
-  text-transform: uppercase;
-  font-size: 4em;
-  text-align: center;
-}
-
 h1.logo {
     margin: 0;
     margin-top: 1em;
@@ -190,7 +184,7 @@ h1.slogan {
 
 h1.thanks {
   text-transform: uppercase;
-  font-size: 37vw; //to make it about the width of the <section> below
+  font-size: 33vw; //to make it about the width of the <section> below
   line-height: 1;
   text-align: center;
   margin: 0;
@@ -201,7 +195,7 @@ h1.thanks {
 h2 {
     text-align: center;
     font-size: 3em;
-    margin: 0;
+    margin: 0.75em 0;
     text-transform: uppercase;
     line-height: 1;
 }
@@ -217,9 +211,21 @@ p {
   font-weight: $body-weight;
 }
 
-#basic p {
-  font-size: 0.9em;
-  line-height: $line-height-tighter;
+#basic {
+  h1 {
+    text-transform: uppercase;
+    font-size: 4em;
+    text-align: center;
+    line-height: 1;
+    overflow-wrap: break-word;
+  }
+  h2 {
+    font-size: 2em;
+  }
+  p, ul {
+    font-size: 0.8em;
+    line-height: $line-height-tighter;
+  }
 }
 
 .shaded {
@@ -268,6 +274,7 @@ p {
 }
 
 #thanks {
+  padding-bottom: 4em;
   .subsection {
     h2 {
       text-align: left;
@@ -283,26 +290,40 @@ p {
     img {
         width: 100%;
     }
+    &.full-width {
+      p {
+        width: 100%;
+      }
+    }
   }
+
 }
 
-#share {
-    text-align: center;
-}
 
-#share table {
+#politicians table {
     margin: 0 auto;
     margin-top: 1em;
 }
 
-#share table td, #share table th {
+#politicians td, #politicians th {
   padding: 0.25em 0;
-  border-bottom: 1px solid #888;
 }
 
-#share table th {
+#politicians th {
     text-align: left;
     padding-right: 1em;
+}
+
+.toggle-content {
+	display: none;
+	height: 0;
+	overflow: hidden;
+	transition: height 350ms ease-in-out;
+}
+
+.toggle-content.is-visible {
+	display: block;
+	height: auto;
 }
 
 
@@ -321,6 +342,17 @@ button,
     margin: 0 auto;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+    &:hover {
+      transform: scale(1.1);
+      box-shadow: -4px 8px 40px rgba($color-text, 0.6);
+    }
+    &:active, &:focus {
+      background: $color-accent1;
+      outline: none;
+      transform: scale(1.07);
+    }
 }
 
 #sign-button {
@@ -387,7 +419,7 @@ button i,
 
 .buttons {
     margin-top: 1em;
-    margin-bottom: 2em;
+    margin-bottom: 0;
 }
 
 footer {
@@ -505,11 +537,6 @@ footer {
    Media Queries for Responsive Design.
    ========================================================================== */
 
-@media only screen and (max-width: 1030px) {
-  html {
-      font-size: calc(0.6em + 1vw); //smaller base size for fonts
-  }
-}
 
 @media only screen and (max-width: 780px) {
   article {
@@ -564,29 +591,6 @@ footer {
     width: 60%;
     margin: 0 auto;
   }
-
-}
-
-@media only screen and (max-width: 440px) {
-  h1.logo .front {
-    margin-top: -67%;
-  }
-  #act div p {
-    font-size: 0.7em;
-  }
-
-}
-
-@media only screen and (max-width: 380px) {
-  section {
-    padding: 1em 1.5em;
-  }
-  h1.slogan {
-    font-size: 2.5em;
-  }
-}
-
-@media only screen and (max-width: 319px) {
   #act {
     padding: 1em 1.5em;
     div {
@@ -604,6 +608,20 @@ footer {
   }
 }
 
+@media only screen and (max-width: 440px) {
+  h1.logo .front {
+    margin-top: -67%;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  section {
+    padding: 1em 1.5em;
+  }
+  h1.slogan {
+    font-size: 2.5em;
+  }
+}
 
 @media print,
 (-webkit-min-device-pixel-ratio: 1.25),

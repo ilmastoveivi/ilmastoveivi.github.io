@@ -9,7 +9,7 @@ text2: Kerro Ilmastoveivistä somessa! Julkista keskustelua tarvitaan laajemman 
 title3: Äänestä
 text3: Äänestä kevään 2019 eduskuntavaaleissa ja tue poliitikkoja, jotka ovat sitoutuneet ilmaston lämpenemisen hillitsemiseen. Lähetä ehdokkaallesi linkki Ilmastoveivi- kampanjaan ja kysy onko hän sitoutunut sen tavoitteisiin. Vastuu ei ole pelkästään yksilöillä, vaan poliittisessa päätöksenteossa, johon sinäkin voit vaikuttaa.
 title4: Seuraa
-text4: Lorem ipsum dolor sit amet jotain tekstiä tähänkin jookos
+text4: Seuraa Ilmastoveiviä somessa ja pysyt ajan tasalla kampanjan edistymisestä!
 
 
 ---
