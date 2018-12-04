@@ -64,11 +64,8 @@ Tietojasi käsitellään Ilmastoveivi2019 –tiimissä. Voimme luovuttaa tietoja
 
 ## Siirrämmekö tietojasi yli EU:n ja EEA:n rajojen? (“kolmansiin maihin”)?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis cursus metus, nec interdum dui lacinia eget. Nulla lacinia massa sed nisi vestibulum, nec condimentum lacus mattis. Nullam ut orci in tellus dictum cursus. Integer sit amet mi eu odio tincidunt rutrum et in quam. Curabitur pretium sapien leo, ut rhoncus sem facilisis eget. Praesent eros dui, lacinia sit amet laoreet vitae, sollicitudin eu arcu. Fusce a interdum justo, sit amet aliquet libero.
+Käyttäessäsi Facebook –yhteisöpalvelua tai Instagramia, tietojasi voidaan siirtää Yhdysvaltoihin. Yhdysvalloissa toimivat palveluntarjoajamme noudattavat EU: n ja Yhdysvaltojen tietosuojasopimusta koskevia sääntöjä riittävän tietosuojan varmistamiseksi. Voit lukea lisätietoja EU: n ja Yhdysvaltojen välisestä tietosuojasopimuksesta Euroopan komission verkkosivustolta.
 
-## Millaisia evästeitä käytämme ja evästeisiin liittyvät tiedot:
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis cursus metus, nec interdum dui lacinia eget. Nulla lacinia massa sed nisi vestibulum, nec condimentum lacus mattis. Nullam ut orci in tellus dictum cursus. Integer sit amet mi eu odio tincidunt rutrum et in quam. Curabitur pretium sapien leo, ut rhoncus sem facilisis eget. Praesent eros dui, lacinia sit amet laoreet vitae, sollicitudin eu arcu. Fusce a interdum justo, sit amet aliquet libero.
 
 ## Kuinka voit vaikuttaa henkilötietojesi käsittelyyn?
 
