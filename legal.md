@@ -67,6 +67,15 @@ Tietojasi käsitellään Ilmastoveivi2019 –tiimissä. Voimme luovuttaa tietoja
 Käyttäessäsi Facebook –yhteisöpalvelua tai Instagramia, tietojasi voidaan siirtää Yhdysvaltoihin. Yhdysvalloissa toimivat palveluntarjoajamme noudattavat EU: n ja Yhdysvaltojen tietosuojasopimusta koskevia sääntöjä riittävän tietosuojan varmistamiseksi. Voit lukea lisätietoja EU: n ja Yhdysvaltojen välisestä tietosuojasopimuksesta Euroopan komission verkkosivustolta.
 
 
+## Millaisia evästeitä käytämme ja evästeisiin liittyvät tiedot:
+
+Sivulla käytetään Google Analytics palvelua, joka käyttää evästeitä toimiakseen. Näitä tietoja käytetään parantamaan käyttäjäkokemusta sivustolla. 
+
+Allekirjoitustoimintoon käytetään TypeForm palvelua, joka käyttää evästeitä toimintaansa. TypeFormin evästeistä ja muusta datan käytöstä kerrotaan esimerkiksi heidän omilla sivuillaan osoitteessa: https://www.typeform.com/help/what-happens-to-my-data/
+
+Sivusto käyttää Cloudflaren sisällönjakeluverkostoa (CDN). Cloudflare tallentaa sivulle pienen evästeen parantaakseen toimintaansa. Tästä evästeestä kerrotaan Cloudflaren sivuilla osoitteessa: https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-
+
+
 ## Kuinka voit vaikuttaa henkilötietojesi käsittelyyn?
 
 Pystyt kontrolloimaan miten Ilmastoveivi2019 –kampanja kerää ja käyttää henkilötietojasi.
