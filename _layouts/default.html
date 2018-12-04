@@ -46,12 +46,12 @@
                 let popup;
                 window.addEventListener('DOMContentLoaded', function() {
                     popup = window.typeformEmbed.makePopup('{{site.typeform-url}}', {
-                        autoClose: 1,
-                        hideHeaders: false,
+                        mode: 'popup',
+                        hideHeaders: true,
                         hideFooter: false,
                         onSubmit: function() {
                             console.log('Typeform successfully submitted');
-                            window.location.href = '{{site.redirect-url}}'
+                            window.location.href = '{{site.redirect-url}}';
                         }
                     });
 
