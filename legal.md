@@ -64,14 +64,15 @@ Tietojasi käsitellään Ilmastoveivi2019 –tiimissä. Voimme luovuttaa tietoja
 
 ## Siirrämmekö tietojasi yli EU:n ja EEA:n rajojen? (“kolmansiin maihin”)?
 
-Käyttäessäsi Facebook –yhteisöpalvelua tai Instagramia, tietojasi voidaan siirtää Yhdysvaltoihin. Yhdysvalloissa toimivat palveluntarjoajamme noudattavat EU: n ja Yhdysvaltojen tietosuojasopimusta koskevia sääntöjä riittävän tietosuojan varmistamiseksi. Voit lukea lisätietoja EU: n ja Yhdysvaltojen välisestä tietosuojasopimuksesta Euroopan komission verkkosivustolta.
+Allekirjoitukseen liittyvät tiedot siirtyvät Typeformin palveluun, jonka palvelimet sijaitsevat Yhdysvalloissa. Typeform on sitoutunut noudattamaan EU:n GDPR tietosuoja-asetusta ja kertoo siitä esimerkiksi tällä sivullaan: https://www.typeform.com/help/gdpr-compliance/
+Ilmastoveivi2019 kampanja on allekirjoittanut Typeformin kanssa tietojen käsittelyä koskevan DPA-sopimuksen. 
 
 
 ## Millaisia evästeitä käytämme ja evästeisiin liittyvät tiedot:
 
 Sivulla käytetään Google Analytics palvelua, joka käyttää evästeitä toimiakseen. Näitä tietoja käytetään parantamaan käyttäjäkokemusta sivustolla. 
 
-Allekirjoitustoimintoon käytetään TypeForm palvelua, joka käyttää evästeitä toimintaansa. TypeFormin evästeistä ja muusta datan käytöstä kerrotaan esimerkiksi heidän omilla sivuillaan osoitteessa: https://www.typeform.com/help/what-happens-to-my-data/
+Allekirjoitustoimintoon käytetään Typeform palvelua, joka käyttää evästeitä toimintaansa. Typeformin evästeistä ja muusta datan käytöstä kerrotaan esimerkiksi heidän omilla sivuillaan osoitteessa: https://www.typeform.com/help/what-happens-to-my-data/
 
 Sivusto käyttää Cloudflaren sisällönjakeluverkostoa (CDN). Cloudflare tallentaa sivulle pienen evästeen parantaakseen toimintaansa. Tästä evästeestä kerrotaan Cloudflaren sivuilla osoitteessa: https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-
 
