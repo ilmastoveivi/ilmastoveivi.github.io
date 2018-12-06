@@ -1,6 +1,5 @@
 ---
-layout: basic
-title: 
+layout: basic-no-title
 
 ---
 
