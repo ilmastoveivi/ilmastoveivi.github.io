@@ -20,4 +20,4 @@ Suomi on EU:n puheenjohtajamaa heinäkuusta joulukuuhun 2019. Ilmastoveivi2019 -
 
 Tämän tavoitteen saavuttamiseksi Ilmastoveivi2019 tavoittelee 500 000 allekirjoitusta vetoomukselle, joka luovutetaan Suomen uudelle pääministerille keväällä 2019.
 
-Ilmastoveivi2019 yhdistää suomalaiset iästä, taustasta ja elämäntilanteesta riippumatta toimimaan yhdessä ilmastonmuutoksen torjumiseksi. Ilmastoveivillä vaadimme yhteen ääneen Suomea ottamaan johtoaseman ilmastonmuutoksen pysäyttämisessä, ja päättäjiltä rohkeutta tehdä merkittäviä poliittisia ratkaisuja.
+Ilmastoveivi2019 yhdistää suomalaiset iästä, taustasta ja elämäntilanteesta riippumatta toimimaan yhdessä ilmastonmuutoksen hillitsemiseksi. Ilmastoveivillä vaadimme yhteen ääneen Suomea ottamaan johtoaseman ilmastonmuutoksen pysäyttämisessä, ja päättäjiltä rohkeutta tehdä merkittäviä poliittisia ratkaisuja.
