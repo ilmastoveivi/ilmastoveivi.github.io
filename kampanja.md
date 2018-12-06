@@ -20,5 +20,7 @@ EU:n neuvoston puheenjohtajamaa voi tehdä ilmaston eteen paljon. Suomi voi täs
 Kampanja lähti käyntiin lokakuussa 2018 yksilöiden aloitteesta. Mukaan lähti 300 vapaaehtoista ja lukuiset yhteistyötahot ilmoittivat kiinnostuksestaan tukea kampanjaa. Kampanja on poliittisesti sitoutumaton ja pyörii täysin vapaaehtoisvoimin.
 
 Yhteyshenkilöt:
+
 Laura Kolehmainen: laura.kolehmainen@helsinki.fi
+
 Liisa Kolehmainen: liisa.kolehmainen@helsinki.fi
