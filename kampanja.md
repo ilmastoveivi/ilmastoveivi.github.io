@@ -17,6 +17,8 @@ EU:n neuvoston puheenjohtajamaa voi tehdä ilmaston eteen paljon. Suomi voi täs
 
 ## Meillä on ainutlaatuinen tilaisuus, mutta onko meillä tahto? Ilmastonmuutos ratkaistaan isojen valtioiden ja valtioliittojen linjauksissa eikä ainoastaan yksittäisten kuluttajien valinnoissa. Suomi on juuri oikeaan aikaan strategisessa pelipaikassa, ratkaisijan roolissa maailman kohtalonhetkillä. 
 
-Laura Kolehmainen
+Kampanja lähti käyntiin lokakuussa 2018 yksilöiden aloitteesta. Mukaan lähti 300 vapaaehtoista ja lukuiset yhteistyötahot ilmoittivat kiinnostuksestaan tukea kampanjaa. Kampanja on poliittisesti sitoutumaton ja pyörii täysin vapaaehtoisvoimin.
 
-Liisa Kolehmainen
+Yhteyshenkilöt:
+Laura Kolehmainen: laura.kolehmainen@helsinki.fi
+Liisa Kolehmainen: liisa.kolehmainen@helsinki.fi
