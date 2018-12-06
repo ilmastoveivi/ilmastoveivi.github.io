@@ -211,7 +211,7 @@ p {
   font-weight: $body-weight;
 }
 
-#basic {
+#basic, #campaign-page {
   h1 {
     text-transform: uppercase;
     font-size: 4em;
@@ -254,6 +254,17 @@ p {
   padding-left: 5%;
   padding-right: 5%;
   text-align: center;
+}
+
+#campaign-page .intro {
+  font-weight: $heading-weight;
+  font-size: 1.3em;
+  line-height: $line-height-tighter;
+  margin: 0.5em 0;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: center;
+  font-family: "Chakra Petch Bold";
 }
 
 #act {

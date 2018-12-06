@@ -1,6 +1,10 @@
 ---
-layout: basic-no-title
-
+layout: campaign
+highlight-text: Meillä on ainutlaatuinen tilaisuus, mutta onko meillä tahto? Ilmastonmuutos ratkaistaan isojen valtioiden ja valtioliittojen linjauksissa eikä ainoastaan yksittäisten kuluttajien valinnoissa. Suomi on juuri oikeaan aikaan strategisessa pelipaikassa, ratkaisijan roolissa maailman kohtalonhetkillä.
+campaign-people-text: Kampanja lähti käyntiin lokakuussa 2018 yksilöiden aloitteesta. Mukaan lähti 300 vapaaehtoista ja lukuiset yhteistyötahot ilmoittivat kiinnostuksestaan tukea kampanjaa. Kampanja on poliittisesti sitoutumaton ja pyörii täysin vapaaehtoisvoimin.
+contacts-title-text: Yhteyshenkilöt
+contact1: "Laura Kolehmainen: laura.kolehmainen@helsinki.fi"
+contact2: "Liisa Kolehmainen: liisa.kolehmainen@helsinki.fi"
 ---
 
 ## Ilmastoveivi on yksittäisten kansalaisten käynnistämä kampanja, joka vaikuttaa EU-politiikkaan
@@ -15,12 +19,4 @@ EU:n nykytoimilla ilmastomme lämpenee 3,5 astetta. Kansainvälinen ilmastopanee
 
 EU:n neuvoston puheenjohtajamaa voi tehdä ilmaston eteen paljon. Suomi voi tässä roolissa esimerkiksi asettaa neuvoston kokousagendalle ilmastoasiat, pyrkiä saamaan muut neuvoston jäsenet tuottamaan kanssaan päätelmät, tai omassa puheenjohtajan päätelmässään kehottaa komissiota tekemään lakialoitteen EU:n tämänhetkisen ilmastolakipaketin avaamiseksi.Lisäksi juuri Suomen kaudelle sattuu komission uuden viisivuotisen työohjelman muodostaminen, joka voi olla vielä neuvoston päätelmiäkin merkityksellisempi vaikuttamisen paikka. Suomella on rooli vaikuttaa puheenjohtajana myös tähän.
 
-## Meillä on ainutlaatuinen tilaisuus, mutta onko meillä tahto? Ilmastonmuutos ratkaistaan isojen valtioiden ja valtioliittojen linjauksissa eikä ainoastaan yksittäisten kuluttajien valinnoissa. Suomi on juuri oikeaan aikaan strategisessa pelipaikassa, ratkaisijan roolissa maailman kohtalonhetkillä. 
 
-Kampanja lähti käyntiin lokakuussa 2018 yksilöiden aloitteesta. Mukaan lähti 300 vapaaehtoista ja lukuiset yhteistyötahot ilmoittivat kiinnostuksestaan tukea kampanjaa. Kampanja on poliittisesti sitoutumaton ja pyörii täysin vapaaehtoisvoimin.
-
-Yhteyshenkilöt:
-
-Laura Kolehmainen: laura.kolehmainen@helsinki.fi
-
-Liisa Kolehmainen: liisa.kolehmainen@helsinki.fi
