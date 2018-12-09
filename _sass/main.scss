@@ -264,7 +264,7 @@ p {
   padding-left: 5%;
   padding-right: 5%;
   text-align: center;
-  font-family: "Chakra Petch Bold";
+  font-family: $body-font;
 }
 
 #act {
@@ -370,6 +370,16 @@ button,
   background-color: $color-accent1;
   color: $color-text-dark;
   font-size: 1.3em;
+  margin: 1em auto 0.5em;
+}
+#campaign-info-link-container {
+  display: flex;
+}
+#campaign-info-link {
+  background: none;
+  background-color: #CCDAFF;
+  color: $color-text-dark;
+  font-size: 0.75em;
   margin: 1em auto;
 }
 
@@ -378,11 +388,11 @@ button i,
     margin-right: 0.25em;
 }
 
-#button-hover {
+.button-hover {
   animation-play-state: paused;
 }
 
-#button-hover:hover {
+.button-hover:hover {
   animation-play-state: running;
 }
 
