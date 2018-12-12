@@ -90,3 +90,14 @@ Olet oikeutettu vaikuttamaan tietojesi käsittelyyn seuraavilla tavoilla:
   - Tietyissä tilanteissa sinulla saattaa olla oikeus rajoittaa tietojen käsittelyä (oikeus rajoittaa tietojen käsittelyä). Toisin sanoen, jos riitautat sinua koskevien tietojen oikeellisuuden, sinulla on oikeus rajoittaa tietojesi käsittelyä ajanjakson, joka tarjoaa meille mahdollisuuden varmistua tietojesi oikeellisuudesta, aikana. Lähetäthän sähköpostia kyseisen teeman tiimoilta osoitteeseen info.ilmastoveivi@gmail.com.
   - Sinulla on tietyissä tilanteissa oikeus saada tietosi poistetuksi (oikeus tulla unohdetuksi). Edellä mainittu aktualisoituu esimerkiksi silloin, kun henkilötietojesi käsittely ei ole enää tarpeellista henkilötietojen keräämisen tarkoitus huomioon ottaen, tai jos käsittely perustui suostumukseesi ja haluat peruuttaa kyseisen suostumuksen. Huomaathan, että jos henkilötietosi ovat välttämättömiä tiettyä tarkoitusta varten, kuten tapahtumaan osallistumisesi rekisteröimiseksi, emme voi poistaa henkilötietojasi. Voit lähettää meille sähköpostia osoitteeseen info.ilmastoveivi@gmail.com.
 
+## Rekisterinpitäjät
+
+Laura Kolehmainen
+laura.m.kolehmainen@helsinki.fi
++358503457828
+
+Theo Levlin
+theo.levlin@helsinki.fi
++358505283927 
+
+
