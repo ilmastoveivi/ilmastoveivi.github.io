@@ -3,7 +3,7 @@ layout: campaign
 highlight-text: Suomi on juuri oikeaan aikaan strategisessa pelipaikassa, ratkaisijan roolissa maailman kohtalonhetkillä. Meillä on ainutlaatuinen tilaisuus, mutta onko meillä tahto? 
 campaign-people-text: Ilmastoveivi2019 -kampanja lähti käyntiin lokakuussa 2018 yksityishenkilöiden aloitteesta. Mukaan on lähtenyt 300 vapaaehtoista ja lukuiset yhteistyötahot ovat ilmoittaneet kiinnostuksestaan tukea kampanjaa. Kampanja on poliittisesti sitoutumaton ja pyörii täysin vapaaehtoisvoimin.
 contacts-title-text: Yhteyshenkilöt
-contact1: "Laura Kolehmainen: laura.kolehmainen@helsinki.fi"
+contact1: "Laura Kolehmainen: laura.m.kolehmainen@helsinki.fi"
 contact2: "Liisa Kolehmainen: liisa.kolehmainen@helsinki.fi"
 contact3: "Kati Systä: kati.systa@turku.fi +358443005760"
 ---
