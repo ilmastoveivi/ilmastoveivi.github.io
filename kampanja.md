@@ -5,6 +5,7 @@ campaign-people-text: Ilmastoveivi2019 -kampanja lähti käyntiin lokakuussa 201
 contacts-title-text: Yhteyshenkilöt
 contact1: "Laura Kolehmainen: laura.kolehmainen@helsinki.fi"
 contact2: "Liisa Kolehmainen: liisa.kolehmainen@helsinki.fi"
+contact3: "Kati Systä: kati.systa@turku.fi +358443005760"
 ---
 
 ## Kaikkien kampanja
