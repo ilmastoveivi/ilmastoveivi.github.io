@@ -1,5 +1,8 @@
 ---
 layout: default
+ref: index
+lang: fi
+order: 1
 title:
 intro: Ilmastoveivillä kampeamme Suomen ilmastoasioiden kansainväliseen kärkeen. Kiekko on jo liikkeellä, ratkaisun paikka on nyt.
 act-title: Näin vaikutat

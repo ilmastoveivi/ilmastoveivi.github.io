@@ -14,6 +14,10 @@ ga: UA-129569534-1
 typeform-url: https://ilmastoveivi.typeform.com/to/WpWzgl
 redirect-url: https://ilmastoveivi2019.fi/kiitos.html
 
+index:
+    fi: index.md
+    se: se.md
+    en: en.md
 
 # Build settings
 sass:
