@@ -41,18 +41,15 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 
-<header>
-    <div class="wrapper" style="text-align: right; line-height: 2em">
-        {% assign pages=site.pages | where:"ref", page.ref | sort: 'order' %}
-        {% for page in pages %} 
-            <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> 
-        {% endfor %}
-    </div>
-</header>
-
 <body>
     <!--[if lte IE 9]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
 
   <article>
+        <div id="language-selector">
+            {% assign pages=site.pages | where:"ref", page.ref | sort: 'order' %}
+            {% for page in pages %} 
+                <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> 
+            {% endfor %}
+        </div>
