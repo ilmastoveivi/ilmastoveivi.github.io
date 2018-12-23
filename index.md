@@ -4,6 +4,7 @@ ref: index
 lang: fi
 order: 1
 title:
+slogan: Ollaan me ihmeitä ennenkin tehty
 intro: Ilmastoveivillä kampeamme Suomen ilmastoasioiden kansainväliseen kärkeen. Kiekko on jo liikkeellä, ratkaisun paikka on nyt.
 act-title: Näin vaikutat
 act-text1: Allekirjoittamalla luot joukkovoiman

@@ -1,5 +1,7 @@
 ---
 layout: thanks
+ref: kiitos
+lang: fi
 title: Kiitos!
 intro: Jos pääsit vaikuttamisen makuun, tässä vielä muita tapoja siihen
 title1: Haasta

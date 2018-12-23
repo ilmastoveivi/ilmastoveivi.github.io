@@ -4,11 +4,12 @@ ref: index
 lang: en
 order: 3
 title:
+slogan: For us, miracles are nothing new
 intro: Ilmastoveivi2019 will take Finland to the top in international climate change action. The puck has been dropped - it’s time to take it.
 act-title: How to contribute to our cause
 act-text1: By signing, people help create a momentum
 act-text2: …which encourages politicians
-act-text3: …within EU to promote the goal of limiting global warming to 1.5 degrees. 
+act-text3: …within EU to promote the goal of limiting global warming to 1.5 degrees.
 sign-button-text: Read the petition and sign
 campaign-info-link-text: Campaign background
 
@@ -25,4 +26,3 @@ Finland will hold the Presidency of the Council of the European Union in 2019 fr
 In order to achieve this goal, Ilmastoveivi2019 is looking to collect 500,000 signatures for our petition, which will be handed over to the new prime minister of Finland in the spring of 2019.
 
 The campaign aims to connect Finns – regardless of age, background, and life situation – for the sake of preventing climate change. Together through Ilmastoveivi2019, we insist that Finland must take the leading position in preventing climate change.
-

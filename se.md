@@ -2,24 +2,27 @@
 layout: default
 ref: index
 lang: se
-order: 2
+order: 3
 title:
-intro: Intro på svenska
-act-title: Svenska title
-act-text1: English
-act-text2: …jolla kannustetaan poliitikkoja
-act-text3: …edistämään EU:ssa tavoitetta ilmaston lämpenemisen rajaamisesta 1,5 asteeseen
-sign-button-text: Lue vetoomus ja allekirjoita
-campaign-info-link-text: Kampanjan tausta
+slogan: Underverk är inget nytt för oss
+intro: Ilmastoveivi2019 lyfter Finland upp på ledarplats i det internationella klimatarbetet. Klimatkampen är igång, är du med?
+act-title: Så kan du bidra
+act-text1: Genom att underteckna, skapar du kollektiv styrka
+act-text2: …som uppmuntrar politiker
+act-text3: …att inom EU verka för att begränsa den globala uppvärmningen till 1,5 grader.
+sign-button-text: Läs och underteckna appellen
+campaign-info-link-text: Kampanjens bakgrund ?
 
 
 ---
 
-## Goal
+## Goal - mål/målsättning ?
 
-Goal text in English
+Finland har EU-ordförandeskapet under hösten 2019. Ilmastoveivi2019 -kampanjen vädjar till våra politiker att ta vara på denna möjlighet för att få till stånd en klimatpolicy som stoppar den globala uppvärmningen till 1,5 grader.  Som ordförandeland kan Finland ta initiativet för att EU ska uppdatera sina klimatmål för åren 2030 och 2050. Detta krävs för att EU ska kunna nå det ambitiösa men ofrånkomliga 1,5 graders målet.
 
 
-## How to do it
+## Hur gör vi det?
 
-How to text in English
+För att nå detta mål kommer Ilmastoveivi2019-kampanjen att samla in 500 000 underskrifter i en klimatappell som presenteras för Finlands nya statsminister under våren 2019.
+
+Kampanjen riktar sig till alla finländare, oberoende av ålder, bakgrund eller livssituation, att engagera sig i kampen mot klimatförändringen.  Med Ilmastoveivi2019-kampanjen kräver vi att Finland påtar sig rollen som drivande kraft i att stoppa klimatförändringen, och att våra politiker har modet att fatta dessa viktiga beslut.

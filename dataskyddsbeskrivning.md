@@ -1,7 +1,6 @@
 ---
 layout: basic
-ref: legal
-lang: en
+lang: se
 title: Tietosuojaseloste
 
 ---
