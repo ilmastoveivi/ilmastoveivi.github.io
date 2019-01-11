@@ -121,6 +121,20 @@ textarea {
    ========================================================================== */
 
 
+
+/* ======================================================================
+   Mixins
+====================================================================== */
+
+@mixin shade($dir) {
+   background: -webkit-linear-gradient($dir, $color-container-tint, #fff);
+   background-color: $color-container-tint;
+}
+
+/* ======================================================================
+   Styles
+====================================================================== */
+
 body {
     background: -webkit-linear-gradient(top, rgba(247, 212, 205, 1) 0, rgba(206, 218, 252, 1) 850px);
     background-color: $color-body-bg;
@@ -324,6 +338,76 @@ p {
     text-align: left;
     padding-right: 1em;
 }
+
+#posts {
+  animation-delay: 1.0s;
+}
+
+.post-list-item {
+    padding: 1em 3em;
+    margin-top: 1em;
+
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    overflow: hidden;
+
+
+    p {
+      font-size: 0.8em;
+    }
+
+    h3, h5 {
+      margin: .5em 0 .5em 0;
+    }
+
+    .col {
+      flex: 1;
+    }
+    
+    a {
+      &:hover {
+        h3 {transform: translate(2px, -4px);}
+        text-shadow: -4px 8px 40px rgba($color-accent2, 0.6);
+      }
+    }
+
+    &:nth-child(even) {
+      //@include shade(left);
+      
+      .col:nth-child(1) {
+        order: 0;
+        flex-grow: 1;
+        text-align: right;
+        border-right: 1px solid $color-container-tint;
+        padding: 0 .5em 0 .5em;
+      }
+
+      .col:nth-child(2) {
+        order: 1;
+        flex-grow: 2;
+        padding: 0 .5em 0 .5em;
+      }
+    }
+  
+    &:nth-child(odd) {
+      //@include shade(right);
+
+      .col:nth-child(1) {
+        order: 1;
+        flex-grow: 1;
+        border-left: 1px solid $color-container-tint;
+        padding: 0 .5em 0 .5em;
+      }
+      .col:nth-child(2) {
+        order: 0;
+        flex-grow: 2;
+        text-align: right;
+        padding: 0 .5em 0 .5em;
+      }
+    }
+  }
+
 
 .toggle-content {
 	display: none;
