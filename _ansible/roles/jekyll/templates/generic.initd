@@ -30,13 +30,13 @@ start_service() {
 
 stop_service() {
   echo -n " * Stopping $SERVICE_NAME... "
-  start-stop-daemon -Kq -R 10 -p $PIDFILE --remove-pidfile
+  start-stop-daemon -Kq -R 10 -p $PIDFILE
   e=$?
   if [ $e -eq 1 ]; then
     echo "not running"
     return
   fi
-
+  rm -f $PID_FILE
   echo "done"
 }
 

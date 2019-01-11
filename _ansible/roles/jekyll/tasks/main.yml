@@ -15,7 +15,7 @@
   vars:
     service_name: jekyll
     daemon: /usr/local/bin/jekyll
-    daemon_opts: serve --watch --source "/vagrant" --host 0.0.0.0 --port 80
+    daemon_opts: serve --watch --source "/vagrant" --host 0.0.0.0 --port 80 --force_polling
     pidfile: /var/run/jekyll.pid
     daemon_log: /var/log/jekyll.log
 
