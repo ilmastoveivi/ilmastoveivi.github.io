@@ -8,7 +8,7 @@
   roles:
     - common
     - ruby
-    - jekyll
     - nodejs
+    - jekyll
   environment:
    lc_all: en_US.UTF-8

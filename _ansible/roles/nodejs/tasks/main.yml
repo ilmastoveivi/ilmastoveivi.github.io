@@ -40,11 +40,5 @@
     state: installed
     update_cache: yes
 
-- name: Update NPM
-  npm: name=npm global=yes state=latest
-
-# - name: Install NPM packages
-#   npm: global=yes name={{item}}
-#   with_items:
-#     - uglifyjs
-#     - csso
+# - name: Update NPM
+#   npm: name=npm global=yes state=latest
