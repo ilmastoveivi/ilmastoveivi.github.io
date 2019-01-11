@@ -4,6 +4,7 @@ SERVICE_NAME={{service_name}}
 DAEMON={{daemon}}
 DAEMON_OPTS="{{daemon_opts}}"
 PIDFILE={{pidfile}}
+DAEMON_LOG={{daemon_log}}
 
 if [ ! -x $DAEMON ]; then
   echo "ERROR: Can't execute $DAEMON."
@@ -12,7 +13,7 @@ fi
 
 start_service() {
   echo -n " * Starting $SERVICE_NAME... "
-  start-stop-daemon -m -b -Sq -p $PIDFILE -x $DAEMON -- $DAEMON_OPTS
+  start-stop-daemon -m -b -Sq -p $PIDFILE --startas /bin/bash -- -c "exec $DAEMON $DAEMON_OPTS > $DAEMON_LOG 2>&1"
   e=$?
   if [ $e -eq 1 ]; then
     echo "already running"
@@ -29,7 +30,7 @@ start_service() {
 
 stop_service() {
   echo -n " * Stopping $SERVICE_NAME... "
-  start-stop-daemon --remove-pidfile -Kq -R 10 -p $PIDFILE
+  start-stop-daemon -Kq -R 10 -p $PIDFILE --remove-pidfile
   e=$?
   if [ $e -eq 1 ]; then
     echo "not running"

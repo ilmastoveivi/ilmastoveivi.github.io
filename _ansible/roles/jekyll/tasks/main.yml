@@ -17,6 +17,7 @@
     daemon: /usr/local/bin/jekyll
     daemon_opts: serve --watch --source "/vagrant" --host 0.0.0.0 --port 80
     pidfile: /var/run/jekyll.pid
+    daemon_log: /var/log/jekyll.log
 
 - name: Make sure jekyll is running
   service:
