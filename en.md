@@ -12,6 +12,10 @@ act-text2: …which encourages politicians
 act-text3: …within EU to promote the goal of limiting global warming to 1.5 degrees.
 sign-button-text: Read the petition and sign
 campaign-info-link-text: Campaign background
+privacy-policy-text: Privacy policy
+campaign-page-link-url: /campaign
+typeform-url: https://ilmastoveivi.typeform.com/to/xqKy2P
+redirect-url: https://ilmastoveivi2019.fi/thanks.html
 
 
 ---

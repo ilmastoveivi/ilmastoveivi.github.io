@@ -11,7 +11,10 @@ act-text1: Genom att underteckna, skapar du kollektiv styrka
 act-text2: …som uppmuntrar politiker
 act-text3: …att inom EU verka för att begränsa den globala uppvärmningen till 1,5 grader.
 sign-button-text: Läs och underteckna appellen
-campaign-info-link-text: Kampanjens bakgrund ?
+campaign-info-link-text: Kampanjens bakgrund
+campaign-page-link-url: /kampanj
+typeform-url: https://ilmastoveivi.typeform.com/to/iqFagL
+redirect-url: https://ilmastoveivi2019.fi/tackar.html
 
 
 ---
