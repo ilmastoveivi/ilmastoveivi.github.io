@@ -1,0 +1,14 @@
+---
+
+- name: Provisioning for local Jekyll development on Vagrant VM
+  hosts: all
+  become: yes
+  vars:
+    ruby_version: ruby2.3
+  roles:
+    - common
+    - ruby
+    - jekyll
+    - nodejs
+  environment:
+   lc_all: en_US.UTF-8

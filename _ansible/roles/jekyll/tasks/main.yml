@@ -1,0 +1,8 @@
+---
+
+- name: Install/Update Github-Pages bundle
+  bundler: state=latest chdir=/vagrant
+  
+- name: Allow Ruby to bind port 80
+  command: setcap cap_net_bind_service=ep /usr/bin/{{ ruby_version }}
+  changed_when: false
