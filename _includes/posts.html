@@ -1,22 +1,26 @@
 <section id="posts" class="clearfix animated fadeIn">
-    <h2>{{page.posts-title}}</h2>
+    <h2>{{include.title | default: "Blogi"}}</h2>
 
     <div class="post-list">
-    {% for category in site.categories %}
-      {% if category[0] == page.lang %}
-          {% tablerow post in category[1] cols:2 %}
+    {% assign posts=site.posts | where:"lang", include.lang %}
+          {% tablerow post in posts cols:1 limit:include.limit %}
           <div class="post-list-item">
           <div class="col">
             <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-            <h5>{{ post.date | date: "%a, %b %d, %y" }}</h5>
+            <h5>{{ post.date | date: "%d.%m.%Y" }}</h5>
           </div>
           <div class="col">
             <p>{{ post.description }}</p>
           </div>
           </div>
           {% endtablerow %}
-      {% endif %}
-    {% endfor %}
+          {% if posts.size > include.limit %}
+            <div class="button-hover button-container">
+              <a class="button" href="{{include.all_posts_url}}">
+                {{include.show_all_posts | default: "Näytä kaikki"}}
+              </a>
+            </div>
+          {% endif %}
     </section>
 
 </div>

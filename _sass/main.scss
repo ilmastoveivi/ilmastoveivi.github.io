@@ -340,7 +340,22 @@ p {
 }
 
 #posts {
-  animation-delay: 1.0s;
+  animation-delay: 0.8s;
+}
+
+#logo-corner {
+  margin-top: -10%;
+  margin-left: -25%;
+  img {
+    width: 40%;
+  }
+  a {
+    background-color: transparent;
+  }
+}
+
+#post {
+  margin-top: 2em;
 }
 
 .post-list-item {
@@ -373,7 +388,6 @@ p {
     }
 
     &:nth-child(even) {
-      //@include shade(left);
       
       .col:nth-child(1) {
         order: 0;
@@ -391,8 +405,7 @@ p {
     }
   
     &:nth-child(odd) {
-      //@include shade(right);
-
+      
       .col:nth-child(1) {
         order: 1;
         flex-grow: 1;
@@ -421,6 +434,10 @@ p {
 	height: auto;
 }
 
+.button-container {
+  display: flex;
+}
+
 
 button,
 .button {
@@ -433,7 +450,7 @@ button,
     border: none;
     text-align: center;
     box-shadow: -4px 8px 20px rgba($color-text, 0.4);
-    display: block;
+    display: flex;
     margin: 0 auto;
     margin-top: 1.5em;
     margin-bottom: 1.5em;

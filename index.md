@@ -9,8 +9,9 @@ act-text3: …edistämään EU:ssa tavoitetta ilmaston lämpenemisen rajaamisest
 sign-button-text: Lue vetoomus ja allekirjoita
 campaign-info-link-text: Kampanjan tausta
 lang: fi
-posts-title: Blogi
-
+blog-title: Blogi
+blog-url: /blogi-fi
+show-all: Näytä kaikki
 ---
 
 ## Tavoite

@@ -1,11 +1,31 @@
 {% include header.html %}
+{% case page.lang %}
+  {% when "fi" %}
+    {% assign return_to_front = "Palaa etusivulle" %}
+    {% assign ref = "/" %}
+  {% when "en" %}
+    {% assign return_to_front = "Return to frontpage" %}
+    {% assign ref = "/en" %}
+  {% when 'sv' %}
+    {% assign return_to_front = "Återvänd till framsidan" %}
+    {% assign ref = "/sv" %}
+{% endcase %}
 
-        <section id="basic">
-
+        <section id="post">
+        <div id="logo-corner">
+          <a href="{{ ref }}"><img src="/img/logov2.png"/></a>
+        </div>
+          
           <h1>{{page.title}}</h1>
           
           {{content}}
-
+        
+            <div class="button-hover button-container">
+                <a class="button" href="{{ ref }}">
+                  {{return_to_front}}
+                </a>
+            </div>
         </section>
 
 {% include footer.html %}
+
