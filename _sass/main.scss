@@ -344,10 +344,13 @@ p {
 }
 
 #logo-corner {
-  margin-top: -10%;
-  margin-left: -25%;
+  margin-bottom: -10em;
+  margin-left: -10%;
+  position: relative;
+  width: 18em;
+  z-index: 2;
   img {
-    width: 40%;
+    width: 100%;
   }
   a {
     background-color: transparent;
@@ -355,7 +358,7 @@ p {
 }
 
 #post {
-  margin-top: 2em;
+  padding-top: 8em;
 }
 
 .post-list-item {

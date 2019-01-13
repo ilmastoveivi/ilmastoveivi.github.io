@@ -11,10 +11,9 @@
     {% assign ref = "/sv" %}
 {% endcase %}
 
-        <section id="post">
-        <div id="logo-corner">
-          <a href="{{ ref }}"><img src="/img/logov2.png"/></a>
-        </div>
+{% include corner-logo.html %}
+
+        <section id="post" class="animated fadeIn">
           
           <h1>{{page.title}}</h1>
           
