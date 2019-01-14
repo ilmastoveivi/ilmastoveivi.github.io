@@ -424,6 +424,32 @@ p {
     }
   }
 
+.bio-container {
+  margin: 5em 0 8em 0;
+
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  .bio-img {
+
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+
+    img {
+      clip-path: circle(100px at center);
+    }
+  }
+
+  p {
+    font-size: 0.9em;
+  }
+}
+
 
 .toggle-content {
 	display: none;
@@ -740,6 +766,13 @@ footer {
       p {
         font-size: 1em;
       }
+    }
+  }
+  .bio-container {
+    flex-direction: column;
+
+    p, h5 {
+      text-align: center;
     }
   }
 }
