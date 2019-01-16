@@ -14,7 +14,7 @@ campaign-info-link-text: Kampanjan tausta
 
 ## Tavoite
 
-Suomi on EU:n puheenjohtajamaa heinäkuusta joulukuuhun 2019. Ilmastoveivi2019 -kampanjan tähtäimessä on, että kansan tuella Suomi käyttää hyväksi EU-puheenjohtajakautensa mahdollisuudet ja ajaa tiukasti ilmaston lämpenemisen rajaamista 1,5 asteeseen. Tuolloin Suomella on puheenjohtajamaan mandaatti tehdä aloite EU:n ilmastopaketin avaamiseksi, jotta EU aloittaisi matkansa kohti kunnianhimoista, mutta välttämätöntä 1,5 asteen tavoitetta.
+Suomi on EU:n puheenjohtajamaa heinäkuusta joulukuuhun 2019. Ilmastoveivi2019 -kampanjan tähtäimessä on, että kansan tuella Suomi käyttää hyväksi EU-puheenjohtajakautensa mahdollisuudet ja ajaa tiukasti ilmaston lämpenemisen rajaamista 1,5 asteeseen. Tuolloin Suomella on puheenjohtajamaana valta tehdä neuvostossa aloite ilmastopaketin tavoitetasojen päivittämiseksi vuosien 2030 ja 2050 osalta 1,5 asteen mukaisiksi.
 
 
 ## Miten se tehdään?
