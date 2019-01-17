@@ -1,6 +1,6 @@
 ---
 layout: basic
-lang: se
+lang: sv
 title: Dataskyddsbeskrivning
 
 ---

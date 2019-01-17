@@ -1,7 +1,7 @@
 ---
 layout: campaign
 ref: campaign
-lang: se
+lang: sv
 order: 1
 highlight-text: Finland har just nu ett strategiskt läge, och kan ta en avgörande roll nu när världens framtid är i spel. Vi har världens chans, men har vi viljan?
 

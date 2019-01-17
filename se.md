@@ -1,7 +1,7 @@
 ---
 layout: default
 ref: index
-lang: se
+lang: sv
 order: 3
 title:
 slogan: Underverk är inget nytt för oss

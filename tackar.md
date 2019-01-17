@@ -1,7 +1,7 @@
 ---
 layout: thanks
 ref: kiitos
-lang: se
+lang: sv
 title: Ett stort tack!
 intro: Om du känner för att medverka ytterligare finns det flera olika sätt att gå tillväga!
 title1: Utmana
