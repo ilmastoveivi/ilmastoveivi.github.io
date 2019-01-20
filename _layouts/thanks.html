@@ -24,11 +24,11 @@
                   <a href="https://www.facebook.com/sharer/sharer.php?u={{site.share-url | uri_escape}}" target="_blank" class="button small facebook"><i class="fab fa-facebook-square"></i> Facebook</a>
                   <a href="fb-messenger://share/?link={{site.share-url | uri_escape}}" target="_blank" class="button small messenger"><i class="fab fa-facebook-messenger"></i> Messenger</a>
                   <a href="https://api.whatsapp.com/send?text={{site.share-text | uri_escape}}" target="_blank" class="button small whatsapp"><i class="fab fa-whatsapp"></i> WhatsApp</a>
-                  <a href="mailto:?subject={{site.share-title | uri_escape}}&body={{site.share-text | uri_escape}}" class="button small email"><i class="far fa-envelope"></i> Sähköposti</a>
+                  <a href="mailto:?subject={{site.share-title | uri_escape}}&body={{site.share-text | uri_escape}}" class="button small email"><i class="far fa-envelope"></i> {{page.email | default: "Sähköposti"}}</a>
               </div>
               </div>
 
-              <p>Kerro myös <a href="#politicians" class="toggle">puoluejohtajille</a> Ilmastoveivistä!</p>
+              <p> {{page.tell_politicians_1 | default: "Kerro myös "}} <a href="#politicians" class="toggle"> {{page.tell_politicians_2 | default: "puoluejohtajille "}} </a> {{page.tell_politicians_3 | default: "Ilmastoveivistä!"}} </p>
 
               <div class="toggle-content" id="politicians" >
               <table>

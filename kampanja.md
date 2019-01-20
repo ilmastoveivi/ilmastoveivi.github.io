@@ -1,5 +1,9 @@
 ---
 layout: campaign
+ref: campaign
+lang: fi
+order: 1
+url: kampanja
 highlight-text: Suomi on juuri oikeaan aikaan strategisessa pelipaikassa, ratkaisijan roolissa maailman kohtalonhetkillä. Meillä on ainutlaatuinen tilaisuus, mutta onko meillä tahto? 
 campaign-people-text: Ilmastoveivi2019 -kampanja lähti käyntiin lokakuussa 2018 yksityishenkilöiden aloitteesta. Mukaan on lähtenyt 300 vapaaehtoista ja lukuiset yhteistyötahot ovat ilmoittaneet kiinnostuksestaan tukea kampanjaa. Kampanja on poliittisesti sitoutumaton ja pyörii täysin vapaaehtoisvoimin.
 contacts-title-text: Yhteyshenkilöt
