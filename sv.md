@@ -21,7 +21,7 @@ redirect-url: https://ilmastoveivi2019.fi/tackar.html
 
 ## Målsättning
 
-Finland agerar som ordförandeland inom EU under hösten 2019. Ilmastoveivi2019 -kampanjen vädjar till våra politiker att ta vara på denna möjlighet för att få till stånd en klimatpolicy som begränsa den globala uppvärmningen till 1,5 grader.  Som ordförandeland kan Finland ta initiativet och starta nya förhandlingar om EUs klimatpaket. Detta krävs för att EU ska kunna nå det ambitiösa men ofrånkomliga 1,5 graders målet. 
+Finland har EU-ordförandeskapet under hösten 2019. Ilmastoveivi2019 -kampanjen vädjar till våra politiker att ta vara på denna möjlighet för att få till stånd en klimatpolicy som stoppar den globala uppvärmningen till 1,5 grader.  Som ordförandeland kan Finland ta initiativet för att EU ska uppdatera sina klimatmål för åren 2030 och 2050. Detta krävs för att EU ska kunna nå det ambitiösa men ofrånkomliga 1,5 graders målet 
 
 
 ## Hur gör vi det?
