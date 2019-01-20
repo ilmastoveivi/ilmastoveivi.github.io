@@ -4,7 +4,7 @@ ref: index
 lang: en
 order: 3
 title:
-slogan: For us, miracles are nothing new
+slogan: Join the Wave
 intro: Ilmastoveivi2019 will take Finland to the top in international climate change action. The puck has been dropped - it’s time to take it.
 act-title: How to contribute to our cause
 act-text1: By signing, people help create a momentum
@@ -21,7 +21,7 @@ redirect-url: https://ilmastoveivi2019.fi/thanks.html
 
 ## Goal
 
-Finland will hold the Presidency of the Council of the European Union in 2019 from July to December. We at Ilmastoveivi2019 intend on making use of this opportunity in order to limit global warming to 1.5 degrees Celsius. Finland will have the mandate to make a motion to reopen the 2020 climate & energy package. This will put the EU on the right track to reach the ambitious, but necessary goal of 1,5 degrees.
+Finland will hold the Presidency of the Council of the European Union in 2019 from July to December. We at Ilmastoveivi2019 intend on making use of this opportunity to limit global warming to 1.5 degrees Celsius. Finland will have the mandate to make a motion to update the target levels set for 2030 and 2050 in the 2020 climate & energy package. This will put the EU on the right track to reach the ambitious, but necessary goal of 1,5 degrees.
 
 
 ## How do we achieve this
