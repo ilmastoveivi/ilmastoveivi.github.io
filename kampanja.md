@@ -22,7 +22,7 @@ Kampanjan tavoitteena on saada 500 000 allekirjoitusta vetoomukseen, jonka löyd
 
 EU:n nykytoimilla ilmastomme lämpenee 3,5 astetta. Hallitustenvälisen ilmastopaneelin IPCC:n mukaan jo yli 1,5 asteen lämpeneminen voi aiheuttaa peruuttamattomia muutoksia esimerkiksi ekosysteemeihin. Ilmastotoimilla on siis kiire.
 
-EU:n neuvoston puheenjohtajamaa voi tehdä ilmaston eteen paljon. Suomi voi tässä roolissa esimerkiksi asettaa ilmastoasiat neuvoston kokousagendalle, pyrkiä saamaan muut neuvoston jäsenet tuottamaan kanssaan ilmastopolitiikkaa edistävät päätelmät, tai omassa puheenjohtajan päätelmässään kehottaa komissiota tekemään lakialoitteen EU:n tämänhetkisen ilmastolakipaketin avaamiseksi. Lisäksi juuri Suomen kaudelle sattuu komission uuden viisivuotisen työohjelman muodostaminen, joka voi olla vielä neuvoston päätelmiäkin merkityksellisempi vaikuttamisen paikka. Suomella on rooli vaikuttaa puheenjohtajana myös tähän. Nykypolitiikka ei riitä, paketti auki!
+EU:n neuvoston puheenjohtajamaa voi tehdä ilmaston eteen paljon. Suomi voi tässä roolissa esimerkiksi asettaa ilmastoasiat neuvoston kokousagendalle ja pyrkiä saamaan muut neuvoston jäsenet pääsemään sopimukseen  ilmastolakipaketin tavoitetasojen päivittämisestä vuosien 2030 ja 2050 osalta 1,5 asteen polulle. Lisäksi juuri Suomen kaudelle sattuu komission uuden viisivuotisen työohjelman muodostaminen, joka voi olla vielä neuvoston päätelmiäkin merkityksellisempi vaikuttamisen paikka. Suomella on rooli vaikuttaa puheenjohtajana myös tähän. Nykypolitiikka ei riitä, paketti auki!
 
 
 

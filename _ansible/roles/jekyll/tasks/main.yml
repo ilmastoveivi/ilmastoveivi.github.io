@@ -1,0 +1,25 @@
+---
+
+- name: Install/Update Github-Pages bundle
+  bundler: state=latest chdir=/vagrant
+  
+- name: Allow Ruby to bind port 80
+  command: setcap cap_net_bind_service=ep /usr/bin/{{ ruby_version }}
+  changed_when: false
+
+- name: Configure Jekyll initd service
+  template: 
+    src: generic.initd
+    dest: /etc/init.d/jekyll
+    mode: '0777'
+  vars:
+    service_name: jekyll
+    daemon: /usr/local/bin/jekyll
+    daemon_opts: serve --watch --source "/vagrant" --host 0.0.0.0 --port 80 --force_polling
+    pidfile: /var/run/jekyll.pid
+    daemon_log: /var/log/jekyll.log
+
+- name: Make sure jekyll is running
+  service:
+    state: started
+    name: jekyll
