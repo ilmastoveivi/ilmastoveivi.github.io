@@ -5,11 +5,11 @@ lang: en
 order: 3
 title:
 slogan: Join the Wave
-intro: Ilmastoveivi2019 climate campaign will take Finland to the top in international climate change action. The puck has been dropped - it’s time to take it.
+intro: The Ilmastoveivi2019 climate campaign will take Finland to the top in international climate change action. The puck has been dropped - it’s time to take it.
 act-title: How to contribute to our cause
 act-text1: By signing, people help create a momentum
 act-text2: …which encourages politicians
-act-text3: …within EU to promote the goal of limiting global warming to 1.5 degrees.
+act-text3: …within the EU to promote the goal of limiting global warming to 1.5 degrees.
 sign-button-text: Read the petition and sign
 campaign-info-link-text: Campaign background
 campaign-page-link-url: /campaign

@@ -14,7 +14,7 @@ contact3: "Kati Systä: kati.systa@turku.fi +358443005760"
 
 ## Everyone’s campaign
 
-Ilmastoveivi2019 is a campaign launched by independent citizens in Finland. The aim of the campaign is to push Finnish leaders to utilise Finland's term as the President of the Council of the European Union (07-12/2019) to advance climate action and EU climate policies. We ask the whole nation of Finland, of its citizens and societal actors, to take action. We have no prestige or authority, instead we reach out as one person to another. After all, this is our climate, our planet and our society. 
+Ilmastoveivi2019 is a campaign launched by private citizens in Finland. The aim of the campaign is to push Finnish leaders to utilise Finland's term as the President of the Council of the European Union (07-12/2019) to advance climate action and EU climate policies. We ask the whole nation of Finland, of its citizens and societal actors, to take action. We have no prestige or authority, instead we reach out as one person to another. After all, this is our climate, our planet and our society. 
 
 The aim of the campaign is to gather 500 000 signatures for our petition, which can be found on our website. The petition will be handed over to the new Finnish Prime Minister after the Finnish Parliamentary Election of April 2019. This will function as a strong mandate that the Finnish people, regardless of political background, urge Finland as the President of the Council of the EU to take a decisive role in limiting climate change! 
 
