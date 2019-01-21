@@ -177,19 +177,21 @@ h1.slogan {
     line-height: 0.75;
     text-align: center;
     margin: 0 auto;
-    margin-top: -1.7em;
+    margin-top: -1.6em;
     width: 60%;
     transform: rotate(-11deg);
+    min-height: 1.25em;
+    margin-bottom: 0.15em;
 }
 
 h1.thanks {
   text-transform: uppercase;
   font-size: 25vw; //to make it about the width of the <section> below
-  line-height: 1;
+  line-height: 0.8;
   text-align: center;
   margin: 0;
   margin-top: 0.1em;
-  margin-bottom: -0.1em;
+  margin-bottom: 0.1em;
 }
 
 h2 {
@@ -590,12 +592,15 @@ footer {
   section {
     padding: 1em 2em;
   }
+  h1.slogan {
+    margin-top: -1.5em;
+  }
 }
 
 @media only screen and (max-width: 680px) {
   h1.slogan {
     width: 80%;
-    margin-top: -1.6em;
+    margin-top: -1.4em;
   }
   .intro {
     padding-left: 0;
@@ -622,7 +627,6 @@ footer {
   h1.slogan {
     font-size: 2.9em;
     width: 90%;
-    margin-top: -1.4em;
   }
   #thanks .subsection p {
     width: 100%;
