@@ -25,10 +25,5 @@ In line with the current climate policies of the European Union, the climate wil
 
 During our Presidency in the Council of the European Union, Finland has the opportunity to do more for climate. In this role, Finland may place climate affairs on the meeting agendas of the Council, advocate other members of the Council, together with Finland and to produce resolutions for better climate policies. Finland will also have the mandate to make a motion to update the 2030 and 2050 target levels put forth in the 2020 climate & energy package. Furthermore, coinciding with the Finnish Presidency, the European Commission will formulate the five-year priority agendas, which has the potential to become a more influential platform than the resolutions of the Council. In addition, Finland has the power to influence the political strategy of the whole European Union. The current politics are not enough, and for this reason the target levels set in the 2020 climate & energy package must be updated!
 
-REMARK: Finland is in the strategic position of solver during a decisive point in world history. We have a once-in-a-lifetime opportunity but do we also have the WILL to make a change?  
-
-Ilmastoveivi2019 campaign was launched in October 2018 as an initiative by independent individuals. Currently, we have over 300 volunteers and numerous partners are keen to support our campaign. We are a nonpartisan campaign and the campaign is run completely on a voluntary basis.
-
-
 
 

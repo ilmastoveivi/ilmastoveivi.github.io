@@ -21,7 +21,7 @@ redirect-url: https://ilmastoveivi2019.fi/thanks.html
 
 ## Goal
 
-Finland will hold the Presidency of the Council of the European Union in 2019 from July to December. We at Ilmastoveivi2019 intend on making use of this opportunity to limit global warming to 1.5 degrees Celsius. Finland will have the mandate to make a motion to update the 2030 and 2050 target levels put forth in the 2020 climate & energy package. This will put the EU on the right track to reach the ambitious, but necessary goal of 1,5 degrees.
+Finland will hold the Presidency of the Council of the European Union in 2019 from July to December. We at Ilmastoveivi2019 intend on making use of this opportunity to limit global warming to 1.5 degrees Celsius. Finland will have the mandate to make a motion to update the 2030 and 2050 target levels put forth in the 2020 climate & energy package. This will put the EU on the right track to reach the ambitious, but necessary goal of 1.5 degrees.
 
 
 ## How do we achieve this
