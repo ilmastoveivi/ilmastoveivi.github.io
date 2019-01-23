@@ -1,96 +1,99 @@
 ---
 layout: basic
-title: Tietosuojaseloste
+ref: legal
+lang: en
+title: Privacy Policy
 
 ---
 
-Dokumentti ilmentää miten henkilötietojen suoja on toteutettu Ilmastoveivi2019 –kampanjan tietosuojakäytännön puitteissa. 
-Käsittelemme tietojasi vastuullisesti ja haluamme olla luottamuksesi arvoisia. Voit halutessasi vaikuttaa tapaan, jolla käsittelemme tietojasi. Tietosuojakäytännöstämme tulee ilmi henkilötietoihin liittyvät oikeutesi sekä ohjeistus niiden käyttöön liittyen.
-
-Tietosi tallennetaan allekirjoittaessasi tältä sivustolta löytyvän vetoomuksen ja täten ilmoittautuessasi Ilmastoveivi2019 –kampanjaan.  Käsittelemme tietoja kerätessämme informaatiota vetoomusta varten ja tarjotaksemme sinulle hienon kokemuksen kampanjan osallisena. Keräämämme tiedot auttavat meitä ymmärtämään ilmastonmuutos kampanjoinnin tavoittaman yleisön mielenkiinnonkohteita, joka auttaa meitä tavoittessamme luoda kampanjaan osallistuville miellyttävämpi kokemus. 
+This Privacy Policy describes how personal data is processed in the Ilmastoveivi2019 campign, hereafter also referred to as “ilmastoveivi2019”. We process your data responsibly and we want to be worthy of your trust. You can influence the way in which your data is processed. In this Privacy Policy, we describe your personal data rights and how to exercise them.
+Your data will be stored by signing the Ilmastoveivi2019 petition on this website. In the future, we want to create increasingly better experiences, and the data we collect will help us to understand what sort of audience is interested in doing the ilmastoveivi2019 campaign with us.
 
 
-## Mistä keräämme tietoja?
+## From where do we collect data?
 
-Esimerkkejä tilanteista, jolloin henkilötietojasi tullaan keräämään:
-  - Osallistujaksi rekisteröidyttyäsi tai allekirjoittaessasi nimesi listaan
-  - Ilmoittautuessasi vapaaehtoiseksi
-  - Rekisteröityessäsi osallistujaksi yhteen tai useampaan tapahtumistamme
-  - Antaessasi luvan uutiskirjeemme lähettämiseen sekä viestien vastaanottamiseen
-  - Ottaessasi osaa joihinkin kampanjoistamme, tutkimuksistamme tai mielipidekyselyistämme
-  - Antaessasi meille palautetta, jättäessäsi meille viestin yhteydenottoa varten tai ottaessasi muulla tavalla meihin yhteyttä 
-  - Ollessasi yhteyshenkilönä tai edustajana jossain sidosryhmistämme.
-  - Jakaessasi, julkaistaessasi tai kommentoidessasi sisältöämme tai lähettäessäsi viestin sosiaalisen median kanavissamme. 
-Harjoitamme sosiaalisen median seurantaa yleisellä tasolla ymmärtääksemme osallistujiamme sekä kehittääksemme markkinointiamme.
- 
-Henkilötietojesi kerääminen ja käsittely myös muista julkisista rekistereistä on mahdollista.
+We collect data about you, for example, when you:
+  - register as a participant or sign your name to the list 
+  - register as a volunteer 
+  - register as a participant on one of our events
+  - give us a permission to send you our newsletter and receive messages from us
+  - take part in some of our campaigns or surveys or an opinion poll we organize
+  - give us feedback, leave us a message to contact you or otherwise get in touch with Ilmastoveivi2019 campaign
+  - are a contact person or a representative of one of our stakeholders 
+  - share, publish, comment on something or send a message in the social media channels of Ilmastoveivi2019.
 
-
-## Minkälaisia tietoja keräämme?
-
-Rekisterimme tietosisältö: mitä tietoa meillä voi sinusta olla?:
-  - Nimesi sekä yhteystietosi: Keräämme etu –ja sukunimesi, sähköpostiosoitteesi sekä muita samankaltaisia yhteystietojasi.
-  - Demografiset tiedot: keräämme myös muita deskriptiivisiä tietoja, kuten iän, ammatin, kielen ja maan oppiaksemme osallistujista.
-  - Asiakassuhdetiedot: keräämme tietoja muun muassa osallistumisestasi muuhun toimintaan. Keräämme tietoa palautteista ja muista yhteydenotoista.
-  - Edustustiedot: Keräämme tietoa asemastasi yrityksessä tai muussa organisaatiossa, jota edustat sekä kyseessä olevan organisaation nimen, että yhteystiedot ollessasi vuorovaikutuksessa kanssamme yrityksen, muun organisaation tai sidosryhmän edustajana. Keräämme myös muita Ilmastoveivi2019 –kampanjan ja edustamasi yrityksen tai muun organisaation välisen suhteen hallinnoimisen kannalta tarpeellisia tietoja. 
-  - Tutkimukset ja mielipidekyselyt: Keräämme tietoja pohjautuen markkinatutkimusten sekä mielipidekyselyiden tuloksiin kampanjamme kehittämiseksi.
-  - Tiedot mielenkiinnonkohteista: Keräämme tietoja mielenkiinnonkohteistasi liittyen kampanjaamme, kerättäviin tietoihin lukeutuu esimerkiksi mielipiteesi siitä, mitä haluaisit meidän tekevän paremmin. Uudet ideat ovat myös aina tervetulleita!
-  - Markkinointiluvat (lupa lähettää sinulle uutiskirjeemme) sekä –kiellot (jos et enää ikinä halua kuulla meistä).
-  - Visuaaliset tallenteet: Saatamme ottaa valokuvia tai kuvata videoita tapahtumissamme. Jos kuvaamme erityisesti sinua koko yleisön sijaan, tulemme pyytämään lupaa kuvan julkaisuun. Kuvasi saattaa myös tallentua live-suoratoistokameroillemme.
-
-Pystyt vaikuttamaan keräämiemme tietojen luonteeseen. Ilmastoveivi2019 –kampanjassa mukanaolo vaatii kuitenkin henkilötietojesi luovuttamisen. Jos päätät olla luovuttamatta henkilötietojasi meille, saatamme olla kykenemättömiä tarjoamaan sinulle kampanjaan liittyviä mahdollisuuksia, kuten kaikkiin tapahtumiin osallistumista. 
+We carry out social media monitoring on general level to understand our participants better and to develop our marketing.
+We do not exclude the possibility to collect personal data from other public registers in case needed.
 
 
-## Mihin käytämme tietojasi?
+## What kind of data do we collect?
 
-Käsittelemme tietoja hallinoidaksemme Ilmastoveivi2019 –kampanjaa. Käsittelemme tietojasi myös tarvittaessa kampanjan oikeutettujen etujen toteuttamiseksi.
-“Oikeutetut edut” viittaavat lailla sallittuun toimintaamme, joka on suorassa yhteydessä ilmastoveivi2019 –kampanjan toimiin. Kampanja voi toimia oikeutettuihin etuihin pohjautuen kun on olemassa merkittävä ja asianmukainen yhteys kampanjan sekä siihen osallisen välillä. Tässä mainittu tarkoittaa, että suhteen on tullut muodostua tarkoituksessa osallistua itse kampanjaan, kampanjan organisaatioon tai johonkin kampanjan tapahtumista esimerkiksi osana yleisöä, järjestäjätiimin jäsenenä tai kumppanuusjärjestön jäsenenä.
-Arvioitaessa oikeutettuja etuja arvioidaan sekä osallistujan, että Ilmastoveivi2019 –kampanjan etuja ottaen huomioon perusoikeuksien toteutuminen, kerättyjen tietojen luonne ja käyttötarkoitus sekä tietoturva. Kyseisen prosessin yksityiskohdat löytyvät Euroopan tietosuojaviranomaisten esittämänä. Kampanja seuraa näitä vakiintuneita suuntaviivoja.
-Osallisella on oikeus vastustaa tietojen käsittelyä oikeudellisten etujen puitteissa. Edellä mainittu ilmenee dokumentin edetessä. Joissain tapauksissa voimme kysyä lupaa tietojesi käsittelyyn esimerkiksi käyttääksemme opt-in –valintaruutuja tai muita muotoja rekisteröinnissä tai pyytäessämme lupaa lähettää sinulle uutiskirjeemme.
-Voimme myös käsitellä tietojasi kyetäksemme markkinoimaan kampanjaamme. Voimme myös kerätä tietojasi suorittaessamme kyselytutkimuksia sekä mielipidekyselyitä kasvattaaksemme ymmärrystämme osallistujistamme ja täten tehdäksemme kampanjasta ja siihen liittyvistä tapahtumista  paremman. Kohdistamme sisältöä tarjotaksemme sinulle oleellisinta mahdollista kampanjaa koskevaa tietoa. Sisältömme kohdistaminen perustuu keräämiimme tietoihin sekä mielenkiinnonkohteisiin. Voimme esimerkiksi lähettää erilaista informaatiota sidosryhmille kuin osallisille.
-Käsittelemme tietoja analyysiä, tilastojen laatimista ja raportointia varten pääasiassa kehittääksemme kampanjaamme ja siihen liittyviä tapahtumia  ja parantaaksemme osallistujakokemusta.
+We get some of the data directly from you, for instance, when you register to the campaign.
+We collect the following data about you:
+  - Name and contact details: We collect your first and last name, and your email address.
+  - Demographic data: we collect other descriptive data as well, for example: language, occupation and country, to learn about the participants
+  - Customer relationship data: We collect data, for example, on your registration or other activities. We collect information on feedback and other contacts.
+  - Data on representation: We collect information about your position in the company or other organisation you represent, as well as the name and the contact details of the company or organisation in question, when you interact with us as a representative of your company or other organisation or stakeholder group. We also collect other information necessary for the management of the relationship between ilmastoveivi2019 and the company or organisation you represent.
+  - Surveys and opinion polls: We collect data in the interest of developing our campaign on the basis of the results of these market surveys and polls.
+  - Data on interest: We collect data on your interests related to the campaign, e.g. on what you would like us to do better. New ideas are also very much welcome! 
+  - Marketing permissions (that is, permission to send you our newsletter) and prohibitions (if you never want to hear from us again)
+  - Visual recordings: We may take photographs or record video at our events. If we photograph you in particular and not the whole audience, we will ask for your consent to publish the image. Your picture may also be recorded by our live streaming cameras.
 
+You can influence the type of data we collect. However, participation in the Ilmastoveivi2019 campaign requires that you submit your personal data. If you decide not to submit your personal data to us, we may be unable to provide all the possibilities of the campaign to you. 
 
-## Kuinka kauan säilytämme tietojasi?
+## What is the data used for?
 
-Emme säilytä tietojasi kauempaa kuin on tarpeellista tietosuojakäytännössä esitettyjen tarkoitusten kannalta. Noudatamme tietoja kerätessämme meitä sitovaa lainsäädäntöä. Säilytämme tietosi 14 kuukautta. Luvan kanssa voimme säilyttää tietosi myös kauemmin.
-Huomaathan, että edellä mainitusta huolimatta voimme tehdä poikkeuksen säilytysajanjaksoa koskien kun Ilmastoveivi2019 –kampanjaa kohtaan on esitetty oikeudellinen vaade tai kun tällaista vaadetta koskevien seikkojen käsittely on kesken.
+We process your data in order to organise the campaign called Ilmastoveivi2019. We also process your data if it is necessary for the realisation of Ilmastoveivi2019 legitimate interests.
 
+“Legitimate interest” refers to our actions that are allowed by law and which are in direct relation to Ilmastoveivi2019’s operations. Ilmastoveivi2019 may act on the grounds of legitimate interest where a significant and pertinent relationship exists between the participant and Ilmastoveivi2019. This means that the relationship has been formed for the purpose of participating in the campaign itself or in the organisation of the campaign or one of our events in the role of e.g. audience, a member of organising team or a member of partnering organisations.
 
-## Kuka saa käsitellä tietojasi ja luovutammeko niitä kolmansille osapuolille?
+In assessing legitimate interest, both the interests of the participant and Ilmastoveivi2019 are evaluated, taking into account the realisation of fundamental rights, the nature and purpose of use of the data collected, and data security. This process has been explained e.g. by the European Data Authorities and we follow these established guidelines.
 
-Tietojasi käsitellään Ilmastoveivi2019 –tiimissä. Voimme luovuttaa tietojasi viranomaisille, jos esimerkiksi laki velvoittaa meidät näin tekemään. Sopimusvelvoitteidemme täyttämiseksi voimme luovuttaa henkilötietoja kolmansille osapuolille. Tällaisia kolmansia osapuolia ovat esimerkiksi kampanjan tarkoituksiin markkinointia tarjoavat yhteistyökumppanit. Kyseiset kolmannet osapuolet saattavat toimia myös rekisterinpitäjinä rekisteröintiin tarvittavien henkilötietojen osalta. Neuvomme sinua tutustumaan kolmansia osapuolia koskevaan tietosuojakäytäntöön. Me emme kuitenkaan luovuta tietojasi kolmansille osapuolille siten, että he kykenisivät käyttämään tietoja muihin kuin Ilmastoveivi2019 –kampanjan määrittelemiin tarkoituksiin. Käyttäessämme alihankkijoita tai palveluntarjoajia, velvoitamme heidät asianmukaisin sopimuksin säilyttämään riittävän tietoturvatason tietojesi suojaamiseksi sekä toimimaan henkilötietolain mukaisesti.  
+The participant has the right to object to processing that occurs on the basis of a legitimate interest. We explain this further of this document. In some cases, we may ask your consent for processing your data for example by using opt-in check boxes in registration or other forms or when we ask your consent to send you our newsletter. 
 
+We also process your data to better be able to market our campaign. We may also process your data when conducting surveys and opinion polls to gain a better understanding of our participants and thereby make the event better. We target our content to provide you with information about our campaign that is as relevant as possible. The targeting of our content is based on interests and information we have collected. For example, we might send different information to stakeholders than participants.
 
-## Siirrämmekö tietojasi yli EU:n ja EEA:n rajojen? (“kolmansiin maihin”)?
-
-Allekirjoitukseen liittyvät tiedot siirtyvät Typeformin palveluun, jonka palvelimet sijaitsevat Yhdysvalloissa. Typeform on sitoutunut noudattamaan EU:n GDPR tietosuoja-asetusta ja kertoo siitä esimerkiksi tällä sivullaan: https://www.typeform.com/help/gdpr-compliance/
-Ilmastoveivi2019 kampanja on allekirjoittanut Typeformin kanssa tietojen käsittelyä koskevan DPA-sopimuksen. 
-
-
-## Millaisia evästeitä käytämme ja evästeisiin liittyvät tiedot:
-
-Sivulla käytetään Google Analytics palvelua, joka käyttää evästeitä toimiakseen. Näitä tietoja käytetään parantamaan käyttäjäkokemusta sivustolla. 
-
-Allekirjoitustoimintoon käytetään Typeform palvelua, joka käyttää evästeitä toimintaansa. Typeformin evästeistä ja muusta datan käytöstä kerrotaan esimerkiksi heidän omilla sivuillaan osoitteessa: https://www.typeform.com/help/what-happens-to-my-data/
-
-Sivusto käyttää Cloudflaren sisällönjakeluverkostoa (CDN). Cloudflare tallentaa sivulle pienen evästeen parantaakseen toimintaansa. Tästä evästeestä kerrotaan Cloudflaren sivuilla osoitteessa: https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-
+We process the data for analysis, for compiling statistics and reporting, again, mainly to develop our event and to improve the participant experience.
 
 
-## Kuinka voit vaikuttaa henkilötietojesi käsittelyyn?
+## How long do we store your data?
 
-Pystyt kontrolloimaan miten Ilmastoveivi2019 –kampanja kerää ja käyttää henkilötietojasi.
+We do not store your data any longer than necessary for the purposes described in this Privacy Policy and to comply with any mandatory legislation. We store your data for 14 months. We may store the data longer, if you give us your consent for that.
+Please note that regardless of what has been said above, we may make an exception in retention period when a legal claim is made against Ilmastoveivi2019 or when the handling of matters related to such a claim is incomplete.
 
-Olet oikeutettu vaikuttamaan tietojesi käsittelyyn seuraavilla tavoilla:
-  - Sinulla on million tahansa oikeus kieltää henkilötietojesi hyödyntäminen suoramarkkinoinnissa (oikeus vastustaa). Huomaathan, että saatat vastaanottaa markkinointiviestintää Ilmastoveivi2019 –kampanjalta liittyen työhösi tai vastuualueeseesi. Helpoin tapa välttyä edellä mainitulta on vastata viestiin tai lähettää sähköpostia osoitteeseen info.ilmastoveivi@gmail.com  ja kertoa ettet halua vastaanottaa meiltä minkäänlaista markkinointia.
-  - Joissain tilanteissa sinulla saattaa, erityisten henkilökohtaisten syiden nojalla, olla oikeus vastustaa henkilötietojesi hyödyntämistä myös muissa tarkoituksissa, kuin suoramarkkinoinnissa, kun se tapahtuu Ilmastoveivi2019 oikeutettujen etujen mukaisesti. Mikäli haluat toimia kyseisellä tavalla, lähetä sähköpostia osoitteeseen info.ilmastoveivi@gmail.com  ja kerro erityinen henkilökohtainen syysi, jonka vuoksi tietojesi käyttö on lopetettava.
-  - Sinulla on oikeus pyytää päästä käsiksi sinua koskeviin tietoihin tai saada vahvistus siitä, ettemme käsittele sinua koskevia tietoja (oikeus tutustua?) Lähetä pyyntö osoitteeseen info.ilmastoveivi@gmail.com.
-  - Joissain tapauksissa sinulla on oikeus vastaanottaa meille digitaalisessa muodossa tarjoamiasi henkilötietoja, jotta voit siirtää ne toiselle ohjaimelle (oikeus siirrettävyyteen). Lähetäthän pyyntösi osoitteeseen info.ilmastoveivi@gmail.com. 
-  - Sinulla on oikeus tietojen oikaisuun (oikeus oikaisuun). Jos tietosi ovat virheellisiä, epätarkkoja tai puutteellisia voit lähettää meille sähköpostia osoitteeseen info.ilmastoveivi@gmail.com ja pyytää meitä oikaisemaan tai täydentämään tietojasi.
-  - Tietyissä tilanteissa sinulla saattaa olla oikeus rajoittaa tietojen käsittelyä (oikeus rajoittaa tietojen käsittelyä). Toisin sanoen, jos riitautat sinua koskevien tietojen oikeellisuuden, sinulla on oikeus rajoittaa tietojesi käsittelyä ajanjakson, joka tarjoaa meille mahdollisuuden varmistua tietojesi oikeellisuudesta, aikana. Lähetäthän sähköpostia kyseisen teeman tiimoilta osoitteeseen info.ilmastoveivi@gmail.com.
-  - Sinulla on tietyissä tilanteissa oikeus saada tietosi poistetuksi (oikeus tulla unohdetuksi). Edellä mainittu aktualisoituu esimerkiksi silloin, kun henkilötietojesi käsittely ei ole enää tarpeellista henkilötietojen keräämisen tarkoitus huomioon ottaen, tai jos käsittely perustui suostumukseesi ja haluat peruuttaa kyseisen suostumuksen. Huomaathan, että jos henkilötietosi ovat välttämättömiä tiettyä tarkoitusta varten, kuten tapahtumaan osallistumisesi rekisteröimiseksi, emme voi poistaa henkilötietojasi. Voit lähettää meille sähköpostia osoitteeseen info.ilmastoveivi@gmail.com.
+## Who can process your data, and do we disclose it to third parties?
 
-## Rekisterinpitäjät
+Your data is processed within the Ilmastoveivi2019 team. We may disclose your data to the authorities, for example, if the law requires us to do so. To fulfil our contractual obligations, we may disclose personal data to third parties. Such third parties include our partners offering marketing for the campaign’s purposes, for example. These parties may also act as the controller in terms of personal data needed for the registration. We advise you to read the privacy policies of third parties. However, we do not, as a rule, disclose your data to third parties in such a manner that they would be able to use it for other purposes than those defined by ilmastoveivi2019. When using subcontractors or service providers we obligate them with appropriate contractual means to maintain a level of information security that is adequate to protect your data and to comply with personal data legislation.  
+
+
+## Do we transfer your data beyond the borders of the EU or EAA (“third countries”)?
+
+The data submitted in connection to registering to the campaign will be transferred to our service service providers Typeform in the United States. They comply with rules of the Privacy Shield agreement between the EU and the United States, to ensure an adequate level of data protection. You can read more about how Typeform does this on their webpage: https://www.typeform.com/help/gdpr-compliance/
+
+
+## What cookies do we use and all the cookie information:
+
+Our web page uses a service provided by Google Analytics, which uses cookies. The information gathered is used to improve the service.
+The registration service is provided by Typeform, a service that also contains cookies. For more information on the Typeform cookies and other use of data, go to https://www.typeform.com/help/what-happens-to-my-data/
+
+The web page uses a content delivery network provided by Cloudflare. Cloudflare uses a small cookie on the webpage to improve their service. For more information on this cookie, visit: https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-
+
+
+## How can you influence the processing of your personal data?
+
+You can control how Ilmastoveivi2019 collects and uses your data.
+
+  - You are entitled to influence the processing of your data in the following ways:
+  - You have the right to forbid the processing of your personal data for the purposes of direct marketing at any time (right to object). Please note that you may receive marketing communication from Ilmastoveivi2019 campaign in relation to your work or area of responsibility. The easiest way to opt out is to answer the message or send an e-mail to info.ilmastoveivi@gmail.com and tell us that you do not want to receive any marketing from us.
+  - In some situations, you may have the right, for reasons related to special personal circumstances, to object to the processing of your personal data beyond the purposes of direct marketing when it is done by virtue of Sleetmakers’ legitimate interest. When you would like to do so, send an e-mail to info.ilmastoveivi@gmail.com and tell us the special personal reason due to which the processing your data should be stopped.
+  - You have the right to request access to data concerning you or to receive confirmation that we do not process data concerning you (right to access). Send the request to info.ilmastoveivi@gmail.com.
+  - In some cases, you have the right to receive the personal data you provided to us in digital format so that you can transfer it to another controller (right to portability). Please send your request to info.ilmastoveivi@gmail.com
+  - You have the right to have data rectified (right to rectification). If your data is incorrect, inaccurate, incomplete or deficient, you can e-mail us to info.ilmastoveivi@gmail.com and ask us to rectify or complete the data.
+  - In certain situations, you may have the right to restrict processing (right to restriction of processing). In other words, if you dispute the accuracy of your data, you have the right to restrict its processing for period of time that allows us to ensure that your data is accurate. Please send us an e-mail to info.ilmastoveivi@gmail.com
+  - You have the right to have your data erased in certain situations (right to be forgotten). For example, when processing of your personal data is no longer necessary for the purposes for which it was collected, or the processing was based on your consent and you wish to withdraw that consent. Please note if your personal data is necessary for the purpose of, for instance, the registration of your participation to the event, we cannot remove your data. You can send us an e-mail to info.ilmastoveivi@gmail.com.
+
+
+## Data controllers
 
 Laura Kolehmainen
 laura.m.kolehmainen@helsinki.fi
@@ -98,6 +101,4 @@ laura.m.kolehmainen@helsinki.fi
 
 Theo Levlin
 theo.levlin@helsinki.fi
-+358505283927 
-
-
++358505283927

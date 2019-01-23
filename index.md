@@ -1,6 +1,10 @@
 ---
 layout: default
+ref: index
+lang: fi
+order: 1
 title:
+slogan: Ollaan me ihmeitä ennenkin tehty
 intro: Ilmastoveivillä kampeamme Suomen ilmastoasioiden kansainväliseen kärkeen. Kiekko on jo liikkeellä, ratkaisun paikka on nyt.
 act-title: Näin vaikutat
 act-text1: Allekirjoittamalla luot joukkovoiman
@@ -12,11 +16,16 @@ lang: fi
 blog-title: Blogi
 blog-url: /blogi-fi
 show-all: Näytä kaikki
+campaign-page-link-url: /kampanja
+typeform-url: https://ilmastoveivi.typeform.com/to/WpWzgl
+redirect-url: https://ilmastoveivi2019.fi/kiitos.html
+
+
 ---
 
 ## Tavoite
 
-Suomi on EU:n puheenjohtajamaa heinäkuusta joulukuuhun 2019. Ilmastoveivi2019 -kampanjan tähtäimessä on, että kansan tuella Suomi käyttää hyväksi EU-puheenjohtajakautensa mahdollisuudet ja ajaa tiukasti ilmaston lämpenemisen rajaamista 1,5 asteeseen. Tuolloin Suomella on puheenjohtajamaan mandaatti tehdä aloite EU:n ilmastopaketin avaamiseksi, jotta EU aloittaisi matkansa kohti kunnianhimoista, mutta välttämätöntä 1,5 asteen tavoitetta.
+Suomi on EU:n puheenjohtajamaa heinäkuusta joulukuuhun 2019. Ilmastoveivi2019 -kampanjan tähtäimessä on, että kansan tuella Suomi käyttää hyväksi EU-puheenjohtajakautensa mahdollisuudet ja ajaa tiukasti ilmaston lämpenemisen rajaamista 1,5 asteeseen. Tuolloin Suomella on puheenjohtajamaana valta tehdä neuvostossa aloite ilmastopaketin tavoitetasojen päivittämiseksi vuosien 2030 ja 2050 osalta 1,5 asteen mukaisiksi.
 
 
 ## Miten se tehdään?

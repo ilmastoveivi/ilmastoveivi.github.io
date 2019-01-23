@@ -3,9 +3,13 @@
 
 {% endif %}
 ">
-
-    <p id="legal"><a href="legal.html">Tietosuojaseloste</a></p>
-
+{% if page.lang == "fi" %}
+    <p id="legal"><a href="tietosuojaseloste.html">Tietosuojaseloste</a></p>
+{% elsif page.lang == "sv" %}
+    <p id="legal"><a href="dataskyddsbeskrivning.html">Dataskyddsbeskrivning</a></p>
+{% else %}
+    <p id="legal"><a href="legal.html">Privacy Policy</a></p>
+{% endif %}
 </footer>
 
 </article>
