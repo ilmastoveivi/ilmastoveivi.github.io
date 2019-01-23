@@ -224,11 +224,20 @@ h2 {
     line-height: 1;
 }
 
+h3 {
+  font-size: 1.2em;
+  color: black;
+}
+
 h4 {
     text-align: center;
     margin: 0;
     margin-bottom: -1em;
     font-style: italic;
+}
+
+h5 {
+  color: black;
 }
 
 p {
@@ -353,21 +362,7 @@ p {
   animation-delay: 0.8s;
 
   h2 {
-    @include cursive(1.2em);
-  }
-}
-
-#logo-corner {
-  margin-bottom: -10em;
-  margin-left: -10%;
-  position: relative;
-  width: 18em;
-  z-index: 2;
-  img {
-    width: 100%;
-  }
-  a {
-    background-color: transparent;
+    @include cursive(4em);
   }
 }
 
@@ -395,7 +390,7 @@ p {
   margin-top: 6em;
 
   background-size: cover;
-  background-color: #ffd3cc;
+  background-color: $color-accent2;
 
   vertical-align: middle;
 
@@ -509,7 +504,7 @@ p {
   .bio-text {
 
     flex-grow: 1;
-    
+
     padding: 2em 0 2em 0;
 
     p {

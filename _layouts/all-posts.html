@@ -1,7 +1,11 @@
 {% include header.html %}
 
-{% include corner-logo.html %}
+{% include blog-banner.html %}
+
+<section id="posts" class="clearfix animated fadeIn">
 
 {% include posts.html lang=page.lang title=page.blog-title limit=1000 %}
+
+</section>
 
 {% include footer.html %}

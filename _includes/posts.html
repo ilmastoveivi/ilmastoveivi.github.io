@@ -1,5 +1,3 @@
-<section id="posts" class="clearfix animated fadeIn">
-    <h2>{{include.title | default: "Blogi"}}</h2>
 
     <div class="post-list">
     {% assign posts=site.posts | where:"lang", include.lang %}
@@ -21,6 +19,4 @@
               </a>
             </div>
           {% endif %}
-    </section>
-
-</div>
+      </div>

@@ -2,14 +2,12 @@
 layout: post
 title:  Onko Suomi valmis olemaan Euroopan ilmasto-Bhutan?
 lang: fi
-description: Joulukuun lopussa kaikki eduskuntapuolueet, perussuomalaisia lukuun ottamatta, sitoutuivat yhdessä tiukentamaan Suomen ilmastopolitiikan tavoitteita. Kahdeksan puolueen yhteislinjaus oli tervetullut avaus Suomen tavoitteista ennen heinäkuussa koittavaa EU-puheenjohtajuutta, mutta sekään ei ole vielä riittävän kunnianhimoinen.
+description: Intian ja Kiinan välissä möllöttävä pikkuinen Bhutan on luultavasti maailman ainoa hiilinegatiivinen valtio. Tämä tarkoittaa sitä, että maa sitoo enemmän ympäristölle haitallisia liiallisia hiilidioksidipäästöjä kuin mitä sen asukkaiden toiminta aiheuttaa.
 og_type: article
 author: Laura Kallas
 author-desc: Laura Kallas on kansainvälisiä tieteitä opiskellut kirjoittaja ja pohdiskelija. Hänen lempiajanvietteensä on Suomen puhtaassa luonnossa samoilu, ja hän haluaa, että voi tehdä niin tulevaisuudessakin.
 author-img: "/img/authors/Laura_Kallas.jpg"
-
 banner-url: "/img/blog-banners/water.jpg"
-
 ---
 
 Intian ja Kiinan välissä möllöttävä pikkuinen Bhutan on luultavasti maailman ainoa hiilinegatiivinen valtio. Tämä tarkoittaa sitä, että maa sitoo enemmän ympäristölle haitallisia liiallisia hiilidioksidipäästöjä kuin mitä sen asukkaiden toiminta aiheuttaa.
@@ -34,4 +32,4 @@ Kun me kaikki teemme selväksi yhteen ääneen, että tärkein asia juuri nyt on
 
 Monella tapaa Bhutan muistuttaa Suomea – paljon metsää, vähän ihmisiä. Olemmeko valmiita olemaan Bhutanin tavoin se pieni ja pippurinen valtio, joka näyttää esimerkkiä muille?
 
-Lue täältä Ilmastoveivin vaatimukset tulevaisuutemme turvaamiseksi ja allekirjoita vetoomus.
+Lue [täältä](https://www.ilmastoveivi2019.fi) Ilmastoveivin vaatimukset tulevaisuutemme turvaamiseksi ja allekirjoita vetoomus.

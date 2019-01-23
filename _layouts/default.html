@@ -62,7 +62,16 @@
             </script>
         </section>
         
-        {% include posts.html limit=2 title=page.blog-title lang=page.lang show_all_posts=page.show-all all_posts_url=page.blog-url  %}
+        {% assign posts=site.posts | where:"lang", page.lang %}
+        {% if posts.size > 0 %}
+        <section id="posts" class="clearfix animated fadeIn">
+            
+            <h2>{{page.blog-title | default: "Blogi"}}</h2>
+            
+            {% include posts.html limit=2 lang=page.lang show_all_posts=page.show-all all_posts_url=page.blog-url  %}
+        
+        </section>
+        {% endif %}
 
         <div id="campaign-info-link-container" class="button-hover">
             <a id="campaign-info-link" class="button" href="{{page.campaign-page-link-url}}""> 
