@@ -1,6 +1,6 @@
 ---
 layout: all-posts
 lang: fi
-blog-title: blogi
+blog-title: Veiviblogi
 ref: blog
 ---

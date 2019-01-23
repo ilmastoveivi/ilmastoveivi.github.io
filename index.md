@@ -13,7 +13,7 @@ act-text3: …edistämään EU:ssa tavoitetta ilmaston lämpenemisen rajaamisest
 sign-button-text: Lue vetoomus ja allekirjoita
 campaign-info-link-text: Kampanjan tausta
 lang: fi
-blog-title: Blogi
+blog-title: Veiviblogi
 blog-url: /blogi-fi
 show-all: Näytä kaikki
 campaign-page-link-url: /kampanja

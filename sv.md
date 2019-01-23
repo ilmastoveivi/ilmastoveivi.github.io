@@ -15,6 +15,9 @@ campaign-info-link-text: Kampanjens bakgrund
 campaign-page-link-url: /kampanj
 typeform-url: https://ilmastoveivi.typeform.com/to/iqFagL
 redirect-url: https://ilmastoveivi2019.fi/tackar.html
+blog-title: Kampanjbloggen 
+blog-url: /blogi-sv
+show-all: Se mer
 
 
 ---

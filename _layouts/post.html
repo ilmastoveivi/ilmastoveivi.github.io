@@ -3,19 +3,34 @@
   {% when "fi" %}
     {% assign return_to_front = "Palaa etusivulle" %}
     {% assign ref = "/" %}
+    {% assign blog_name = "Veiviblogi" %}
   {% when "en" %}
     {% assign return_to_front = "Return to frontpage" %}
-    {% assign ref = "/en" %}
+    {% assign ref = "/en.html" %}
+    {% assign blog_name = "Kampanjbloggen" %}
   {% when 'sv' %}
     {% assign return_to_front = "Återvänd till framsidan" %}
-    {% assign ref = "/sv" %}
+    {% assign ref = "/sv.html" %}
+    {% assign blog_name = "Campaign blog" %}
 {% endcase %}
 
-{% include corner-logo.html %}
 
-        <section id="post" class="animated fadeIn">
-          
+
+        <section id="post-header" style="background-image: url({{page.banner-url}})" class="animated fadeIn">
+        <div id="post-logo">
+          <a href={{ref}}>
+          <img src="/img/logo-115.png"/>
+        </a>
+        </div>
+          <h1>{{blog_name}}</h1>
+        </section>
+
+        <section id="post-title" class="animated fadeIn">
           <h1>{{page.title}}</h1>
+        </section>
+
+
+        <section class="post-content animated fadeIn">
           
           {{content}}
 

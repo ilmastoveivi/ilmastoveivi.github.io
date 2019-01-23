@@ -131,6 +131,14 @@ textarea {
    background-color: $color-container-tint;
 }
 
+@mixin cursive($size) {
+  font-family: $slogan-font;
+  font-weight: $slogan-weight;
+  text-transform: none;
+  transform: rotate(-11deg);
+  font-size: $size;
+}
+
 /* ======================================================================
    Styles
 ====================================================================== */
@@ -343,6 +351,10 @@ p {
 
 #posts {
   animation-delay: 0.8s;
+
+  h2 {
+    @include cursive(1.2em);
+  }
 }
 
 #logo-corner {
@@ -359,8 +371,55 @@ p {
   }
 }
 
-#post {
-  padding-top: 8em;
+
+#post-header {
+  
+  #post-logo {
+    left: 50%;
+    margin-top: -6em; 
+    position: absolute;
+    width: 12em;
+    z-index: 2;
+    
+    img {
+      width: 100%;
+      margin-left: -50%;
+    }
+    a {
+      background-color: transparent;
+    }
+  }
+
+  height: 17em;
+
+  margin-top: 6em;
+
+  background-size: cover;
+  background-color: #ffd3cc;
+
+  vertical-align: middle;
+
+  h1 {
+    font-family: learning-curve,sans-serif;
+    font-weight: 700;
+    text-transform: none;
+    font-size: 6em;
+    color: white;
+    text-align: center;
+    line-height: 1.7em;
+    
+  }
+}
+
+#post-title {
+  @include shade(left);
+}
+
+.post-content {
+  p {
+    font-size: 0.9em;
+    text-align: justify;
+  }
 }
 
 .post-list-item {
@@ -437,18 +496,26 @@ p {
 
   .bio-img {
 
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    justify-content: center;
+    flex-grow: 1;
+
+    text-align: center;
 
     img {
-      clip-path: circle(100px at center);
+      clip-path: circle(120px at center);
+      width: 80%;
     }
   }
 
-  p {
-    font-size: 0.9em;
+  .bio-text {
+
+    flex-grow: 1;
+    
+    padding: 2em 0 2em 0;
+
+    p {
+      font-size: 0.8em;
+      text-align: left;
+    }
   }
 }
 

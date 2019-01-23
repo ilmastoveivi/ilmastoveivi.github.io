@@ -1,6 +1,6 @@
 ---
 layout: all-posts
 lang: sv
-blog-title: Blog
+blog-title: Kampanjbloggen
 ref: blog
 ---
