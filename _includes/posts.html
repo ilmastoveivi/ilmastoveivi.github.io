@@ -1,10 +1,13 @@
 {% case page.lang %}
   {% when "fi" %}
     {% assign read_more = "Lue lisää" %}
+    {% assign show_all_posts = "Näytä kaikki" %}
   {% when "en" %}
     {% assign read_more = "Läs mera" %}
+    {% assign show_all_posts = "Se mer" %}
   {% when 'sv' %}
     {% assign read_more = "Read more" %}
+    {% assign show_all_posts = "Show more" %}
 {% endcase %}
 
 
@@ -18,14 +21,20 @@
           </div>
           <div class="col post-description">
             <p>{{ post.description }}</p>
-            <a href="{{ post.url }}">{{read_more}}</a>
+
+            <div class="button-hover button-container">
+                <a class="button button-smaller" href="{{ post.url }}">
+                    {{read_more}}
+                </a>
+            </div>
+            <!-- <a href="{{ post.url }}">{{read_more}}</a> -->
           </div>
           </div>
           {% endtablerow %}
           {% if posts.size > include.limit %}
             <div class="button-hover button-container">
               <a class="button" href="{{include.all_posts_url}}">
-                {{include.show_all_posts | default: "Näytä kaikki"}}
+                {{show_all_posts | default: "Näytä kaikki"}}
               </a>
             </div>
           {% endif %}

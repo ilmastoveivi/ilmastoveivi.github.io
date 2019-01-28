@@ -68,7 +68,7 @@
             
             <h2>{{page.blog-title | default: "Blogi"}}</h2>
             
-            {% include posts.html limit=2 lang=page.lang show_all_posts=page.show-all all_posts_url=page.blog-url  %}
+            {% include posts.html limit=2 lang=page.lang all_posts_url=page.blog-url  %}
         
         </section>
         {% endif %}
