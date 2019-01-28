@@ -886,7 +886,9 @@ footer {
   }
 
   .post-content {
-    text-align: left;
+    p {
+      text-align: left;
+    }
   }
 
   section {
