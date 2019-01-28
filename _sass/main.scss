@@ -236,10 +236,6 @@ h4 {
     font-style: italic;
 }
 
-h5 {
-  color: black;
-}
-
 p {
   font-weight: $body-weight;
 }
@@ -363,6 +359,7 @@ p {
 
   h2 {
     @include cursive(4em);
+    margin: .5em 0 .5em 0; 
   }
 }
 
@@ -408,6 +405,7 @@ p {
 
 #post-title {
   @include shade(left);
+  text-align: center;
 }
 
 .post-content {
@@ -433,6 +431,8 @@ p {
 
     h3, h5 {
       margin: .5em 0 .5em 0;
+      color: #FF8978;
+      letter-spacing: 0.0315em;
     }
 
     .col {
@@ -441,7 +441,7 @@ p {
     
     a {
       &:hover {
-        h3 {transform: translate(2px, -4px);}
+        h3, h5 {transform: translate(2px, -4px);}
         text-shadow: -4px 8px 40px rgba($color-accent2, 0.6);
       }
     }
@@ -481,7 +481,7 @@ p {
   }
 
 .bio-container {
-  margin: 5em 0 8em 0;
+  margin: 5em 0 4em 0;
 
   display: -webkit-flex;
   display: -ms-flexbox;

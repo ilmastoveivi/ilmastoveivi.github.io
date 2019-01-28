@@ -1,14 +1,24 @@
+{% case page.lang %}
+  {% when "fi" %}
+    {% assign read_more = "Lue lisää" %}
+  {% when "en" %}
+    {% assign read_more = "Läs mera" %}
+  {% when 'sv' %}
+    {% assign read_more = "Read more" %}
+{% endcase %}
+
 
     <div class="post-list">
     {% assign posts=site.posts | where:"lang", include.lang %}
           {% tablerow post in posts cols:1 limit:include.limit %}
           <div class="post-list-item">
           <div class="col">
-            <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+            <h3>{{ post.title }}</h3>
             <h5>{{ post.date | date: "%d.%m.%Y" }}</h5>
           </div>
           <div class="col">
             <p>{{ post.description }}</p>
+            <a href="{{ post.url }}">{{read_more}}</a>
           </div>
           </div>
           {% endtablerow %}
