@@ -23,7 +23,7 @@
             <p>{{ post.description }}</p>
 
             <div class="button-hover button-container">
-                <a class="button button-smaller" href="{{ post.url }}">
+                <a class="button read-more-button" href="{{ post.url }}">
                     {{read_more}}
                 </a>
             </div>
@@ -32,7 +32,7 @@
           </div>
           {% endtablerow %}
           {% if posts.size > include.limit %}
-            <div class="button-hover button-container">
+            <div id="show-all-button" class="button-hover button-container">
               <a class="button" href="{{include.all_posts_url}}">
                 {{show_all_posts | default: "Näytä kaikki"}}
               </a>
