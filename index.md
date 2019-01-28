@@ -12,7 +12,6 @@ act-text2: …jolla kannustetaan poliitikkoja
 act-text3: …edistämään EU:ssa tavoitetta ilmaston lämpenemisen rajaamisesta 1,5 asteeseen
 sign-button-text: Lue vetoomus ja allekirjoita
 campaign-info-link-text: Kampanjan tausta
-lang: fi
 blog-title: Veiviblogi
 blog-url: /blogi-fi
 show-all: Näytä kaikki
