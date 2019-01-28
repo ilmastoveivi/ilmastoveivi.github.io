@@ -3,15 +3,12 @@
   {% when "fi" %}
     {% assign return_to_front = "Palaa etusivulle" %}
     {% assign frontpage = "/" %}
-    {% assign blog-title = "Veiviblogi" %}
   {% when "en" %}
     {% assign return_to_front = "Return to frontpage" %}
     {% assign frontpage = "/en.html" %}
-    {% assign blog-title = "Kampanjbloggen" %}
   {% when 'sv' %}
     {% assign return_to_front = "Återvänd till framsidan" %}
     {% assign frontpage = "/sv.html" %}
-    {% assign blog-title = "Campaign blog" %}
 {% endcase %}
 
         {% include blog-banner.html%}

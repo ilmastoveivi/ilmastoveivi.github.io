@@ -12,11 +12,11 @@
     {% assign posts=site.posts | where:"lang", include.lang %}
           {% tablerow post in posts cols:1 limit:include.limit %}
           <div class="post-list-item">
-          <div class="col">
+          <div class="col post-details">
             <h3>{{ post.title }}</h3>
             <h5>{{ post.date | date: "%d.%m.%Y" }}</h5>
           </div>
-          <div class="col">
+          <div class="col post-description">
             <p>{{ post.description }}</p>
             <a href="{{ post.url }}">{{read_more}}</a>
           </div>
