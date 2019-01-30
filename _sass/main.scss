@@ -121,28 +121,6 @@ textarea {
    ========================================================================== */
 
 
-
-/* ======================================================================
-   Mixins
-====================================================================== */
-
-@mixin shade($dir) {
-   background: -webkit-linear-gradient($dir, $color-container-tint, #fff);
-   background-color: $color-container-tint;
-}
-
-@mixin cursive($size) {
-  font-family: $slogan-font;
-  font-weight: $slogan-weight;
-  text-transform: none;
-  transform: rotate(-11deg);
-  font-size: $size;
-}
-
-/* ======================================================================
-   Styles
-====================================================================== */
-
 body {
     background: -webkit-linear-gradient(top, rgba(247, 212, 205, 1) 0, rgba(206, 218, 252, 1) 850px);
     background-color: $color-body-bg;
@@ -222,11 +200,6 @@ h2 {
     margin: 0.75em 0;
     text-transform: uppercase;
     line-height: 1;
-}
-
-h3 {
-  font-size: 1.2em;
-  color: black;
 }
 
 h4 {
@@ -354,169 +327,6 @@ p {
     padding-right: 1em;
 }
 
-
-#post-header {
-  
-  #post-logo {
-    left: 50%;
-    margin-top: -6em; 
-    position: absolute;
-    width: 12em;
-    z-index: 2;
-
-    display: block;
-    
-    img {
-      width: 100%;
-      margin-left: -50%;
-    }
-    a {
-      background-color: transparent;
-    }
-  }
-
-  height: 17em;
-
-  margin-top: 6em;
-
-  background-size: cover;
-  background-color: $color-accent2;
-
-
-  h1 {
-    font-family: learning-curve,sans-serif;
-    font-weight: 700;
-    text-transform: none;
-    font-size: 6em;
-    color: white;
-    text-align: center;
-    height: 17rem;
-    line-height: 17rem;
-    padding: 0;
-    margin: 0;
-    
-  }
-}
-
-#post-title {
-  @include shade(left);
-  text-align: center;
-}
-
-.post-content {
-  p {
-    font-size: 0.9em;
-
-    a {
-      text-decoration: underline;
-      color: $color-text;
-      background-color: initial;
-    }
-  }
-
-}
-
-#posts {
-  animation-delay: 0.8s;
-  padding: 0 0 2em 0;
-
-  h2 {
-    @include cursive(4em);
-    margin: .75em 0 0.5em 0; 
-  }
-}
-
-#show-all-button {
-  margin: 1em 0 0 0;
-}
-
-
-.post-list-item {
-    padding: 1em 3em 0.5em 3em;
-    margin: 1em 0 0 0;
-
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    overflow: hidden;
-
-
-    p {
-      font-size: 0.8em;
-    }
-
-    h3, h5 {
-      margin: 0.75em 0 .5em 0;
-      line-height: 1;
-      color: #1E44FF;
-      letter-spacing: 0.0315em;
-    }
-
-    .col {
-      flex: 1;
-    }
-
-    .read-more-button {
-
-      margin: 1em 0.5em 1em;
-      font-size: 0.8em;
-    }
-
-      
-      .post-details {
-        order: 0;
-        flex-grow: 1;
-        text-align: right;
-        border-right: 1px solid $color-container-tint;
-        padding: 0 .5em 0 .5em;
-      }
-
-      .post-description {
-        order: 1;
-        flex-grow: 2;
-        padding: 0 .5em 0 .5em;
-      }
-
-  }
-
-.bio-container {
-  margin: 5em 0 4em 0;
-
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-
-  .bio-img {
-
-    flex-grow: 1;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    text-align: -webkit-center;
-    justify-content: center;
-
-    img {
-      border-radius: 0.75em;
-      width: 60%;
-    }
-  }
-
-  .bio-text {
-
-    flex-grow: 1;
-
-    padding: 2em 0 2em 0;
-
-    p {
-      font-size: 0.8em;
-      text-align: left;
-    }
-  }
-}
-
-
 .toggle-content {
 	display: none;
 	height: 0;
@@ -527,10 +337,6 @@ p {
 .toggle-content.is-visible {
 	display: block;
 	height: auto;
-}
-
-.button-container {
-  display: flex;
 }
 
 
@@ -545,7 +351,7 @@ button,
     border: none;
     text-align: center;
     box-shadow: -4px 8px 20px rgba($color-text, 0.4);
-    display: flex;
+    display: block;
     margin: 0 auto;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
@@ -848,42 +654,15 @@ footer {
       }
     }
   }
-  .bio-container {
-    flex-direction: column;
-
-    p, h5 {
-      text-align: center;
-    }
-  }
 }
 
 @media only screen and (max-width: 440px) {
   h1.logo .front {
     margin-top: -67%;
   }
-
-  .post-list-item {
-    padding: 0 1em 0 0;
-  }
 }
 
 @media only screen and (max-width: 380px) {
-  #post-header {
-    h1 {
-      font-size: 4.7em;
-    }
-  }
-
-  .bio-container {
-    margin: 3em 0 1em 0;
-  }
-
-  .post-content {
-    p {
-      text-align: left;
-    }
-  }
-
   section {
     padding: 1em 1.5em;
   }
