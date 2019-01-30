@@ -15,8 +15,6 @@ campaign-info-link-text: Campaign background
 campaign-page-link-url: /campaign
 typeform-url: https://ilmastoveivi.typeform.com/to/xqKy2P
 redirect-url: https://ilmastoveivi2019.fi/thanks.html
-blog-title: Campaign blog
-blog-url: /blogi-en
 
 
 ---
