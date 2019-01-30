@@ -5,11 +5,11 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>{{site.title}}</title>
-    <meta name="description" content="{{site.desc}}">
+    <meta name="description" content="{{page.description | default: site.desc}}">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Search Engine -->
-    <meta name="description" content="{{site.desc}}">
+    <meta name="description" content="{{page.description | default: site.desc}}}">
     <meta name="image" content="{{site.image}}">
     <!-- Schema.org for Google -->
     <meta itemprop="name" content="{{site.title}}">
@@ -17,17 +17,19 @@
     <meta itemprop="image" content="{{site.image}}">
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="{{site.title}}">
-    <meta name="twitter:description" content="{{site.desc}}">
+    <meta name="twitter:title" content="{{page.title | default: site.title}}">
+    <meta name="twitter:description" content="{{page.description | default: site.desc}}">
     <meta name="twitter:site" content="{{site.twitter}}">
-    <meta name="twitter:image:src" content="{{site.image}}">
+    <meta name="twitter:image:src" content="{{page.og_image | default: site.image}}">
     <!-- Open Graph general (Facebook, Pinterest & Google+) -->
-    <meta name="og:title" content="{{site.title}}">
-    <meta name="og:description" content="{{site.desc}}">
-    <meta name="og:image" content="{{site.image}}">
-    <meta name="og:url" content="{{site.url}}">
+    <meta name="og:title" content="{{page.title | default: site.title}}">
+    <meta name="og:description" content="{{page.description | default: site.desc}}">
+    <meta name="og:image" content="{{page.og_image | default: site.image}}">
+    <meta property="og:image:width" content="1023"/>
+    <meta property="og:image:height" content="780"/>
+    <meta name="og:url" content="{{page.url | default: site.url}}">
     <meta name="og:site_name" content="{{site.title}}">
-    <meta name="og:type" content="website">
+    <meta name="og:type" content="{{page:og_type | default: 'website'}}">
 
 
     <link rel="manifest" href="site.webmanifest">
@@ -37,8 +39,8 @@
     <link href="https://fonts.googleapis.com/css?family=Chakra+Petch:400,700" rel="stylesheet"><!-- Chakra Petch -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/styles.css">
 </head>
 
 <body>
