@@ -1,0 +1,41 @@
+{% case page.lang %}
+  {% when "fi" %}
+    {% assign read_more = "Lue lisää" %}
+    {% assign show_all_posts = "Näytä kaikki" %}
+  {% when "en" %}
+    {% assign read_more = "Läs mera" %}
+    {% assign show_all_posts = "Se mer" %}
+  {% when 'sv' %}
+    {% assign read_more = "Read more" %}
+    {% assign show_all_posts = "Show more" %}
+{% endcase %}
+
+
+    <div class="post-list">
+    {% assign posts=site.posts | where:"lang", include.lang %}
+          {% tablerow post in posts cols:1 limit:include.limit %}
+          <div class="post-list-item">
+          <div class="col post-details">
+            <h3>{{ post.title }}</h3>
+            <h5>{{ post.date | date: "%d.%m.%Y" }}</h5>
+          </div>
+          <div class="col post-description">
+            <p>{{ post.description }}</p>
+
+            <div class="button-hover button-container">
+                <a class="button read-more-button" href="{{ post.url }}">
+                    {{read_more}}
+                </a>
+            </div>
+            <!-- <a href="{{ post.url }}">{{read_more}}</a> -->
+          </div>
+          </div>
+          {% endtablerow %}
+          {% if posts.size > include.limit %}
+            <div id="show-all-button" class="button-hover button-container">
+              <a class="button" href="{{include.all_posts_url}}">
+                {{show_all_posts | default: "Näytä kaikki"}}
+              </a>
+            </div>
+          {% endif %}
+      </div>
