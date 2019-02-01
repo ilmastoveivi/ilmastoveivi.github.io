@@ -3,6 +3,15 @@
 
 {% endif %}
 ">
+
+{% if page.layout != "thanks" %}
+    <div class="buttons">
+        <a href="https://twitter.com/{{site.twitter}}" target="_blank" class="button small twitter"><i class="fab fa-twitter"></i> Twitter</a>
+        <a href="https://www.facebook.com/{{site.facebook}}" target="_blank" class="button small facebook"><i class="fab fa-facebook-square"></i> Facebook</a>
+        <a href="https://www.instagram.com/{{site.instagram}}" target="_blank" class="button small instagram"><i class="fab fa-instagram"></i> Instagram</a>
+    </div>
+{% endif %}
+
 {% if page.lang == "fi" %}
     <p id="legal"><a href="tietosuojaseloste.html">Tietosuojaseloste</a></p>
 {% elsif page.lang == "sv" %}
