@@ -6,7 +6,7 @@ description: Lähes kaikki eduskuntapuolueet sitoutuivat viime kuussa tiukentama
 og_type: article
 author: Sakari Nuutila
 author-desc: Sakari Nuuttila on Mäntsälässä varttunut toimittaja ja kirjoittaja, jonka ilmastoahdistuksen laukaisi jo aikoinaan teini-iässä altistuminen epämiellyttävälle totuudelle.
-author-img: "/img/authors/Sakari_Nuutila-1.jpg"
+author-img: "/img/authors/veiviblogisakari1.jpg"
 banner-url: "/img/blog-banners/leaves.jpg"
 ---
 

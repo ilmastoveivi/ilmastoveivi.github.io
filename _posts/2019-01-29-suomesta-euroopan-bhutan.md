@@ -6,7 +6,7 @@ description: Intian ja Kiinan välissä möllöttävä pikkuinen Bhutan on luult
 og_type: article
 author: Laura Kallas
 author-desc: Laura Kallas on kansainvälisiä tieteitä opiskellut kirjoittaja ja pohdiskelija. Hänen lempiajanvietteensä on Suomen puhtaassa luonnossa samoilu, ja hän haluaa, että voi tehdä niin tulevaisuudessakin.
-author-img: "/img/authors/Laura_Kallas-1.jpg"
+author-img: "/img/authors/veiviblogilaura1.jpg"
 banner-url: "/img/blog-banners/water.jpg"
 ---
 
