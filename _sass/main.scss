@@ -159,7 +159,7 @@ article {
 section {
     background-color: $color-container-bg;
     color: $color-text;
-    padding: 1em 3em;
+    padding: 1em 3em 1em 3em;
     margin-top: 1em;
     border-radius: 15px;
 }
@@ -225,15 +225,23 @@ h2 {
 }
 
 h3 {
-  font-size: 1.2em;
-  color: black;
+  margin: 0.75em 0 .5em 0;
+  line-height: 1;
+  color: #1E44FF;
+  letter-spacing: 0.0315em;
 }
 
 h4 {
     text-align: center;
     margin: 0;
-    margin-bottom: -1em;
-    font-style: italic;
+    font-family: $body-font;
+}
+
+h5 {
+  margin: 0.75em 0 .5em 0;
+  line-height: 1;
+  color: #1E44FF;
+  letter-spacing: 0.0315em;
 }
 
 p {
@@ -355,9 +363,10 @@ p {
 }
 
 
-#post-header {
+
+#banner {
   
-  #post-logo {
+  #banner-logo {
     left: 50%;
     margin-top: -6em; 
     position: absolute;
@@ -391,7 +400,7 @@ p {
     color: white;
     text-align: center;
     height: 17rem;
-    line-height: 17rem;
+    line-height: 18rem;
     padding: 0;
     margin: 0;
     
@@ -445,13 +454,6 @@ p {
       font-size: 0.8em;
     }
 
-    h3, h5 {
-      margin: 0.75em 0 .5em 0;
-      line-height: 1;
-      color: #1E44FF;
-      letter-spacing: 0.0315em;
-    }
-
     .col {
       flex: 1;
     }
@@ -479,8 +481,9 @@ p {
 
   }
 
+
 .bio-container {
-  margin: 5em 0 4em 0;
+  margin: 1em 0 1em 0;
 
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -500,7 +503,7 @@ p {
 
     img {
       border-radius: 0.75em;
-      width: 90%;
+      width: 240px;
     }
   }
 
@@ -508,7 +511,7 @@ p {
 
     flex-grow: 1;
 
-    padding: 2em 0 2em 0;
+    padding: 1em 0 1em 0;
 
     p {
       font-size: 0.8em;
@@ -517,6 +520,19 @@ p {
   }
 }
 
+.pad-top-bot {
+  padding: 2em 0 2em 0;
+}
+
+
+// #campaigners {
+//   #banner {
+//     background: white;
+//     h1 {
+//       color: $color-heading;
+//     }
+//   }
+// }
 
 .toggle-content {
 	display: none;

@@ -2,16 +2,20 @@
 {% case page.lang %}
   {% when "fi" %}
     {% assign return_to_front = "Palaa etusivulle" %}
+    {% assign blog-title = "Veiviblogi" %}
     {% assign frontpage = "/" %}
   {% when "en" %}
     {% assign return_to_front = "Return to frontpage" %}
+    {% assign blog-title = "Campaign blog" %}
     {% assign frontpage = "/en.html" %}
   {% when 'sv' %}
     {% assign return_to_front = "Återvänd till framsidan" %}
+    {% assign blog-title = "Kampanjbloggen" %}
     {% assign frontpage = "/sv.html" %}
 {% endcase %}
 
-        {% include blog-banner.html%}
+
+        {% include banner.html banner-title=blog-title banner-img=page.banner-url %}
 
         <section id="post-title" class="animated fadeIn">
           <h2>{{page.title}}</h2>
@@ -22,8 +26,10 @@
           
           {{content}}
 
-            {% include author-bio.html name=page.author description=page.author-desc img=page.author-img%}
-        
+          <div class="pad-top-bot">
+            {% include bio.html name=page.author description=page.author-desc img=page.author-img%}
+          </div>
+
             <div class="button-hover button-container">
                 <a class="button" href="{{ frontpage }}">
                   {{return_to_front}}

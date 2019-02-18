@@ -1,0 +1,16 @@
+---
+- name: Liisa Kolehmainen
+  description: Olen helsinkiläinen kestävyystieteen opiskelija, jolle Ilmastoveivi2019-kampanja on keino muuttaa maailmantuskaa toivoksi ja toiminnaksi. Lisäksi minulle on tärkeää, että kampanjan kärkenä on vaikuttaa politiikkaan, sillä ilmastonmuutoskeskustelussa turhauttaa yltiöpäinen yksilön vastuun korostaminen. Poliitikot on valittu tekemään vaikeita päätöksiä, ja nyt on niiden aika. Päivätyönäni teen vesiluonnonvaroihin liittyvän hankkeen tiedeviestintää Demos Helsingillä. 
+  title: Kampanjapäällikkö
+  img: img/authors/veiviblogilaura1.jpg
+
+- name: Theo Levlin
+  title: Kampanjapäällikkö
+  description: Olen Helsinkiläinen vastavalmistunut FM, joka tekee korkeakouluharjoittelua Suomen Viron-instituutissa. Ilmastoveivissä olen ollut alusta asti ja nyt vastuussa yhteiskuntasuhteistamme ja viestinnästä yhdessä viestintäpäällikkömme Sonjan kanssa. Olen mukana Ilmastoveivissä, koska näen että EU-politiikkaan vaikuttaminen on paras tapa pysäyttää ilmastonmuutos. 
+  img: img/authors/veiviblogilaura1.jpg
+
+- name: Eric Sihvola
+  title: Kontaktointikoordinaattori 
+  description: Olen Euroopan ja Pohjoismaiden tutkimuksen opiskelija, joka veivaamisen ohella tähtää gradun ja opintojen viimeistelyyn. Liityin tammikuun alkupuolella Ilmastoveiviin nähdessäni sen olevan ainutlaatuinen tilaisuus kohentaa Suomen ja koko Euroopan ilmastotoimia. Tässä kampanjassa on myös uskomaton tekemisen meininki – nyt tehdään eikä vain puhuta!   
+  img: img/authors/veiviblogilaura1.jpg
+...
