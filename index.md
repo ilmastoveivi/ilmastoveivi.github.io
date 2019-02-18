@@ -16,8 +16,6 @@ blog-title: Veiviblogi
 blog-url: /blogi-fi
 show-all: Näytä kaikki
 campaign-page-link-url: /kampanja
-typeform-url: https://ilmastoveivi.typeform.com/to/WpWzgl
-redirect-url: https://ilmastoveivi2019.fi/kiitos.html
 
 
 ---

@@ -13,8 +13,6 @@ act-text3: …att inom EU verka för att begränsa den globala uppvärmningen ti
 sign-button-text: Läs och underteckna appellen
 campaign-info-link-text: Kampanjens bakgrund
 campaign-page-link-url: /kampanj
-typeform-url: https://ilmastoveivi.typeform.com/to/iqFagL
-redirect-url: https://ilmastoveivi2019.fi/tackar.html
 blog-title: Kampanjbloggen 
 blog-url: /blogi-sv
 

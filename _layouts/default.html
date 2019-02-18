@@ -12,29 +12,7 @@
         </section>
         
         <section id="sign" class="shaded animated fadeIn">
-
-            <div class="button-hover"><button id="sign-button"> {{page.sign-button-text}} </button></div>
-
-            <script src="https://embed.typeform.com/embed.js"></script>
-            <script>
-                let popup;
-                window.addEventListener('DOMContentLoaded', function() {
-                    popup = window.typeformEmbed.makePopup('{{page.typeform-url}}', {
-                        mode: 'popup',
-                        hideHeaders: true,
-                        hideFooter: false,
-                        onSubmit: function() {
-                            console.log('Typeform successfully submitted');
-                            window.location.href = '{{page.redirect-url}}';
-                        }
-                    });
-
-                })
-                document.getElementById('sign-button').addEventListener('click', function() {
-                    popup.open();
-                });
-
-            </script>
+            <div class="button-hover"><button class="sign-button"> {{page.sign-button-text}} </button></div>
         </section>
 
         <section id="front-main" class="animated fadeIn">

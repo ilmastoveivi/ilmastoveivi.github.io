@@ -35,6 +35,39 @@ ga('send', 'pageview')
 </script>
 <script src="https://www.google-analytics.com/analytics.js" async defer></script>
 
+
+{% if page.lang == "fi" %}
+    {% assign redirect_url = site.typeform-redirect-fi %}
+    {% assign typeform_url = site.typeform-url-fi %}
+{% elsif page.lang == "sv" %}
+    {% assign redirect_url = site.typeform-redirect-sv %}
+    {% assign typeform_url = site.typeform-url-sv %}
+{% else %}
+    {% assign redirect_url = site.typeform-redirect-en %}
+    {% assign typeform_url = site.typeform-url-en %}
+{% endif %}
+<script src="https://embed.typeform.com/embed.js"></script>
+<script>
+    let popup;
+    window.addEventListener('DOMContentLoaded', function() {
+        popup = window.typeformEmbed.makePopup('{{typeform_url}}', {
+            mode: 'popup',
+            hideHeaders: true,
+            hideFooter: false,
+            onSubmit: function() {
+                console.log('Typeform successfully submitted');
+                window.location.href = '{{redirect_url}}';
+            }
+        });
+
+    })
+    var button_list = document.getElementsByClassName('sign-button');
+    [].forEach.call(button_list, function (button) {
+        button.addEventListener('click', function() {
+            popup.open();
+        });
+    });
+</script>
 </body>
 
 </html>

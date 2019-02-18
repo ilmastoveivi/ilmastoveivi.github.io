@@ -53,16 +53,20 @@
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
 
-  <!-- Menu translations -->
+  <!-- Menu translations. These lists only include links other than the sign link. 
+       The signing link is always second on the list and is defined below -->
 {% if page.lang == "fi" %}
     {% assign menu_names = "Etusivu, Blogi, Kampanja" | split: ", "  %}
     {% assign menu_urls = "/, /#posts, /kampanja" | split: ", " %}
+    {% assign sign_button_link_text = "Allekirjoita vetoomus" %}
 {% elsif page.lang == "sv" %}
     {% assign menu_names = "Hemsidan, Kampanj" | split: ", "  %}
     {% assign menu_urls = "/sv, /kampanj" | split: ", " %}
+    {% assign sign_button_link_text = "Underteckna appellen" %}
 {% else %}
     {% assign menu_names = "Home, Campaign" | split: ", "  %}
     {% assign menu_urls = "/en, /campaign" | split: ", " %}
+    {% assign sign_button_link_text = "Sign the petition" %}
 {% endif %}
 
   <article>
@@ -82,6 +86,12 @@
                         <li class="nav-item">
                             <a class="nav-link" href="{{ menu_urls[i] }}">{{ menu_names[i] }} <span class="sr-only">(current)</span></a>
                         </li>
+                        <!-- Sign button is defined separately, because of the different HTML -->
+                        {% if i==0 %}
+                            <li class="nav-item">
+                                <button class="sign-button"> {{page.sign-button-text}} </button>
+                            </li>   
+                        {% endif %}
                     {% endfor %}
                     
                     </ul>
