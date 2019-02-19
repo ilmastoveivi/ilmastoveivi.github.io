@@ -5,11 +5,11 @@
 {% include banner.html banner-title=page.page-title %}
 
 <section class="clearfix animated fadeIn">
-    <h4>{{page.page-ingress}}</h4>
+    <p class="intro">{{page.page-ingress}}</p>
 </section>
 
 <section class="clearfix animated fadeIn">
-    {% assign campaigners=site.data.campaigners[page.lang] | sort: "name" %}
+    {% assign campaigners=site.data.campaigners[page.lang] %}
     {% for person in campaigners %}
         {% include bio.html name=person.name title=person.title description=person.description img=person.img %}
     {% endfor %}
