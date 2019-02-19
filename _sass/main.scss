@@ -151,7 +151,7 @@ body {
 
 article {
     min-height: 80em;
-    max-width: 40rem;
+    max-width: 43rem;
     margin: 0 auto;
     padding: 0 3em 5em 3em;
 }
@@ -566,14 +566,18 @@ p {
 }
 
 
-// #campaigners {
-//   #banner {
-//     background: white;
-//     h1 {
-//       color: $color-heading;
-//     }
-//   }
-// }
+#campaigners {
+  #banner {
+    background: $color-text;
+    height: 18em;
+    h1 {
+      color: white;
+      font-family: $heading-font;
+      transform: none;
+      text-transform: uppercase;
+    }
+  }
+}
 
 .toggle-content {
 	display: none;
@@ -911,7 +915,7 @@ footer {
   .bio-container {
     flex-direction: column;
 
-    p, h5 {
+    h5, h3 {
       text-align: center;
     }
   }
