@@ -147,6 +147,7 @@ body {
     background: -webkit-linear-gradient(top, rgba(247, 212, 205, 1) 0, rgba(206, 218, 252, 1) 850px);
     background-color: $color-body-bg;
     font-family: $body-font;
+    line-height: $line-height-normal;
 }
 
 article {
@@ -488,6 +489,9 @@ p {
     display: flex;
     overflow: hidden;
 
+    h3 {
+      margin-top: 0.2em;
+    }
 
     p {
       font-size: 0.8em;
@@ -498,25 +502,24 @@ p {
     }
 
     .read-more-button {
-
       margin: 1em 0.5em 1em;
       font-size: 0.8em;
     }
 
       
-      .post-details {
-        order: 0;
-        flex-grow: 1;
-        text-align: right;
-        border-right: 1px solid $color-container-tint;
-        padding: 0 .5em 0 .5em;
-      }
+    .post-details {
+      order: 0;
+      flex-grow: 1;
+      text-align: right;
+      border-right: 1px solid $color-container-tint;
+      padding: 0 .5em 0 .5em;
+    }
 
-      .post-description {
-        order: 1;
-        flex-grow: 2;
-        padding: 0 .5em 0 .5em;
-      }
+    .post-description {
+      order: 1;
+      flex-grow: 2;
+      padding: 0 .5em 0 .5em;
+    }
 
   }
 
