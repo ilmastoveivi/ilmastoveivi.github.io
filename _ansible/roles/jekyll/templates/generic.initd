@@ -1,4 +1,5 @@
 #!/bin/sh
+#chkconfig: 2345 20 80
 
 SERVICE_NAME={{service_name}}
 DAEMON={{daemon}}
