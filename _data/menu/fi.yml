@@ -1,0 +1,6 @@
+- name: Etusivu
+  link: /
+- name: Blog
+  link: /blogi-fi
+- name: Kampanja
+  link: /kampanja

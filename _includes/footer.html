@@ -61,9 +61,10 @@ ga('send', 'pageview')
         });
 
     })
-    var button_list = document.getElementsByClassName('sign-button');
+    var button_list = document.getElementsByClassName('sign-button-onclick');
     [].forEach.call(button_list, function (button) {
-        button.addEventListener('click', function() {
+        button.addEventListener('click', function(e) {
+            e.preventDefault();
             popup.open();
         });
     });
