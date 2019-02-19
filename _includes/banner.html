@@ -1,20 +1,17 @@
 {% case page.lang %}
   {% when "fi" %}
     {% assign frontpage = "/" %}
-    {% assign blog-title = "Veiviblogi" %}
   {% when "en" %}
     {% assign frontpage = "/en.html" %}
-    {% assign blog-title = "Kampanjbloggen" %}
   {% when 'sv' %}
     {% assign frontpage = "/sv.html" %}
-    {% assign blog-title = "Campaign blog" %}
 {% endcase %}
 
-<section id="post-header" style="background-image: url({{page.banner-url}})" class="animated fadeIn">
-    <div id="post-logo">
+<section id="banner" style="background-image: url({{include.banner-img}})" class="animated fadeIn">
+    <div id="banner-logo">
         <a href={{frontpage}}>
             <img src="/img/logo-115.png" />
         </a>
     </div>
-    <h1>{{blog-title}}</h1>
+    <h1>{{include.banner-title}}</h1>
 </section>

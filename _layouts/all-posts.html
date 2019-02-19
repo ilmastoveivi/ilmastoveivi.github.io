@@ -1,6 +1,17 @@
 {% include header.html %}
+{% case page.lang %}
+  {% when "fi" %}
+    {% assign blog-title = "Veiviblogi" %}
+  {% when "en" %}
+    {% assign blog-title = "Campaign blog" %}
+  {% when 'sv' %}
+    {% assign blog-title = "Kampanjbloggen" %}
+{% endcase %}
 
-{% include blog-banner.html %}
+
+{% include header.html %}
+
+{% include banner.html  banner-title=blog-title  %}
 
 <section id="posts" class="clearfix animated fadeIn">
 
