@@ -9,7 +9,7 @@
 </section>
 
 <section class="clearfix animated fadeIn">
-    {% assign campaigners=site.data.campaigners[page.lang] %}
+    {% assign campaigners=site.data.campaigners[page.lang] | sort: "name" %}
     {% for person in campaigners %}
         {% include bio.html name=person.name title=person.title description=person.description img=person.img %}
     {% endfor %}
