@@ -1,8 +1,28 @@
 ---
+- name: Laura Kolehmainen
+  title: Kampanjan perustaja
+  description: Olen helsinkiläistynyt maailmanpolitiikan tutkimuksen ja oikeustieteen opiskelija. Aloitin Veivin, koska koin, että on tartuttava toimeen, ja ehdotettava tarpeeksi suurta, vakuuttavaa ja isoa ratkaisua ilmastonmuutokseen, jos haluaa uskoa ihmiskunnan tulevaisuuteen. Uskon myös vankasti siihen, että yksilöt eivät voi olla vastuussa ilmastonmuutoksen torjunnasta ja ainoa realistinen tapa hillitä ilmastonmuutos on kokonaisvaltainen yhteiskunnallinen muutos. Työskentelen tutkimusavustajana Helsingin yliopistolla.
+  img: img/campaigners/Laura.jpg
+
+- name: Ella Lautaniemi
+  title: Kampanjapäällikkö 
+  description: Olen oikeudenmukaisen ja kestävämmän maailman rakentamisesta kiinnostunut sosiaalipsykologi. Lähdin vuoden 2019 alussa mukaan Ilmastoveiviin, koska mielestäni politiikassa pitää tehdä päätöksiä, joiden avulla meidän kaunis ja ihmeellinen maapallo on tulevaisuudessakin elinkelpoinen kaikille. Kampanjan tavoitteiden ohella veivissä inspiroi myös ahkera, motivoitunut ja taitava vapaaehtoisten jengi.  
+  img: img/campaigners/Ella.jpg
+
 - name: Liisa Kolehmainen
   description: Olen helsinkiläinen kestävyystieteen opiskelija, jolle Ilmastoveivi2019-kampanja on keino muuttaa maailmantuskaa toivoksi ja toiminnaksi. Lisäksi minulle on tärkeää, että kampanjan kärkenä on vaikuttaa politiikkaan, sillä ilmastonmuutoskeskustelussa turhauttaa yltiöpäinen yksilön vastuun korostaminen. Poliitikot on valittu tekemään vaikeita päätöksiä, ja nyt on niiden aika. Päivätyönäni teen vesiluonnonvaroihin liittyvän hankkeen tiedeviestintää Demos Helsingillä. 
   title: Kampanjapäällikkö
   img: img/campaigners/Liisa.jpg
+
+- name: Luka Appelberg
+  title: Graafinen suunnittelija
+  description: Olen isojen, monimutkaisten ja pelottavien asioiden selkeyttäjän lisäksi sekä graafinen suunnittelija, että Ilmastoveivi2019-kampanjan visuaalisen ilmeen luoja. Osallistuin mukaan, koska kampanjan lähestymistapa globaaleihin haasteisiin puhuttelee minua ja uskon, että se on oikea tapa herättää kestävä politiikka Suomessa, Euroopassa ja maailmassa.
+  img: img/campaigners/Luka.jpg
+  
+- name: Sonja Nielsen
+  title: Viestintäpäällikkö
+  description: Kampanjassa vedän viestinnän kokonaisuutta hypäten vaihtelevasti editorin, suunnittelijan ja AD:n saappaisiin. Viestinnällisesti Ilmastoveivi2019 -kampanjassa yhdistyvät rakenteisiin vaikuttaminen, yhdessä tekeminen ja positiivinen meininki, mitkä ovat kaikki erityisen tärkeitä mutta usein unohdettuja näkökulmia ilmastokeskustelussa. Ammatiltani olen suunnittelija ja kestävän kehityksen asiantuntija erityishuolenani ilmastokysymykset.  
+  img: img/campaigners/Sonja.jpg
 
 - name: Theo Levlin
   title: Kampanjapäällikkö
@@ -18,26 +38,6 @@
   title: Tapahtumien ja kansainvälisten asioiden koordinaattori
   description: Olen yleisen kirjallisuustieteen opiskelija Helsingin yliopistolla. Vastaan veivin tapahtumatiimistä sekä kansainvälisestä puolesta. Lähdin veivaamaan kampanjan sanoman takia - haluamme vaikuttaa poliittisella tasolla, emme fokusoi yksilön vastuuseen. Päättäjillämme on vastuu kehittää järkevää ilmastopolitiikkaa meidän kaikkien puolesta. Ilmastoveivi2019-kampanjassa parasta on nähdä mihin kaikkeen pystyy upealla ja intohimoisella porukalla, yhdessä. 
   img: img/campaigners/Tuuli.jpg
-
-- name: Ella Lautaniemi
-  title: Kampanjapäällikkö 
-  description: Olen oikeudenmukaisen ja kestävämmän maailman rakentamisesta kiinnostunut sosiaalipsykologi. Lähdin vuoden 2019 alussa mukaan Ilmastoveiviin, koska mielestäni politiikassa pitää tehdä päätöksiä, joiden avulla meidän kaunis ja ihmeellinen maapallo on tulevaisuudessakin elinkelpoinen kaikille. Kampanjan tavoitteiden ohella veivissä inspiroi myös ahkera, motivoitunut ja taitava vapaaehtoisten jengi.  
-  img: img/campaigners/Ella.jpg
-  
-- name: Sonja Nielsen
-  title: Viestintäpäällikkö
-  description: Kampanjassa vedän viestinnän kokonaisuutta hypäten vaihtelevasti editorin, suunnittelijan ja AD:n saappaisiin. Viestinnällisesti Ilmastoveivi2019 -kampanjassa yhdistyvät rakenteisiin vaikuttaminen, yhdessä tekeminen ja positiivinen meininki, mitkä ovat kaikki erityisen tärkeitä mutta usein unohdettuja näkökulmia ilmastokeskustelussa. Ammatiltani olen suunnittelija ja kestävän kehityksen asiantuntija erityishuolenani ilmastokysymykset.  
-  img: img/campaigners/Sonja.jpg
-
-- name: Luka Appelberg
-  title: Graafinen suunnittelija
-  description: Olen isojen, monimutkaisten ja pelottavien asioiden selkeyttäjän lisäksi sekä graafinen suunnittelija, että Ilmastoveivi2019-kampanjan visuaalisen ilmeen luoja. Osallistuin mukaan, koska kampanjan lähestymistapa globaaleihin haasteisiin puhuttelee minua ja uskon, että se on oikea tapa herättää kestävä politiikka Suomessa, Euroopassa ja maailmassa.
-  img: img/campaigners/Luka.jpg
-
-- name: Laura Kolehmainen
-  title: Kampanjan perustaja
-  description: Olen helsinkiläistynyt maailmanpolitiikan tutkimuksen ja oikeustieteen opiskelija. Aloitin Veivin, koska koin, että on tartuttava toimeen, ja ehdotettava tarpeeksi suurta, vakuuttavaa ja isoa ratkaisua ilmastonmuutokseen, jos haluaa uskoa ihmiskunnan tulevaisuuteen. Uskon myös vankasti siihen, että yksilöt eivät voi olla vastuussa ilmastonmuutoksen torjunnasta ja ainoa realistinen tapa hillitä ilmastonmuutos on kokonaisvaltainen yhteiskunnallinen muutos. Työskentelen tutkimusavustajana Helsingin yliopistolla.
-  img: img/campaigners/Laura.jpg
   
 - name: Vilma Ala-Lahti
   title: Sisällöntuotanto ja Kontaktointi
