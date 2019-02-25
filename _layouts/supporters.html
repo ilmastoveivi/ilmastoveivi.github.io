@@ -1,0 +1,20 @@
+{% include header.html %}
+
+<div id="supporters"
+>
+{% include banner.html banner-title=page.page-title %}
+
+<section class="clearfix animated fadeIn">
+    <p class="intro">{{page.page-ingress}}</p>
+</section>
+
+<section class="supporters-container clearfix animated fadeIn">
+    {% assign supporters=site.data.supporters.companies[page.lang] %}
+    {% for supporter in supporters %}
+        {% include supporter-bio.html name=supporter.name info=supporter.info img=supporter.img %}
+    {% endfor %}
+</section>
+
+</div>
+
+{% include footer.html %}

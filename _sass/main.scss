@@ -568,6 +568,27 @@ p {
   padding: 2em 0 2em 0;
 }
 
+.supporters-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  .supporter-info {
+    display: none;
+  }
+  .supporter-bio-container {
+    
+    &:hover {
+      .supporter-img {
+        opacity: 0.2;
+      }
+      .supporter-info {
+        display: block;
+        margin-top: -140px;
+        padding-left: 40px;
+      }
+    }
+  }
+}
 
 #campaigners {
   #banner {
