@@ -946,6 +946,13 @@ footer {
 }
 
 @media only screen and (max-width: 440px) {
+
+  #banner {
+    h1 {
+      font-size: 5.1em;
+    }
+  }
+
   h1.logo .front {
     margin-top: -67%;
   }
@@ -956,7 +963,7 @@ footer {
 }
 
 @media only screen and (max-width: 380px) {
-  #post-header {
+  #banner {
     h1 {
       font-size: 4.7em;
     }

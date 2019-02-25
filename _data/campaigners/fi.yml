@@ -45,8 +45,19 @@
   img: img/campaigners/Tuuli.jpg
   
 - name: Vilma Ala-Lahti
-  title: Sisällöntuotanto ja Kontaktointi
+  title: Sisällöntuotanto ja kontaktointi
   description: Olen ratkaisukeskeinen ajattelija ja kestävästä yhteiskunnallisesta kehityksestä kiinnostunut oikeustieteen maisteriopiskelija sekä pitkän linjan ilmastoahdistuja. Vastaan ensisijaisesti sisällöntuotannosta Facebookiin sekä Instagramiin, mutta toimenkuvani venyy aina strategisesta pohdinnasta kontaktointiin ja visualisointiin. Ilmastopolitiikan suuriin linjoihin voidaan vaikuttaa ainoastaan ylikansallisella tasolla ja näen hyvinvointivaltiomme mahdollisuudet ilmastoratkaisujen kehittäjänä, siksi olenkin halunnut käyttää kykyjäni kampanjan edistämiseksi heti alusta lähtien.
   img: img/campaigners/Vilma.jpg
+
+- name: Sofia Rahikainen
+  title: Taloustiimi ja kontaktointi
+  description: Moi miä oon Sofia, helsinkiläistynyt kotkalainen ja oikeustieteen opiskelija Helsingin yliopistolta! Ilmastoveivi on mun tapani olla vaikuttamassa siihen, että edes yritämme minimoida ihmisen toiminnasta maapallollemme aiheutuneet vahingot ja pitää tän planeetan elinkelpoisena myös tuleville sukupolville. EU-puheenjohtajakausi onkin Suomelle poikkeuksellinen tehokas ja näyttävä paikka toimia arvojohtajana muille EU-maille, ja se paikka on käytettävä. Silloin kun en ilmastoveivaa mut voi löytää Demos Helsingiltä työskentelemässä laki- ja HR-asioiden parissa, järjestötoiminnan pyörteistä tai opettelemasta purjehtimaan!
+  img: img/campaigners/Sofia.jpg
+
+- name: Eve Nieminen
+  title: Videokoordinaattori
+  description: Olen elokuva-alan töistä ja tasa-arvoisesta sekä kestävästä tulevaisuudesta haaveileva valokuvauksen opiskelija Lahden muotoiluinstituutista. Kampanjassa vastaan erityisesti videosisällön koordinoinnista ja toimin myös vaihtelevasti muissa viestinnän hommissa. Veivissä ihailen muiden mukana olevien vapaaehtoisten lahjakkuutta, motivaatiota ja rohkeutta unelmoida. Lähdin mukaan, kun tajusin, että kaipaamani joukkovoima on tässä. 
+  img: img/campaigners/Eve.jpg
+
 
 ...
