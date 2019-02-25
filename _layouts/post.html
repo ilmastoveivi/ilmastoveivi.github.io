@@ -4,6 +4,7 @@
     {% assign return_to_front = "Palaa etusivulle" %}
     {% assign blog-title = "Veiviblogi" %}
     {% assign frontpage = "/" %}
+    {% assign disclaimer = "Veiviblogin kirjoittajien nimillä varustetut tekstit ovat näkökulmia, jotka edustavat kyseisen blogitekstin kirjoittajan ajatuksia, eivät Ilmastoveivi 2019 -kampanjan virallista kantaa. Blogitekstit perustuvat kirjoittajien löytämiin tietolähteisiin, joihin lukija pääsee tutustumaan tekstissä olevia hyperlinkkejä klikkaamalla." %}
   {% when "en" %}
     {% assign return_to_front = "Return to frontpage" %}
     {% assign blog-title = "Campaign blog" %}
@@ -25,6 +26,8 @@
         <section class="post-content animated fadeIn">
           
           {{content}}
+
+          <i>{{disclaimer}}</i>
 
           <div class="pad-top-bot">
             {% include bio.html name=page.author description=page.author-desc img=page.author-img%}
