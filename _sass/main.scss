@@ -746,6 +746,31 @@ footer {
   }
 }
 
+#supporter-content {
+  padding: 0;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+
+  .supporter-item {
+    position: relative;
+    width: 100%;
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+
+    .supporter-item-overlay {
+      background-color: rgba(206, 218, 252, 0.5);
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
 
 
 /* ==========================================================================

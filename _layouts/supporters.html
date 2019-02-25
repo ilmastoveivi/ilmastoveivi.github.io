@@ -1,0 +1,25 @@
+{% include header.html %}
+
+{% assign data_source=page.data_source %}
+
+<div id="supporters">
+{% include banner.html banner-title=page.page-title %}
+
+<section class="clearfix animated fadeIn">
+    <p class="intro">{{page.page-ingress}}</p>
+</section>
+
+<section id="supporter-content">
+    {% for item in site.data[data_source][page.lang] %}
+    <div class="supporter-item">
+        <img src="{{item.img}}">
+        <div class="supporter-item-overlay">
+            <a href={{item.url}}><h3>{{item.name}}</h3></a>
+        </div>
+    </div>
+    {% endfor %}
+</section>
+
+</div>
+
+{% include footer.html %}
