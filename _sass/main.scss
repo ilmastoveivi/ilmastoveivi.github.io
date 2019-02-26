@@ -407,7 +407,7 @@ p {
 #banner {
   
   #banner-logo {
-    left: 50%;
+    left: calc(50% - 6em);
     margin-top: -6em; 
     position: absolute;
     width: 12em;
@@ -417,7 +417,6 @@ p {
     
     img {
       width: 100%;
-      margin-left: -50%;
     }
     a {
       background-color: transparent;
@@ -762,19 +761,30 @@ footer {
     }
 
     .supporter-item-overlay {
-      background-color: $color-accent2;
+      background-color: rgba(255, 211, 204, 0);
       position: absolute;
       top: 0;
       right: 0;
       width: 100%;
       height: 100%;
-      opacity: 0.0;
-      transition: 0.3s linear;
+      transition: 0.3s ease;
+      a {
+        background-color: transparent;
+        transition: 0.3s ease;
+      }
+      h3 {
+        opacity: 0;
+      }
     }
 
-    &:hover {
+    &:hover, &:active {
       .supporter-item-overlay {
-        opacity: 0.7;
+
+        background-color: rgba(255, 211, 204, 0.7);
+
+        h3 {
+          opacity: 1;
+        }
       }
     }
   }
@@ -897,6 +907,10 @@ footer {
   h1.slogan {
     margin-top: -1.5em;
   }
+
+  #supporter-content {
+    grid-template-columns: 33% 33% 33%;
+  }
 }
 
 @media only screen and (max-width: 680px) {
@@ -979,6 +993,10 @@ footer {
 
   .post-list-item {
     padding: 0 1em 0 0;
+  }
+
+  #supporter-content {
+    grid-template-columns: 50% 50%;
   }
 }
 

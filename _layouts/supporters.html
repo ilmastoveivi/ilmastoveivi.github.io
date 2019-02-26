@@ -1,6 +1,6 @@
 {% include header.html %}
 
-{% assign data_source=page.data_source %}
+{% assign data=site.data[page.data_source][page.lang] | sort: "name" %}
 
 <div id="supporters">
 {% include banner.html banner-title=page.page-title %}
@@ -10,7 +10,7 @@
 </section>
 
 <section id="supporter-content">
-    {% for item in site.data[data_source][page.lang] %}
+    {% for item in data %}
     <div class="supporter-item">
         <img src="{{item.img}}">
         <div class="supporter-item-overlay centre-content">
