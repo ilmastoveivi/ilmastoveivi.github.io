@@ -3,10 +3,10 @@
 {% assign data=site.data[page.data_source][page.lang] | sort: "name" %}
 
 <div id="supporters">
-{% include banner.html banner-title=page.page-title %}
+{% include banner.html banner-title=page.page_title %}
 
 <section class="clearfix animated fadeIn">
-    <p class="intro">{{page.page-ingress}}</p>
+    <p class="intro">{{page.page_ingress}}</p>
 </section>
 
 <section id="supporter-content">
