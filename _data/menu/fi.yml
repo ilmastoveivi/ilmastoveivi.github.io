@@ -4,7 +4,10 @@
   link: /blogi-fi
 - name: Kampanja
   link: /kampanja
-- name: Tekijät
-  link: /tekijat
 - name: Tukijat
-  link: /tukijat
+  link:
+  children:
+    - name: Organisaatiot
+      link: /organisaatiot
+    - name: Henkilöt
+      link: /tukijat 

@@ -1,7 +1,7 @@
 ---
 layout: supporters
-data_source: orgs
+data_source: persons
 page_title: Tukijat
-page_ingress: Nämä organisaatiot ovat mukana Ilmastoveivi2019 -kampanjassa
+page_ingress: Nämä henkilöt ovat mukana tukemassa Ilmastoveivi2019 -kampanjaa
 lang: fi
 ---

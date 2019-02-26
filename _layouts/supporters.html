@@ -14,7 +14,11 @@
     <div class="supporter-item">
         <img src="{{item.img}}">
         <div class="supporter-item-overlay centre-content">
-            <a href={{item.url}}><h3>{{item.name}}</h3></a>
+            {% if item.url %}
+                <a href={{item.url}}><h3>{{item.name}}</h3></a>
+            {% else %}
+                <h3> {{ item.name }}</h3>
+            {% endif %}
         </div>
     </div>
     {% endfor %}
