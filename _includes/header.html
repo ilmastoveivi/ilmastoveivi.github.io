@@ -91,7 +91,7 @@
                             </li>
                         {% endif %}
                         <!-- Sign button is defined separately, because of the different HTML -->
-                        {% if i==0 %}
+                        {% if forloop.index == 1 %}
                             <li class="nav-item">
                                 <a href="" class="sign-button-onclick nav-link"> {{sign_button_link_text}} </a>
                             </li>   
