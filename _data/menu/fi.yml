@@ -4,6 +4,8 @@
   link: /blogi-fi
 - name: Kampanja
   link: /kampanja
+- name: Tekijät
+  link: /tekijat
 - name: Tukijat
   link:
   children:
