@@ -35,8 +35,8 @@
 - name: Milja Suihko 
   img: img/persons/milja_suihko.jpg
 
-- name: Ixandra 
-  img: img/persons/ixandra.jpg
+- name: lxandra 
+  img: img/persons/lxandra.jpg
 
 - name: Rauhatäti 
   img: img/persons/rauhatati.jpg
@@ -44,4 +44,12 @@
 - name: Ville Leino
   img: img/persons/ville_leino.jpg
 
+- name: Nooralotta Neziri
+  img: img/persons/nooralotta_neziri.jpg
+
+- name: Taikuri Luttinen
+  img: img/persons/taikuri_luttinen.jpg
+
+- name: Tapio Luoma
+  img: img/persons/tapio_luoma.jpg
 ---
