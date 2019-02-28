@@ -9,7 +9,7 @@
 - name: Tukijat
   link:
   children:
-    - name: Organisaatiot
-      link: /organisaatiot
+    - name: Yhteisöt
+      link: /yhteisot
     - name: Henkilöt
-      link: /tukijat 
+      link: /henkilot 
