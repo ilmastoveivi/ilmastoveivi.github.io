@@ -1,0 +1,55 @@
+---
+- name: Mimosa Willamo 
+  img: img/persons/mimosa_willamo.jpg
+
+- name: Syksy Räsänen 
+  img: img/persons/syksy_rasanen.jpg
+
+- name: Anssi Kela 
+  img: img/persons/anssi_kela.jpg
+
+- name: Julia Thuren
+  img: img/persons/julia_thuren.jpg
+
+- name: Aki Kaurismäki 
+  img: img/persons/aki_kaurismaki.jpg
+
+- name: Ismo Alanko 
+  img: img/persons/ismo_alanko.jpg
+
+- name: Jaakko Heinimäki 
+  img: img/persons/jaakko_heinimaki.jpg
+
+- name: Eliisa Hiltunen 
+  img: img/persons/eliisa_hiltunen.jpg
+
+- name: Saara Vauramo 
+  img: img/persons/saara_vauramo.jpg
+
+- name: Viivi Lehikoinen 
+  img: img/persons/viivi_lehikoinen.jpg
+
+- name: Venla Harju 
+  img: img/persons/venla_harju.jpg
+
+- name: Milja Suihko 
+  img: img/persons/milja_suihko.jpg
+
+- name: lxandra 
+  img: img/persons/lxandra.jpg
+
+- name: Rauhatäti 
+  img: img/persons/rauhatati.jpg
+
+- name: Ville Leino
+  img: img/persons/ville_leino.jpg
+
+- name: Nooralotta Neziri
+  img: img/persons/nooralotta_neziri.jpg
+
+- name: Taikuri Luttinen
+  img: img/persons/taikuri_luttinen.jpg
+
+- name: Tapio Luoma
+  img: img/persons/tapio_luoma.jpg
+---

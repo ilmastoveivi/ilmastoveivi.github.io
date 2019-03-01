@@ -6,3 +6,10 @@
   link: /kampanja
 - name: Tekijät
   link: /tekijat
+- name: Tukijat
+  link:
+  children:
+    - name: Yhteisöt
+      link: /yhteisot
+    - name: Henkilöt
+      link: /henkilot 

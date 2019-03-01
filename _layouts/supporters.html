@@ -1,0 +1,65 @@
+{% include header.html %}
+
+{% assign data=site.data[page.data_source][page.lang] | sort: "name" %}
+
+<div id="supporters">
+{% include banner.html banner-title=page.page_title %}
+
+<section class="clearfix animated fadeIn">
+    <p class="intro">{{page.page_ingress}}</p>
+</section>
+
+<section id="supporter-content">
+    {% for item in data %}
+    <div class="supporter-item overlay-wrapper">
+        <img src="{{item.img}}">
+        <div class="supporter-item-overlay centre-content pointer-watch">
+            {% if item.url %}
+                <a href={{item.url}}><h3>{{item.name}}</h3></a>
+            {% else %}
+                <h3> {{ item.name }}</h3>
+            {% endif %}
+        </div>
+    </div>
+    {% endfor %}
+</section>
+
+</div>
+
+<script>
+
+function is_touch_device() {
+  var prefixes = ' -webkit- -moz- -o- -ms- '.split(' ');
+  var mq = function(query) {
+    return window.matchMedia(query).matches;
+  }
+
+  if (('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch) {
+    return true;
+  }
+
+  var query = ['(', prefixes.join('touch-enabled),('), 'heartz', ')'].join('');
+  return mq(query);
+}
+
+if (is_touch_device()) {
+    $(".overlay-wrapper").each(function() {
+        $( this ).find(".pointer-watch").addClass("pointerN");;
+
+        $( this ).hover(function wrapHovered() {
+        if (this.find(".pointer-watch").hasClass("pointerN")){
+            setTimeout(function enablePE() {
+                this.find(".pointer-watch").removeClass("pointerN");
+            }.bind(this), 0);
+        }
+        else if (!this.is(":hover")) {
+            this.find(".pointer-watch").addClass("pointerN");
+        }
+        }.bind($(this)));
+
+    });
+}
+
+</script>
+
+{% include footer.html %}

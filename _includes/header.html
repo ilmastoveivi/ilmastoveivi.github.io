@@ -54,8 +54,6 @@
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
 
-  <!-- Menu translations. These lists only include links other than the sign link. 
-       The signing link is always second on the list and is defined below -->
 {% if page.lang == "fi" %}
     {% assign sign_button_link_text = "Allekirjoita vetoomus" %}
 {% elsif page.lang == "sv" %}
@@ -67,7 +65,6 @@
   <article>
         <div id="header-container">
             <nav class="navbar navbar-light">
-                
                 <!--<a class="navbar-brand" href="#">Ilmastoveivi 2019</a> -->
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -76,14 +73,25 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto">
 
-                    {% assign menu_items=site.data.menu[page.lang] %}
-                    {% assign menu_max_index=menu_items | size | minus: 1 %}
-                    {% for i in (0..menu_max_index) %}
-                        <li class="nav-item">
-                            <a class="nav-link" href="{{ menu_items[i].link }}">{{ menu_items[i].name }} <span class="sr-only">(current)</span></a>
-                        </li>
+                    {% for menu_item in site.data.menu[page.lang] %}
+                        {% if menu_item.children %}
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    {{ menu_item.name }}
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    {% for submenu_item in menu_item.children %}
+                                        <a class="dropdown-item nav-link" href="{{ submenu_item.link }}">{{ submenu_item.name }}</a>
+                                    {% endfor %}
+                                </div>
+                            </li>
+                        {% else %}
+                            <li class="nav-item"> 
+                                <a class="nav-link" href="{{ menu_item.link }}">{{ menu_item.name }}<span class="sr-only">(current)</span></a>
+                            </li>
+                        {% endif %}
                         <!-- Sign button is defined separately, because of the different HTML -->
-                        {% if i==0 %}
+                        {% if forloop.index == 1 %}
                             <li class="nav-item">
                                 <a href="" class="sign-button-onclick nav-link"> {{sign_button_link_text}} </a>
                             </li>   

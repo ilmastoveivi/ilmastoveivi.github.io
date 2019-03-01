@@ -285,9 +285,16 @@ p {
     background-color: transparent;
     color: $color-text;
   }
+  .nav-link.dropdown-toggle {
+    padding-bottom: 0px;
+  }
   .dropdown-menu {
     background-color: transparent;
     border: none;
+    padding-top: 0px;
+  }
+  .dropdown-item {
+    padding-left: 1.5rem;
   }
 }
 
@@ -407,7 +414,7 @@ p {
 #banner {
   
   #banner-logo {
-    left: 50%;
+    left: calc(50% - 6em);
     margin-top: -6em; 
     position: absolute;
     width: 12em;
@@ -417,7 +424,6 @@ p {
     
     img {
       width: 100%;
-      margin-left: -50%;
     }
     a {
       background-color: transparent;
@@ -569,7 +575,7 @@ p {
 }
 
 
-#campaigners {
+#campaigners, #supporters {
   #banner {
     background: $color-text;
     height: 18em;
@@ -746,6 +752,50 @@ footer {
   }
 }
 
+#supporter-content {
+  padding: 0;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+
+  .supporter-item {
+    position: relative;
+    width: 100%;
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+
+    .supporter-item-overlay {
+      background-color: rgba(255, 211, 204, 0);
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+      transition: 0.3s ease;
+      a {
+        background-color: transparent;
+      }
+      h3 {
+        opacity: 0;
+        transition: 0.3s ease;
+      }
+    }
+
+    &:hover, &:active {
+      .supporter-item-overlay {
+
+        background-color: rgba(255, 211, 204, 0.7);
+        
+        h3 {
+          opacity: 1;
+        }
+      }
+    }
+  }
+}
 
 
 /* ==========================================================================
@@ -756,12 +806,24 @@ footer {
  * Hide visually and from screen readers
  */
 
+ .pointerN {
+   pointer-events: none;
+ }
+
 .hidden {
     display: none !important;
 }
 
 .show {
     display: block !important;
+}
+
+.centre-content {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  text-align: -webkit-center;
+  justify-content: center;
 }
 
 /*
@@ -856,6 +918,10 @@ footer {
   h1.slogan {
     margin-top: -1.5em;
   }
+
+  #supporter-content {
+    grid-template-columns: 33% 33% 33%;
+  }
 }
 
 @media only screen and (max-width: 680px) {
@@ -938,6 +1004,10 @@ footer {
 
   .post-list-item {
     padding: 0 1em 0 0;
+  }
+
+  #supporter-content {
+    grid-template-columns: 50% 50%;
   }
 }
 

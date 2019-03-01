@@ -1,0 +1,205 @@
+---
+- name: Suomen YK-liito
+  url: https://www.ykliitto.fi/
+  img: img/orgs/51.jpg
+
+- name: STTK-Opiskelijat 
+  url: https://www.sttk.fi/mika-sttk/sttk-opiskelijat/
+  img: img/orgs/50.jpg
+
+- name: PAM
+  url: https://www.pam.fi
+  img: img/orgs/49.jpg
+
+- name: Yhteiskunta-alan korkeakoulutetut 
+  url: https://www.yhteiskunta-ala.fi/
+  img: img/orgs/48.jpg
+
+- name: Vaskivuoren lukio 
+  url: http://www.vantaa-vaskivuori.fi/vaskinet/yleista
+  img: img/orgs/47.jpg
+
+- name: Vantaan tanssiopisto 
+  url: https://www.vantaantanssiopisto.fi/
+  img: img/orgs/46.jpg
+
+- name: Tikkurilan lukio 
+  url: https://sivistysvantaa.fi/tikkurilanlukio/index.html
+  img: img/orgs/45.jpg
+
+- name: Tekniikan akateemiset 
+  url: https://www.tek.fi/fi
+  img: img/orgs/44.jpg
+
+- name: Tampereen YK-yhdistys 
+  url: https://tayk.wordpress.com/
+  img: img/orgs/43.jpg
+
+- name: Taiga Child 
+  url: https://taigachild.fi/
+  img: img/orgs/42.jpg
+
+- name: Suomen ylioppilaskuntien liitto 
+  url: https://syl.fi/
+  img: img/orgs/41.jpg
+
+- name: Super 
+  url: https://www.superliitto.fi/
+  img: img/orgs/40.jpg
+
+- name: Suomen YK-nuoret 
+  url: https://yknuoret.fi/
+  img: img/orgs/39.jpg
+
+- name: Suomen Tuulivoimayhdistys 
+  url: https://www.tuulivoimayhdistys.fi/
+  img: img/orgs/38.jpg
+
+- name: STS ry 
+  url: https://www.sts.fi/ 
+  img: img/orgs/37.jpg
+
+- name: Suomen Lukiolaisten Liitto 
+  url: http://lukio.fi/
+  img: img/orgs/36.jpg
+
+- name: Suomen Ekomodernistit 
+  url: https://ekomodernismi.fi/
+  img: img/orgs/35.jpg
+
+- name: Save Pond Hockey 
+  url: https://savepondhockey.org/
+  img: img/orgs/34.jpg
+
+- name: Sakki ry 
+  url: https://sakkiry.fi/
+  img: img/orgs/33.jpg
+
+- name: Rotko 
+  url: https://www.lapinrotko.fi/
+  img: img/orgs/32.jpg
+
+- name: Poesia  
+  url: https://poesia.fi/
+  img: img/orgs/31.jpg
+
+- name: Plan International Suomi 
+  url: https://plan.fi/
+  img: img/orgs/30.jpg
+
+- name: Suomen Partiolaiset 
+  url: https://www.partio.fi/
+  img: img/orgs/29.jpg
+
+- name: Our Children’s Trust 
+  url: https://www.ourchildrenstrust.org/
+  img: img/orgs/28.jpg
+
+- name: Jyväskylän Nykyteatteriyhdistys 
+  url: http://jklnykyteatteriyhd.wixsite.com/nykyteatteriyhdistys
+  img: img/orgs/27.jpg
+
+- name: Suomen Nais- ja Feministifilosofien Yhdistys 
+  url: https://nfyx.wordpress.com/
+  img: img/orgs/26.jpg
+
+- name: Naisjärjestöjen Keskusliitto 
+  url: http://www.naisjarjestot.fi/
+  img: img/orgs/25.jpg
+
+- name: Metropolia 
+  url: https://www.metropolia.fi/
+  img: img/orgs/24.jpg
+
+- name: Martat 
+  url: https://www.martat.fi/
+  img: img/orgs/23.jpg
+
+- name: Lapin yliopiston ylioppilaskunta  
+  url: http://www.lyy.fi/
+  img: img/orgs/22.jpg
+
+- name: Loimu ry 
+  url: https://www.loimu.fi/
+  img: img/orgs/21.jpg
+
+- name: Lelutohtorit 
+  url: https://www.lelutohtorit.com/
+  img: img/orgs/20.jpg
+
+- name: Lapin Yliopisto 
+  url: https://www.ulapland.fi/FI
+  img: img/orgs/19.jpg
+
+- name: Lapin ammattikorkeakoulu 
+  url: https://www.lapinamk.fi/fi
+  img: img/orgs/18.jpg
+
+- name: Lakimiesliitto 
+  url: https://www.lakimiesliitto.fi/
+  img: img/orgs/17.jpg
+
+- name: Kymenlaakson Osakunta 
+  url: http://kymenlaaksonosakunta.fi/
+  img: img/orgs/16.jpg
+
+- name: Joukon Voima 
+  url: https://joukonvoima.fi/
+  img: img/orgs/15.jpg
+
+- name: Pääkaupunkiseudun Eurooppanuoret  
+  url: http://eurooppanuoret.fi/paakaupunkiseudun-eurooppanuoret/
+  img: img/orgs/14.jpg
+
+- name: Itä-Suomen yliopiston ylioppilaskunta 
+  url: https://www.isyy.fi/
+  img: img/orgs/13.jpg
+
+- name: Imatran kaupunki 
+  url: https://www.imatra.fi/
+  img: img/orgs/12.jpg
+
+- name: Helsingin yliopisto 
+  url: https://www.helsinki.fi/fi
+  img: img/orgs/11.jpg
+
+- name: Helsingin kaupunki 
+  url: https://www.hel.fi/helsinki/fi
+  img: img/orgs/10.jpg
+
+- name: Gofore 
+  url: https://gofore.com/en/home/
+  img: img/orgs/9.jpg
+
+- name: Explorius 
+  url: https://www.explorius.fi/
+  img: img/orgs/8.jpg
+
+- name: Espoon kaupunki 
+  url: https://www.espoo.fi/fi-FI
+  img: img/orgs/7.jpg
+
+- name: Changemaker 
+  url: https://www.changemaker.fi/
+  img: img/orgs/6.jpg
+
+- name: Bios 
+  url: http://bios.fi/
+  img: img/orgs/5.jpg
+
+- name: Aalto yliopiston ylioppilaskunta 
+  url: https://ayy.fi/
+  img: img/orgs/4.jpg
+
+- name: Amnesty International Suomen osasto 
+  url: https://www.amnesty.fi/
+  img: img/orgs/3.jpg
+
+- name: Agronomiliitto 
+  url: https://www.agronomiliitto.fi/liitto/
+  img: img/orgs/2.jpg
+
+- name: Suomen AFS 
+  url: https://www.afs.fi/
+  img: img/orgs/1.jpg
+...
