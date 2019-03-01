@@ -776,6 +776,7 @@ footer {
       height: 100%;
       transition: 0.3s ease;
       a {
+        pointer-events: inherit;
         background-color: transparent;
       }
       h3 {

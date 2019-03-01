@@ -17,6 +17,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.define APP_BOXNAME
   config.vm.hostname = APP_HOSTNAME
   config.vm.network :private_network, ip: '192.168.42.42'
+  config.vm.network "forwarded_port", guest: 80, host: 8080
 
   config.hostmanager.enabled = true
   config.hostmanager.manage_host = true
