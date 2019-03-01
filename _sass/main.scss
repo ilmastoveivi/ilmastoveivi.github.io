@@ -777,10 +777,10 @@ footer {
       transition: 0.3s ease;
       a {
         background-color: transparent;
-        transition: 0.3s ease;
       }
       h3 {
         opacity: 0;
+        transition: 0.3s ease;
       }
     }
 
@@ -788,7 +788,7 @@ footer {
       .supporter-item-overlay {
 
         background-color: rgba(255, 211, 204, 0.7);
-
+        
         h3 {
           opacity: 1;
         }
@@ -805,6 +805,10 @@ footer {
 /*
  * Hide visually and from screen readers
  */
+
+ .pointerN {
+   pointer-events: none;
+ }
 
 .hidden {
     display: none !important;
