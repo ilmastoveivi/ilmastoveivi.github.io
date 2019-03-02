@@ -13,9 +13,9 @@
     {% for item in data %}
     <div class="supporter-item overlay-wrapper">
         <img src="{{item.img}}">
-        <div class="supporter-item-overlay centre-content pointer-watch">
+        <div class="supporter-item-overlay centre-content">
             {% if item.url %}
-                <a href={{item.url}}><h3>{{item.name}}</h3></a>
+                <a href={{item.url}} class="pointer-watch"><h3>{{item.name}}</h3></a>
             {% else %}
                 <h3> {{ item.name }}</h3>
             {% endif %}
@@ -50,9 +50,9 @@ if (is_touch_device()) {
         if (this.find(".pointer-watch").hasClass("pointerN")){
             setTimeout(function enablePE() {
                 this.find(".pointer-watch").removeClass("pointerN");
-            }.bind(this), 0);
+            }.bind(this), 300);
         }
-        else if (!this.is(":hover")) {
+        else if (!this.find(".pointer-watch").hasClass("pointerN")) {
             this.find(".pointer-watch").addClass("pointerN");
         }
         }.bind($(this)));

@@ -16,22 +16,11 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   config.vm.define APP_BOXNAME
   config.vm.hostname = APP_HOSTNAME
-  config.vm.network :private_network, ip: '192.168.42.42'
-  config.vm.network "forwarded_port", guest: 80, host: 8080
+  config.vm.network "public_network", bridge: "en0: Wi-Fi (AirPort)"
 
   config.hostmanager.enabled = true
   config.hostmanager.manage_host = true
 
-
-  config.vm.provider 'virtualbox' do |vb|
-    vb.customize ['modifyvm', :id, '--cableconnected1', 'on']
-
-    vb.customize ["modifyvm", :id, "--natdnshostresolver1", "on"]
-    vb.customize ["modifyvm", :id, "--natdnsproxy1", "on"]
-    vb.customize ["modifyvm", :id, "--natsettings1", "16000,64,64,1024,1024"]
-    vb.customize ["modifyvm", :id, "--nictype1", "virtio"]
-    vb.customize ["modifyvm", :id, "--nataliasmode1", "sameports"]
-  end
 
   config.vm.provision "ansible_local" do |ansible|
     ansible.playbook = "_ansible/provision.yml"
