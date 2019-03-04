@@ -17,19 +17,19 @@
     <meta itemprop="image" content="{{site.image}}">
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="{{page.title | default: site.title}}">
+    <meta name="twitter:title" content="{{page.title | default: site.share-title}}">
     <meta name="twitter:description" content="{{page.description | default: site.desc}}">
     <meta name="twitter:site" content="{{site.twitter}}">
     <meta name="twitter:image:src" content="{{page.og_image | default: site.image}}">
     <!-- Open Graph general (Facebook, Pinterest & Google+) -->
-    <meta name="og:title" content="{{page.title | default: site.title}}">
-    <meta name="og:description" content="{{page.description | default: site.desc}}">
-    <meta name="og:image" content="{{page.og_image | default: site.image}}">
+    <meta property="og:title" content="{{page.title | default: site.share-title}}">
+    <meta property="og:description" content="{{page.description | default: site.desc}}">
+    <meta property="og:image" content="{{page.og_image | default: site.image}}">
     <meta property="og:image:width" content="1023"/>
     <meta property="og:image:height" content="780"/>
-    <meta name="og:url" content="{{page.url | default: site.url}}">
-    <meta name="og:site_name" content="{{site.title}}">
-    <meta name="og:type" content="{{page:og_type | default: 'website'}}">
+    <meta property="og:url" content="{{site.url | append: page.url}}">
+    <meta property="og:site_name" content="{{site.title}}">
+    <meta property="og:type" content="{{page.og_type | default: 'website'}}">
     <meta name="google-site-verification" content="q33vh2pufBgKbP7-UTjePgLunaDiwarHIfXYAroAgzk" />
 
 
