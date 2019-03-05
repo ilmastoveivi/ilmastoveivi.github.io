@@ -1,5 +1,6 @@
 ---
 layout: basic
+ref: legal
 lang: sv
 title: Dataskyddsbeskrivning
 
