@@ -1,5 +1,7 @@
 ---
 layout: basic
+ref: legal
+lang: fi
 title: Tietosuojaseloste
 
 ---
