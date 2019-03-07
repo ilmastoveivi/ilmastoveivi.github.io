@@ -798,6 +798,25 @@ footer {
 }
 
 
+.blog-image {
+  max-width: 100%;
+
+  a {
+    text-decoration: none;
+    background-color: transparent;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  figcaption {
+    color: black;
+    font-size: 0.9em;
+  }
+}
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
@@ -1015,6 +1034,12 @@ footer {
   #banner {
     h1 {
       font-size: 4.7em;
+    }
+  }
+
+  #post-title {
+    h2 {
+      font-size: 2.8em;
     }
   }
 
