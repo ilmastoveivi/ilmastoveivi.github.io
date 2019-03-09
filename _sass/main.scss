@@ -574,8 +574,17 @@ p {
   padding: 2em 0 2em 0;
 }
 
+#info {
+  a {
+    background-color: transparent;
+  }
+  #usage-policy-text {
+    padding-top: 2em;
+    font-size: 0.5em; 
+  }
+}
 
-#campaigners, #supporters {
+#campaigners, #supporters, #info {
   #banner {
     background: $color-text;
     height: 18em;
