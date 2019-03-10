@@ -1,4 +1,20 @@
 ---
+- name: Turun YK-yhdistys
+  url: https://tyyala.utu.fi/turun-yk-yhdistys/
+  img: img/orgs/55.jpg
+
+- name: Tampereen ylioppilaskunta
+  url: https://www.trey.fi
+  img: img/orgs/54.jpg
+
+- name: Jyväskylän YK-yhdistys
+  url: http://jyyk.org/
+  img: img/orgs/53.jpg
+
+- name: Allianssi
+  url: https://www.alli.fi/
+  img: img/orgs/52.jpg
+
 - name: Suomen YK-liito
   url: https://www.ykliitto.fi/
   img: img/orgs/51.jpg
