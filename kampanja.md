@@ -8,8 +8,7 @@ highlight-text: Suomi on juuri oikeaan aikaan strategisessa pelipaikassa, ratkai
 campaign-people-text: Ilmastoveivi2019 -kampanja lähti käyntiin lokakuussa 2018 yksityishenkilöiden aloitteesta. Mukaan on lähtenyt 300 vapaaehtoista ja lukuiset yhteistyötahot ovat ilmoittaneet kiinnostuksestaan tukea kampanjaa. Kampanja on poliittisesti sitoutumaton ja pyörii täysin vapaaehtoisvoimin.
 contacts-title-text: Yhteyshenkilöt
 contact1: "Laura Kolehmainen: laura.m.kolehmainen@helsinki.fi"
-contact2: "Liisa Kolehmainen: liisa.kolehmainen@helsinki.fi"
-contact3: "Theo Levlin: theo.levlin@gmail.com"
+contact2: "Theo Levlin: theo.levlin@gmail.com"
 ---
 
 ## Kaikkien kampanja
