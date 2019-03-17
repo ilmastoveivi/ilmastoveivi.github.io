@@ -1,4 +1,20 @@
 ---
+- name: Palvelualojen ammattiliitto
+  url: https://www.pam.fi/
+  img: img/orgs/56.jpg
+
+- name: Suomen luonnonsuojeluliitto 
+  url: https://www.sll.fi/
+  img: img/orgs/57.jpg
+
+- name: STTK
+  url: https://www.sttk.fi/
+  img: img/orgs/58.jpg
+
+- name: Universities Finland UNIFI
+  url: http://www.unifi.fi/
+  img: img/orgs/59.jpg
+
 - name: Turun YK-yhdistys
   url: https://tyyala.utu.fi/turun-yk-yhdistys/
   img: img/orgs/55.jpg
