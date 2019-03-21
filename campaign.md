@@ -8,8 +8,7 @@ highlight-text: Finland is in the strategic position of solver during a decisive
 campaign-people-text: Ilmastoveivi2019 campaign was launched in October 2018 as an initiative by independent individuals. Currently, we have over 300 volunteers and numerous partners are keen to support our campaign. We are a nonpartisan campaign and the campaign is run completely on a voluntary basis.
 contacts-title-text: Contacts
 contact1: "Laura Kolehmainen: laura.m.kolehmainen@helsinki.fi"
-contact2: "Liisa Kolehmainen: liisa.kolehmainen@helsinki.fi"
-contact3: "Theo Levlin: theo.levlin@gmail.com"
+contact2: "Theo Levlin: theo.levlin@gmail.com"
 ---
 
 ## Everyone’s campaign

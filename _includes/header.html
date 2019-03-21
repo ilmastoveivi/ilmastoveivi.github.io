@@ -13,7 +13,7 @@
     <meta name="image" content="{{site.image}}">
     <!-- Schema.org for Google -->
     <meta itemprop="name" content="{{site.title}}">
-    <meta itemprop="description" content="{{site.desc}}">
+    <meta itemprop="description" content="{{page.description | default: site.desc}}}">
     <meta itemprop="image" content="{{site.image}}">
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
@@ -45,7 +45,13 @@
     <link rel="stylesheet" href="/css/normalize.css">
     <link rel="stylesheet" href="/css/styles.css">
 
-
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5XNKHBT');</script>
+    <!-- End Google Tag Manager -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js" integrity="sha-384-LNZolnKo8S7kL0Jc49nt8x2SVNb1gom5YX0lRGuuoSHYxB31xr5QRFAbLq0NdXnY" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>

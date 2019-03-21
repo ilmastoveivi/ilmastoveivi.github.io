@@ -3,8 +3,9 @@ layout: default
 ref: index
 lang: sv
 order: 3
-title:
+title: Underteckna appellen för en mer hållbar klimatpolitik
 slogan: Kom med i klimatkampen!
+description: Genom Ilmastoveivi2019 intar Finland täten i det internationella klimatarbetet. Klimatkampen är igång, Är du redo?
 intro: Genom Ilmastoveivi2019 intar Finland täten i det internationella klimatarbetet. Klimatkampen är igång, Är du redo?
 act-title: Så kan du bidra
 act-text1: Genom att underteckna, skapar du kollektiv styrka
