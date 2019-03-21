@@ -1,4 +1,12 @@
 ---
+- name: LUT University
+  url: https://www.lut.fi/
+  img: img/orgs/61.jpg
+
+- name: Suomen Ekonomit
+  url: https://www.ekonomit.fi/
+  img: img/orgs/60.jpg
+
 - name: Palvelualojen ammattiliitto
   url: https://www.pam.fi/
   img: img/orgs/56.jpg
