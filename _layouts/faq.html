@@ -1,0 +1,49 @@
+{% include header.html %}
+
+<div id="info">
+    {% include banner.html banner-title=page.page-title %}
+
+    <section class="clearfix animated fadeIn">
+        <p class="intro">{{page.page-ingress}}</p>
+    </section>
+
+    <section class="clearfix animated fadeIn">
+
+        <div class="faq-container">
+            <a data-toggle="collapse" href="#faq-1" aria-expanded="false">
+                {{page.faq-title-1}}
+            </a>
+            <div class="collapse" id="faq-1">
+                <div class="card card-body">
+                    {{page.faq-answer-1}}
+                </div>
+            </div>
+        </div>
+
+        <div class="faq-container">
+            <a data-toggle="collapse" href="#faq-2" aria-expanded="false">
+                {{page.faq-title-2}}
+            </a>
+            <div class="collapse" id="faq-2">
+                <div class="card card-body">
+                    {{page.faq-answer-2}}
+                </div>
+            </div>
+        </div>
+
+        <div class="faq-container">
+            <a data-toggle="collapse" href="#faq-3" aria-expanded="false">
+                {{page.faq-title-3}}
+            </a>
+            <div class="collapse" id="faq-3">
+                <div class="card card-body">
+                    {{page.faq-answer-3}}
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+</div>
+
+{% include footer.html %}

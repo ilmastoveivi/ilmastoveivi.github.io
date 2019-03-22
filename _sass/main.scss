@@ -573,10 +573,23 @@ p {
 .pad-top-bot {
   padding: 2em 0 2em 0;
 }
-
+.faq-container {
+  margin-bottom: 1em;
+  a {
+    margin: 0.75em 0 .5em 0;
+    line-height: 1;
+    color: #1E44FF;
+    letter-spacing: 0.0315em;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    font-family: agency-fb-condensed,sans-serif;
+    font-weight: 900;
+  }
+}
 #info {
   a {
     background-color: transparent;
+    text-decoration: underline;
   }
   #usage-policy-text {
     padding-top: 2em;
