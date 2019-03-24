@@ -7,8 +7,9 @@ url: kampanja
 highlight-text: Suomi on juuri oikeaan aikaan strategisessa pelipaikassa, ratkaisijan roolissa maailman kohtalonhetkillä. Meillä on ainutlaatuinen tilaisuus, mutta onko meillä tahto? 
 campaign-people-text: Ilmastoveivi2019 -kampanja lähti käyntiin lokakuussa 2018 yksityishenkilöiden aloitteesta. Mukaan on lähtenyt 300 vapaaehtoista ja lukuiset yhteistyötahot ovat ilmoittaneet kiinnostuksestaan tukea kampanjaa. Kampanja on poliittisesti sitoutumaton ja pyörii täysin vapaaehtoisvoimin.
 contacts-title-text: Yhteyshenkilöt
-contact1: "Laura Kolehmainen: laura.m.kolehmainen@helsinki.fi"
-contact2: "Theo Levlin: theo.levlin@gmail.com"
+contact1: "Yhteydenotot: info@ilmastoveivi2019.fi"
+contact2: "Laura Kolehmainen: laura.kolehmainen@ilmastoveivi2019.fi"
+contact3: "Theo Levlin: theo.levlin@ilmastoveivi2019.fi"
 ---
 
 ## Kaikkien kampanja
