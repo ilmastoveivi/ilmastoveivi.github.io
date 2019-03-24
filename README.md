@@ -8,17 +8,17 @@ The page uses Jekyll and is hosted by Github Pages. All commits to the master br
 https://jekyllrb.com/
 
 Instructions for Windows and MacOS:
-https://jekyllrb.com/docs/installation/windows/
-https://jekyllrb.com/docs/installation/macos/
+- https://jekyllrb.com/docs/installation/windows/
+- https://jekyllrb.com/docs/installation/macos/
 
 You are welcome to participate in the development for example by submitting a pull request or by contacting the campaign team. 
 
 ## Contacts
 
-info@ilmastoveivi2019.fi
-https://twitter.com/Ilmastoveivi19
-https://www.facebook.com/ilmastoveivi2019
-https://www.instagram.com/ilmastoveivi2019/
+- info@ilmastoveivi2019.fi
+- https://twitter.com/Ilmastoveivi19
+- https://www.facebook.com/ilmastoveivi2019
+- https://www.instagram.com/ilmastoveivi2019/
 
 ## License
 
