@@ -421,6 +421,7 @@ p {
     @include cursive(2.3em);
     transform: none;
     color: $color-text;
+    letter-spacing: initial;
   }
 
 }
