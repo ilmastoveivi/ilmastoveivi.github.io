@@ -410,6 +410,22 @@ p {
 }
 
 
+#signature-counter {
+  h2 {
+    color: $color-accent2;
+    font-size: 7.5em;
+    margin-bottom: 0.2em;
+  }
+
+  h3 {
+    @include cursive(2.3em);
+    transform: none;
+    color: $color-text;
+  }
+
+}
+
+
 
 #banner {
   
