@@ -1,0 +1,21 @@
+{% case page.lang %}
+  {% when "fi" %}
+    {% assign signatures = "allekirjoitusta" %}
+  {% when "en" %}
+    {% assign signatures = "signatures" %}
+  {% when 'sv' %}
+    {% assign signatures = "underteckningar" %}
+{% endcase %}
+
+<section id="signature-counter" class="centre-content">
+    <h2 id="signature-count"></h2>
+    <h3> allekirjoitusta </h3>
+</section>
+<script>
+    $.ajax({
+  url: "https://script.googleusercontent.com/macros/echo?user_content_key=71MGd1IGNpmLU--xiESxJxtONZu5grwNCy6IcbIDRNuKC2LQ0-HrnJ5OjXmz5KSNkMEgzh6VGKDfwxCQ9hD6zHaPVc_JPVMtm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnFIjeNlW3HhqbjVXUjsEGci6nYhZ5iSRDxj66R4keJGfmM0Xn0ojeasvXQZI4WaMnQB2euthUYY2iz18-5ptCCkIssV-vYtwKw&lib=Mk32hvsfCJwoYrj5V1bMXqYxkKC4pOtdF"
+})
+  .done(function( data ) {
+    $("#signature-count").html(data.total.toLocaleString(window.document.documentElement.lang))
+  });
+</script>
