@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ilmaston lämpeneminen vaikuttaa tässä ja nyt -- kymmenet miljoonat ilmastopakolaiset ovat jo liikkeellä
+title:  Ilmaston lämpeneminen vaikuttaa tässä ja nyt — kymmenet miljoonat ilmastopakolaiset ovat jo liikkeellä
 lang: fi
 description: Ilmastonmuutoksen tuomat haasteet eivät ole kaukaisen tulevaisuuden epämääräisiä ongelmia, vaan ne vaikuttavat jo -- tässä ja nyt. Kymmenet miljoonat ihmiset ovat jo joutuneet jättämään kotiseutunsa ilmaston lämpenemisen mukanaan tuomion luonnonmullistusten takia, ja heidän määränsä tulee vain lisääntymään tulevina vuosikymmeninä.
 og_type: article
@@ -12,7 +12,7 @@ banner-url: "/img/blog-banners/water.jpg"
 
 Moni mieltää Lähi-idän nykyistenlevottomuuksien alkusysäykseksi muun muassa vuoden 2011 vallankumouksellisen arabikevään. Suuren mittakaavan konfliktit ovat kuitenkin monen eri tekijän monimutkaisia summia, eikä sovi unohtaa, että juuri meille kaikille yhteisiä elämän perusedellytyksiä riistettäessä nousee yleensä myös suurin mekkala.
 
-**Planeetta, jolla elämme, on elämän perustavanlaatuisin perusedellytys. Kovaa vauhtia lämpenevä ilmastomme on kirjaimellisesti tuhoamassa maata jalkojemme alla -- tässä ja nyt.**
+**Planeetta, jolla elämme, on elämän perustavanlaatuisin perusedellytys. Kovaa vauhtia lämpenevä ilmastomme on kirjaimellisesti tuhoamassa maata jalkojemme alla — tässä ja nyt.**
 
 Esimerkiksi Syyriassa vallitsi [ankara kuivuus](https://www.maailma.net/uutiset/tutkimus-ilmastonmuutos-vaikutti-syyrian-sisallissodan-syttymiseen) maata nykyään repivää sisällissotaa edeltävinä vuosina 2006--2010. Tämä vaikutti varsinkin maan pohjoisosien hedelmällisiin seutuihin, joissa vallitsi tuolloin monimuotoinen maatalouskulttuuri. [Kyseinen alue on lämmennyt 1--1,2 astetta sitten vuoden 1990](https://www.pnas.org/content/early/2015/02/23/1421533112), ja sen sateet ovat vähentyneet noin 10 %. Se on enemmän kuin koskaan ennen maan ilmaston mitatussa historiassa.
 
