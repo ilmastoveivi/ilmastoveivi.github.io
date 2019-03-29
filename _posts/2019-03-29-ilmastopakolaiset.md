@@ -2,7 +2,7 @@
 layout: post
 title:  Ilmaston lämpeneminen vaikuttaa tässä ja nyt — kymmenet miljoonat ilmastopakolaiset ovat jo liikkeellä
 lang: fi
-description: Ilmastonmuutoksen tuomat haasteet eivät ole kaukaisen tulevaisuuden epämääräisiä ongelmia, vaan ne vaikuttavat jo -- tässä ja nyt. Kymmenet miljoonat ihmiset ovat jo joutuneet jättämään kotiseutunsa ilmaston lämpenemisen mukanaan tuomion luonnonmullistusten takia, ja heidän määränsä tulee vain lisääntymään tulevina vuosikymmeninä.
+description: Ilmastonmuutoksen tuomat haasteet eivät ole kaukaisen tulevaisuuden epämääräisiä ongelmia, vaan ne vaikuttavat jo — tässä ja nyt. Kymmenet miljoonat ihmiset ovat jo joutuneet jättämään kotiseutunsa ilmaston lämpenemisen mukanaan tuomion luonnonmullistusten takia, ja heidän määränsä tulee vain lisääntymään tulevina vuosikymmeninä.
 og_type: article
 author: Laura Kallas
 author-desc: Laura Kallas on kansainvälisiä tieteitä opiskellut kirjoittaja ja pohdiskelija. Hänen lempiajanvietteensä on Suomen puhtaassa luonnossa samoilu, ja hän haluaa, että voi tehdä niin tulevaisuudessakin.
