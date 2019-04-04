@@ -7,8 +7,14 @@ highlight-text: Finland har just nu ett strategiskt läge, och kan ta en avgöra
 
 campaign-people-text: Ilmastoveivi2019 -kampanjen grundades i oktober 2018 av privatpersoner. Vi har nu över 300 frivilliga som arbetar för kampanjen och många organisationer har bestämt sig för att stödja oss. Kampanjen är politiskt obunden och drivs endast på frivillig bas.
 contacts-title-text: Kontakter
-contact1: "Laura Kolehmainen: laura.m.kolehmainen@helsinki.fi"
-contact2: "Theo Levlin: theo.levlin@gmail.com"
+contact1-name: "Kontakt"
+contact1-email: "info@ilmastoveivi2019.fi"
+
+contact2-name: "Laura Kolehmainen"
+contact2-email: "laura.kolehmainen@ilmastoveivi2019.fi"
+
+contact3-name: "Theo Levlin"
+contact3-email: "theo.levlin@ilmastoveivi2019.fi"
 ---
 
 ## En kampanj för alla

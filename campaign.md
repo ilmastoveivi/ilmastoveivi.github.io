@@ -7,8 +7,14 @@ url: campaign
 highlight-text: Finland is in the strategic position of solver during a decisive point in world history. We have a once-in-a-lifetime opportunity but do we also have the WILL to make a change? 
 campaign-people-text: Ilmastoveivi2019 campaign was launched in October 2018 as an initiative by independent individuals. Currently, we have over 300 volunteers and numerous partners are keen to support our campaign. We are a nonpartisan campaign and the campaign is run completely on a voluntary basis.
 contacts-title-text: Contacts
-contact1: "Laura Kolehmainen: laura.m.kolehmainen@helsinki.fi"
-contact2: "Theo Levlin: theo.levlin@gmail.com"
+contact1-name: "Contact"
+contact1-email: "info@ilmastoveivi2019.fi"
+
+contact2-name: "Laura Kolehmainen"
+contact2-email: "laura.kolehmainen@ilmastoveivi2019.fi"
+
+contact3-name: "Theo Levlin"
+contact3-email: "theo.levlin@ilmastoveivi2019.fi"
 ---
 
 ## Everyone’s campaign

@@ -267,6 +267,9 @@ p {
     font-size: 0.8em;
     line-height: $line-height-tighter;
   }
+  .contacts {
+    text-align: center;
+  }
 }
 
 #header-container {
@@ -407,6 +410,27 @@ p {
 #politicians th {
     text-align: left;
     padding-right: 1em;
+}
+
+
+#signature-counter {
+  h2 {
+    color: #FF5036;
+    font-size: 7.5em;
+    margin-bottom: 0.2em;
+    margin-top: 0.3em;
+    margin-bottom: 0.2em;
+  }
+
+  h3 {
+    @include cursive(3.8em);
+    transform: none;
+    color: $color-text;
+    letter-spacing: initial;
+    margin-top: 0.2em;
+    margin-bottom: 0.5em;
+  }
+
 }
 
 

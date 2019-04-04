@@ -1,4 +1,132 @@
 ---
+- name: Helmet
+  url: https://www.helmet.fi/
+  img: img/orgs/94.jpg
+
+- name: Visma
+  url: https://www.visma.fi/
+  img: img/orgs/93.jpg
+
+- name: TYY
+  url: https://www.tyy.fi/
+  img: img/orgs/92.jpg
+
+- name: TUO
+  url: https://opiskelijakunta.net
+  img: img/orgs/91.jpg
+
+- name: Tampereen korkea­koulut
+  url: https://www.tuni.fi
+  img: img/orgs/90.jpg
+
+- name: SHS
+  url: https://shs.fi
+  img: img/orgs/89.jpg
+
+- name: Suomen lämpöpumppuyhdistys
+  url: https://www.sulpu.fi/
+  img: img/orgs/88.jpg
+
+- name: SPOL
+  url: http://psykologianopiskelijat.net/
+  img: img/orgs/87.jpg
+
+- name: Paavo Nurmi Games
+  url: https://www.paavonurmigames.fi/
+  img: img/orgs/86.jpg
+
+- name: NY-alumnit
+  url: https://www.nyalumnit.fi/
+  img: img/orgs/85.jpg
+
+- name: Nuoret Osakesäästäjät
+  url: https://www.osakeliitto.fi/nuoret/
+  img: img/orgs/84.jpg
+
+- name: Naisten Pankki
+  url: https://www.naistenpankki.fi
+  img: img/orgs/82.jpg
+
+- name: Tom Allen Senera
+  url: https://www.tomallensenera.fi
+  img: img/orgs/81.jpg
+
+- name: Kontakti ry
+  url: https://blogs.helsinki.fi/kontakti-ry/
+  img: img/orgs/80.jpg
+
+- name: HYY
+  url: https://www.hyy.fi
+  img: img/orgs/79.jpg
+
+- name: Humanistispeksi
+  url: https://humanistispeksi.fi/
+  img: img/orgs/78.jpg
+
+- name: HSY
+  url: https://www.hsy.fi
+  img: img/orgs/77.jpg
+
+- name: Hanken
+  url: https://www.hanken.fi
+  img: img/orgs/76.jpg
+
+- name: Finnwatch
+  url: https://finnwatch.org/
+  img: img/orgs/75.jpg
+
+- name: Dodo ry
+  url: https://dodo.org/
+  img: img/orgs/74.jpg
+
+- name: CLIC
+  url: https://clicinnovation.fi/
+  img: img/orgs/73.jpg
+
+- name: ASK
+  url: http://www.asken.fi
+  img: img/orgs/72.jpg
+
+- name: '350'
+  url: https://350.org/
+  img: img/orgs/71.jpg
+
+- name: Åbo akademis studentkår
+  url: https://www.studentkaren.fi/
+  img: img/orgs/70.jpg
+
+- name: Unicef
+  url: https://www.unicef.fi/
+  img: img/orgs/69.jpg
+
+- name: Tampereen yliopisto, Tampereen ammattikorkeakoulu
+  url: https://www.tuni.fi/fi
+  img: img/orgs/68.jpg
+
+- name: Sool
+  url: https://www.sool.fi/
+  img: img/orgs/67.jpg
+
+- name: Ålands natur ock miljö
+  url: https://www.natur.ax/
+  img: img/orgs/66.jpg
+
+- name: Musikaalimatkassa
+  url: https://soundcloud.com/musikaalimatkassa-podcast
+  img: img/orgs/65.jpg
+
+- name: Helsingin yliopiston Viikin normaalikoulu 
+  url: https://www.helsinki.fi/fi/harjoittelukoulut/helsingin-yliopiston-viikin-normaalikoulu/lukio
+  img: img/orgs/64.jpg
+
+- name: Eurooppanuoret
+  url: https://eurooppanuoret.fi/
+  img: img/orgs/63.jpg
+
+- name: Teatteri Ääriraja
+  url: https://www.facebook.com/teatteriaariraja/
+  img: img/orgs/62.jpg
+
 - name: LUT University
   url: https://www.lut.fi/
   img: img/orgs/61.jpg
