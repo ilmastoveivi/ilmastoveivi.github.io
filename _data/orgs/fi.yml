@@ -1,4 +1,8 @@
 ---
+- name: Helmet
+  url: https://www.helmet.fi/
+  img: img/orgs/94.jpg
+
 - name: Visma
   url: https://www.visma.fi/
   img: img/orgs/93.jpg
@@ -32,7 +36,7 @@
   img: img/orgs/86.jpg
 
 - name: NY-alumnit
-  url: https://nuoriyrittajyys.fi/nuori-yrittajyys/ny-alumnit/
+  url: https://www.nyalumnit.fi/
   img: img/orgs/85.jpg
 
 - name: Nuoret Osakesäästäjät
