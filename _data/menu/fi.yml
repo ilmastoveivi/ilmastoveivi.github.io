@@ -2,8 +2,16 @@
   link: /
 - name: Blogi
   link: /blogi-fi
-- name: Kampanja
-  link: /kampanja
+- name: Info
+  link:
+  children: 
+    - name: Tietoa kampanjasta
+      link: /kampanja
+    - name: Usein kysytyt kysymykset
+      link: /ukk
+    - name: Materiaaleja
+      link: /materiaalit
+    
 - name: Tekijät
   link: /tekijat
 - name: Tukijat

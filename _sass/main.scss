@@ -288,13 +288,14 @@ p {
     background-color: transparent;
     color: $color-text;
   }
-  .nav-link.dropdown-toggle {
+  .nav-link.dropdown-toggle[aria-expanded="true"] {
     padding-bottom: 0px;
   }
   .dropdown-menu {
     background-color: transparent;
     border: none;
     padding-top: 0px;
+    padding-bottom: 0px;
   }
   .dropdown-item {
     padding-left: 1.5rem;
@@ -618,6 +619,9 @@ p {
   #usage-policy-text {
     padding-top: 2em;
     font-size: 0.5em; 
+  }
+  .contact-list-title {
+    font-weight: $heading-weight
   }
 }
 

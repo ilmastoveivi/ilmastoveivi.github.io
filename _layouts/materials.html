@@ -1,0 +1,53 @@
+{% include header.html %}
+
+<div id="info">
+    {% include banner.html banner-title=page.page-title %}
+
+    <section class="clearfix animated fadeIn">
+        <p class="intro">{{page.page-ingress}}</p>
+    </section>
+
+    <section class="clearfix animated fadeIn">
+        <h3> {{page.for-media-title}} </h3>
+
+        <div> <a href="{{page.media-info-link}}"> {{page.media-info-link-text}} </a> </div>
+        <div> <a href="{{page.campaign-pictures-link}}"> {{page.campaign-pictures-link-text}} </a> </div>
+
+        <h3> {{page.for-supporters-title}} </h3>
+
+        <div> <a href="{{page.campaign-leaflet-link}}"> {{page.campaign-leaflet-link-text}} </a> </div>
+
+        <!-- Ohjeet kampanjan jakamiseen sivu ei vielä valmis
+        <div> <a href="{{page.share-campaign-link}}"> {{page.share-campaign-link-text}} </a> </div>
+        -->
+        <div> <a href="{{page.social-media-material-link}}"> {{page.social-media-material-link-text}} </a> </div>
+        <div> <a href="{{page.advertisements-link}}"> {{page.advertisements-link-text}} </a> </div>
+
+        <div id="usage-policy-text"> {{page.usage-policy-text}} </div>
+    </section>
+
+    <section>
+        <h3> {{page.contacts-title}} </h3
+
+        <p>
+            <div class="contact-list-title"> {{page.info-email-title}} </div>
+            <div>info@ilmastoveivi2019.fi</div>
+        </p>
+        <p>
+            <div class="contact-list-title"> {{page.contact-persons-title}}</div>
+            <div> {{page.email-pattern}} </div>
+        </p>
+        {% assign contact_list=site.data.contacts[page.lang] %}
+        {% for contact in contact_list %}
+            <p> 
+                <div class="contact-list-title"> {{contact.title}} </div> 
+                <div> {{contact.name}} </div>
+            </p>
+        {% endfor %}
+        
+
+    </section>
+
+</div>
+
+{% include footer.html %}
