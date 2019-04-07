@@ -1,0 +1,29 @@
+{% include header.html %}
+
+<div id="info">
+    {% include banner.html banner-title=page.page-title %}
+
+    <section class="clearfix animated fadeIn">
+        <p class="intro">{{page.page-ingress}}</p>
+    </section>
+
+    <section class="clearfix animated fadeIn">
+        {% assign faq_list=site.data.faq[page.lang] %}
+        {% for faq in faq_list %}
+            <div class="faq-container">
+                <a data-toggle="collapse" href="#faq-{{forloop.index}}" aria-expanded="false">
+                    {{faq.question}}
+                </a>
+                <div class="collapse" id="faq-{{forloop.index}}">
+                    <div class="card card-body">
+                        {{faq.answer}}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+
+    </section>
+
+</div>
+
+{% include footer.html %}
