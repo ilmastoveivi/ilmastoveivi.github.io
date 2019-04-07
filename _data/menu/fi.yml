@@ -11,6 +11,8 @@
       link: /ukk
     - name: Materiaaleja
       link: /materiaalit
+    - name: Yhteystiedot
+      link: /yhteystiedot
     
 - name: Tekijät
   link: /tekijat

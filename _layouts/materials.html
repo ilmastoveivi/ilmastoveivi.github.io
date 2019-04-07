@@ -26,28 +26,6 @@
         <div id="usage-policy-text"> {{page.usage-policy-text}} </div>
     </section>
 
-    <section>
-        <h3> {{page.contacts-title}} </h3
-
-        <p>
-            <div class="contact-list-title"> {{page.info-email-title}} </div>
-            <div>info@ilmastoveivi2019.fi</div>
-        </p>
-        <p>
-            <div class="contact-list-title"> {{page.contact-persons-title}}</div>
-            <div> {{page.email-pattern}} </div>
-        </p>
-        {% assign contact_list=site.data.contacts[page.lang] %}
-        {% for contact in contact_list %}
-            <p> 
-                <div class="contact-list-title"> {{contact.title}} </div> 
-                <div> {{contact.name}} </div>
-            </p>
-        {% endfor %}
-        
-
-    </section>
-
 </div>
 
 {% include footer.html %}

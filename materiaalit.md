@@ -3,7 +3,7 @@ layout: materials
 ref: materiaalit
 lang: fi
 page-title: Materiaalit
-page-ingress: Tältä sivulta löydät Ilmastoveivi2019-kampanjan esitteen, tiivistelmän sekä visuaalisia materiaaleja, jotka ovat vapaasti ladattavissa medialle, kumppaneillemme ja kaikille kampanjaa tukeville tahoille ja henkilöille. 
+page-ingress: Tältä sivulta löydät Ilmastoveivi2019-kampanjan esitteen sekä visuaalisia materiaaleja, jotka ovat vapaasti ladattavissa medialle, kumppaneillemme ja kaikille kampanjaa tukeville tahoille ja henkilöille. 
 for-media-title: Medialle
 
 
