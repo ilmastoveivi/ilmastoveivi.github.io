@@ -1,4 +1,40 @@
 ---
+- name: Tiketti
+  url: https://www.tiketti.fi/
+  img: img/orgs/tiketti.jpg
+
+- name: Pelastakaa Lapset
+  url: https://www.pelastakaalapset.fi/
+  img: img/orgs/pelastakaalapset.jpg
+
+- name: Pohjola-Nordenin Nuorisoliitto
+  url: http://pnn.fi/
+  img: img/orgs/pnn.jpg
+
+- name: Helsingin Kisa-Veikot
+  url: https://www.helsinginkisaveikot.fi/
+  img: img/orgs/hkv.jpg
+
+- name: Fujitsu
+  url: http://www.fujitsu.com/fi/
+  img: img/orgs/fujitsu.jpg
+
+- name: Peduca ry
+  url: https://peduca.wordpress.com
+  img: img/orgs/peduca.jpg
+
+- name: ARTOVA
+  url: https://artova.fi/
+  img: img/orgs/artova.jpg
+
+- name: Bileinsinöörit
+  url: https://bileinsinoorit.org/
+  img: img/orgs/bileinsinoorit.jpg
+
+- name: Aalto yliopisto
+  url: https://www.aalto.fi/
+  img: img/orgs/aalto.jpg
+
 - name: Helmet
   url: https://www.helmet.fi/
   img: img/orgs/94.jpg
