@@ -1,4 +1,11 @@
 ---
+- name: Circus Helsinki
+  url: http://www.circushelsinki.fi/
+  img: img/orgs/circushelsinki.jpg
+
+- name: Vantaan kaupunki
+  url: https://www.vantaa.fi/
+  img: img/orgs/vantaakaupunki.jpg
 - name: Tiketti
   url: https://www.tiketti.fi/
   img: img/orgs/tiketti.jpg
@@ -50,10 +57,6 @@
 - name: TUO
   url: https://opiskelijakunta.net
   img: img/orgs/91.jpg
-
-- name: Tampereen korkea­koulut
-  url: https://www.tuni.fi
-  img: img/orgs/90.jpg
 
 - name: SHS
   url: https://shs.fi
@@ -135,7 +138,7 @@
   url: https://www.unicef.fi/
   img: img/orgs/69.jpg
 
-- name: Tampereen yliopisto, Tampereen ammattikorkeakoulu
+- name: Tampereen korkeakouluyhteisö
   url: https://www.tuni.fi/fi
   img: img/orgs/68.jpg
 
