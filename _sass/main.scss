@@ -600,6 +600,9 @@ p {
 }
 .faq-container {
   margin-bottom: 2em;
+  &:first-child {
+    margin-top: 2em;
+  }
   >a {
     margin: 0.75em 0 .5em 0;
     line-height: 1;
@@ -615,6 +618,7 @@ p {
   a {
     background-color: transparent;
     text-decoration: underline;
+    color: $color-text;
   }
   #usage-policy-text {
     padding-top: 2em;
@@ -622,6 +626,9 @@ p {
   }
   .contact-list-title {
     font-weight: $heading-weight
+  }
+  section h3:not(:first-child) {
+    margin-top: 1.75em;
   }
 }
 
