@@ -29,7 +29,7 @@
 
 - name: Kuninkaantien lukio
   url: http://www.kuninkaantie.espoo.fi/
-  img: kunkku.jpg
+  img: img/orgs/kunkku.jpg
 
 - name: EGEA Turku
   url: https://egea.eu/entities/turku/
