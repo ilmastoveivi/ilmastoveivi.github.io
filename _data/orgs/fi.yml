@@ -1,4 +1,40 @@
 ---
+-	name: Miehet ry
+  url: http://miehetry.fi/
+  img: img/orgs/miehet.jpg
+
+-	name: Nuorisoasuntoliitto
+  url: http://www.nal.fi
+  img: img/orgs/NAL.jpg
+
+-	name: Opetusalan Ammattijärjestö
+  url: https://www.oaj.fi/
+  img: img/orgs/oaj.jpg
+
+-	name: Parkkisähkö
+  url: https://www.parkkisahko.fi/
+  img: img/orgs/parkkisahko.jpg
+
+-	name: TAKU
+  url: http://taku.fi/
+  img: img/orgs/taku.jpg
+
+-	name: Turun KY
+  url: https://www.tuky.fi/etusivu/
+  img: img/orgs/tuky.jpg
+
+-	name: Kuninkaantien lukio
+  url: http://www.kuninkaantie.espoo.fi/
+  img: kunkku.jpg
+
+-	name: EGEA Turku
+  url: https://egea.eu/entities/turku/
+  img: img/orgs/egea.jpg
+
+-	name: Oikeuspoliittinen Yhdistys Demla ry
+  url: http://demla.fi/
+  img: img/orgs/demla.jpg
+
 - name: Circus Helsinki
   url: http://www.circushelsinki.fi/
   img: img/orgs/circushelsinki.jpg
@@ -6,6 +42,7 @@
 - name: Vantaan kaupunki
   url: https://www.vantaa.fi/
   img: img/orgs/vantaakaupunki.jpg
+  
 - name: Tiketti
   url: https://www.tiketti.fi/
   img: img/orgs/tiketti.jpg
