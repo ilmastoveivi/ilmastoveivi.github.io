@@ -1,4 +1,8 @@
 ---
+- name: SAMK
+  url: https://www.samk.fi
+  img: img/orgs/samk.jpg
+
 - name: Miehet ry
   url: http://miehetry.fi/
   img: img/orgs/miehet.jpg
