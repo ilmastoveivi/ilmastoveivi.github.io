@@ -1,4 +1,8 @@
 ---
+- name: Turun Yliopisto
+  url: https://www.utu.fi/en
+  img: img/orgs/turun_yliopisto.jpg
+
 - name: SAMK
   url: https://www.samk.fi
   img: img/orgs/samk.jpg
