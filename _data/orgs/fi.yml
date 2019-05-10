@@ -1,4 +1,68 @@
 ---
+- name: Åbo Akademi
+  url: https://www.abo.fi
+  img: img/orgs/AboAkademi.jpg
+
+- name: Akavan Erityisalat
+  url: https://www.akavanerityisalat.fi/
+  img: img/orgs/educaakavan_erityisalat.jpg
+
+- name: Ilmastoviisas Salo
+  url: http://ilmastoviisassalo.fi
+  img: img/orgs/educailmastoviisas_salo.jpg
+
+- name: Joensuun kaupunki
+  url: https://www.joensuu.fi/
+  img: img/orgs/educajoensuu.jpg
+
+- name: Kieliasiantuntijat ry
+  url: https://kieliasiantuntijat.fi/
+  img: img/orgs/educaKieliasiantuntijat.jpg
+
+- name: Pohjois-Karjalan Maakuntaliitto
+  url: https://www.pohjois-karjala.fi/
+  img: img/orgs/educaPohjois-karjala.jpg
+
+- name: Provinssi
+  url: https://www.provinssi.fi
+  img: img/orgs/educaprovinssi.jpg
+
+- name: Specia ry
+  url: https://specia.fi/
+  img: img/orgs/educaspecia.jpg
+
+- name: Granlund
+  url: https://www.granlund.fi/
+  img: img/orgs/Granlund.jpg
+
+- name: Green Building Council Finland
+  url: https://figbc.fi/
+  img: img/orgs/green_building_council.jpg
+
+- name: Maan ystävät
+  url: http://www.maanystavat.fi/
+  img: img/orgs/maanystavat.jpg
+
+- name: POW Finland
+  url: http://www.protectourwinters.fi/
+  img: img/orgs/POW.jpg
+
+- name: Ruohonjuuri
+  url: https://www.ruohonjuuri.fi/
+  img: img/orgs/ruohonjuuri.jpg
+
+- name: Sibelius-lukio
+  url:  https://www.hel.fi/sibel/fi/sibelius-lukio
+  img: img/orgs/Sibeliuslukio.jpg
+
+- name: Taideyliopisto
+  url: https://www.uniarts.fi/
+  img: img/orgs/taideyliopisto.jpg
+
+- name: Turun Yliopisto
+  url: https://www.utu.fi/en
+  img: img/orgs/turun_yliopisto.jpg
+
 - name: SAMK
   url: https://www.samk.fi
   img: img/orgs/samk.jpg
@@ -17,7 +81,7 @@
 
 - name: Parkkisähkö
   url: https://www.parkkisahko.fi/
-  img: img/orgs/parkkisahko.jpg
+  img: img/orgs/parkkisahko1.jpg
 
 - name: TAKU
   url: http://taku.fi/
@@ -129,7 +193,7 @@
 
 - name: Tom Allen Senera
   url: https://www.tomallensenera.fi
-  img: img/orgs/81.jpg
+  img: img/orgs/tomallen.jpg
 
 - name: Kontakti ry
   url: https://blogs.helsinki.fi/kontakti-ry/
