@@ -1,4 +1,8 @@
 ---
+- name: Oulun Yliopisto
+  url: https://www.oulu.fi
+  img: img/orgs/university_of_oulu.jpg
+
 - name: Åbo Akademi
   url: https://www.abo.fi
   img: img/orgs/AboAkademi.jpg
