@@ -5,7 +5,7 @@
 
 - name: Iin kunta
   url: http://ii.fi/
-  img: img/orgs/ii.jpg
+  img: img/orgs/ii_kunta.jpg
 
 - name: Greenstep
   url: https://greenstep.fi/
@@ -18,7 +18,7 @@
 - name: Sideways
   url: https://sidewayshelsinki.fi/
   img: img/orgs/sideways.jpg
-  
+
 - name: Oulun Yliopisto
   url: https://www.oulu.fi
   img: img/orgs/university_of_oulu.jpg
