@@ -1,4 +1,24 @@
 ---
+- name: Liike
+  url: https://liike.fi/
+  img: img/orgs/liike.jpg
+
+- name: Iin kunta
+  url: http://ii.fi/
+  img: img/orgs/ii.jpg
+
+- name: Greenstep
+  url: https://greenstep.fi/
+  img: img/orgs/greenstep.jpg
+
+- name: Amos Rex
+  url: https://amosrex.fi/
+  img: img/orgs/amos_rex.jpg
+
+- name: Sideways
+  url: https://sidewayshelsinki.fi/
+  img: img/orgs/sideways.jpg
+
 - name: Åbo Akademi
   url: https://www.abo.fi
   img: img/orgs/AboAkademi.jpg
