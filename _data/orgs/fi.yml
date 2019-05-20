@@ -18,6 +18,10 @@
 - name: Sideways
   url: https://sidewayshelsinki.fi/
   img: img/orgs/sideways.jpg
+  
+- name: Oulun Yliopisto
+  url: https://www.oulu.fi
+  img: img/orgs/university_of_oulu.jpg
 
 - name: Åbo Akademi
   url: https://www.abo.fi

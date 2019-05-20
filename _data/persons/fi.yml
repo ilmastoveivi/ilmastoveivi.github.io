@@ -1,4 +1,10 @@
 ---
+- name: F
+  img: img/persons/f.jpg
+
+- name: Muijavaara 
+  img: img/persons/Muijavaara.jpg
+
 - name: Mimosa Willamo 
   img: img/persons/mimosa_willamo.jpg
 
