@@ -1,4 +1,36 @@
 ---
+- name: Vaasan Kaupunki
+  url: https://www.vaasa.fi
+  img: img/orgs/vaasa.jpg
+
+- name: SOS Lapsikylä
+  url: https://www.sos-lapsikyla.fi/
+  img: img/orgs/SOS.jpg
+
+- name: Roju
+  url: https://www.roju.ai/fi
+  img: img/orgs/ROJU.jpg
+
+- name: OYY
+  url: https://www.oyy.fi/
+  img: img/orgs/OOY.jpg
+
+- name: Lasten ja nuorten säätiö
+  url: https://www.nuori.fi
+  img: img/orgs/Nuorifi.jpg
+
+- name: Kansallismuseo
+  url: https://www.kansallismuseo.fi/fi/
+  img: img/orgs/kansallismuseo.jpg
+
+- name: JHL
+  url: https://www.jhl.fi/
+  img: img/orgs/JHL.jpg
+
+- name: HSL
+  url: https://www.hsl.fi/
+  img: img/orgs/HSL.jpg
+
 - name: Liike
   url: https://liike.fi/
   img: img/orgs/liike.jpg
@@ -17,7 +49,7 @@
 
 - name: Sideways
   url: https://sidewayshelsinki.fi/
-  img: img/orgs/sideways.jpg
+  img: img/orgs/Sideways.jpg
 
 - name: Oulun Yliopisto
   url: https://www.oulu.fi
@@ -61,7 +93,7 @@
 
 - name: Green Building Council Finland
   url: https://figbc.fi/
-  img: img/orgs/green_building_council.jpg
+  img: img/orgs/gbc.jpg
 
 - name: Maan ystävät
   url: http://www.maanystavat.fi/
