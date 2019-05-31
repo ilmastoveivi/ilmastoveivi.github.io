@@ -28,11 +28,18 @@
           {{content}}
 
           <div class="pad-top-bot">
-            <i>{{disclaimer}}</i>
+            {% if page.disclaimer %}
+              <i>{{page.disclaimer}}</i>
+            {% else %}
+              <i>{{disclaimer}}</i>
+            {% endif %}
           </div>
 
           <div class="pad-top-bot">
             {% include bio.html name=page.author title=page.author_title description=page.author-desc img=page.author-img %}
+            {% if page.author2 %}
+            {% include bio.html name=page.author2 title=page.author_title2 description=page.author-desc2 img=page.author-img2 %}
+            {% endif %}
           </div>
 
             <div class="button-hover button-container">
