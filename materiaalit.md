@@ -16,6 +16,9 @@ campaign-pictures-link-text: Kuvia kampanjasta (Drive)
 
 for-supporters-title: Tukijoille
 
+june-campaign-link: https://drive.google.com/drive/u/2/folders/1LWiSqrRUvNV3-Z38GMqc1KZ9Ykk2gOZO
+june-campaign-link-text: "#kokoaansuurempi-loppukirin materiaalit"
+
 campaign-leaflet-link: resources/ilmastoveivi2019-kampanjaesite.pdf
 campaign-leaflet-link-text: Kampanjaesite (PDF)
 
