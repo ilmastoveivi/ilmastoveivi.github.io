@@ -1,4 +1,16 @@
 ---
+- name: LUSH
+  url: https://www.lush.fi/
+  img: img/orgs/LUSH.jpg
+
+- name: Greenpeace
+  url: https://www.greenpeace.org/finland/
+  img: img/orgs/Greenpeace.jpg
+
+- name: Raasepori
+  url:  https://www.raasepori.fi/
+  img: img/orgs/Raasepori.jpg
+
 - name: Vaasan Kaupunki
   url: https://www.vaasa.fi
   img: img/orgs/vaasa.jpg
