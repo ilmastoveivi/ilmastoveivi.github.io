@@ -324,6 +324,11 @@ p {
 #intro {
   margin-top: 0;
   animation-delay: 0.5s;
+  a {
+    background-color: transparent;
+    text-decoration: underline;
+    color: $color-text;
+  }
 }
 
 #front-main, #act, #sign {

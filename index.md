@@ -6,7 +6,7 @@ order: 1
 title: Allekirjoita vetoomus kestävämmän ilmastopolitiikan puolesta
 slogan: Ollaan me ihmeitä ennenkin tehty
 description: Ilmastoveivillä kampeamme Suomen ilmastoasioiden kansainväliseen kärkeen. Kiekko on jo liikkeellä, ratkaisun paikka on nyt.
-intro: Ilmastoveivi2019 on kansalaisten ilmastokampanja. Allekirjoita vetoomus ja vaadi kanssamme kestävämpää ilmastopolitiikkaa EU:ssa.
+intro: "Ilmastoveivi2019 on kansalaisten ilmastokampanja. Allekirjoita vetoomus ja vaadi kanssamme kestävämpää ilmastopolitiikkaa EU:ssa. Osallistu kanssamme kampanjan huipentavaan <a href='https://www.facebook.com/events/2428456950555465/'> mielenilmaukseen </a> kansalaistorilla 1.7.2019." 
 act-title: Näin vaikutat
 act-text1: Allekirjoittamalla luot joukkovoiman
 act-text2: …jolla kannustetaan poliitikkoja
