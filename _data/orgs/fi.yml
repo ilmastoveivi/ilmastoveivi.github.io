@@ -1,4 +1,44 @@
 ---
+- name: Osallisuuden aika
+  url: https://osallisuudenaika.fi/
+  img: img/orgs/osallisuuden_aika.png
+
+- name: Mannerheimin Lastensuojeluliitto
+  url: https://www.mll.fi/
+  img: img/orgs/MLL_1.png
+
+- name: Lastensuojelun keskuslitto
+  url: https://www.lskl.fi/
+  img: img/orgs/Lastensuojelun_keskusliitto.png
+
+- name: Kuntaliitto
+  url: https://www.kuntaliitto.fi/
+  img: img/orgs/Kuntaliitto.png
+
+- name: John Nurmisen Säätiö
+  url: https://johnnurmisensaatio.fi/en/
+  img: img/orgs/john_nurmisen_saatio.png
+
+- name: Ihmisoikeusliitto
+  url: https://ihmisoikeusliitto.fi/
+  img: img/orgs/Ihmisoikeusliitto.png
+
+- name: EKOenergia
+  url: https://www.ekoenergy.org/fi/
+  img: img/orgs/EKO_energia.png
+
+- name: Ehjä ry
+  url: https://www.ehja.fi/
+  img: img/orgs/Ehja.png
+
+- name: NRC Group
+  url: https://nrcgroup.fi/
+  img: img/orgs/educaNRC_Group.png
+
+- name: Ilmastoareena
+  url: https://ilmastoareena.fi/
+  img: img/orgs/educaIlmastoareena.png
+
 - name: LUSH
   url: https://www.lush.fi/
   img: img/orgs/LUSH.jpg
