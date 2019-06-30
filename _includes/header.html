@@ -25,8 +25,8 @@
     <meta property="og:title" content="{{page.title | default: site.share-title}}">
     <meta property="og:description" content="{{page.description | default: site.desc}}">
     <meta property="og:image" content="{{page.og_image | default: site.image}}">
-    <meta property="og:image:width" content="1023"/>
-    <meta property="og:image:height" content="780"/>
+    <meta property="og:image:width" content="1023" />
+    <meta property="og:image:height" content="780" />
     <meta property="og:url" content="{{site.url | append: page.url}}">
     <meta property="og:site_name" content="{{site.title}}">
     <meta property="og:type" content="{{page.og_type | default: 'website'}}">
@@ -36,29 +36,38 @@
     <link rel="manifest" href="site.webmanifest">
     <link rel="apple-touch-icon" href="icon.png">
     <!-- Place favicon.ico in the root directory -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.typekit.net/xfw1iic.css"><!-- Learning Curve & Agency FB -->
     <link href="https://fonts.googleapis.com/css?family=Chakra+Petch:400,700" rel="stylesheet"><!-- Chakra Petch -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css" />
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
+        integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
     <link rel="stylesheet" href="/css/normalize.css">
     <link rel="stylesheet" href="/css/styles.css">
 
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-5XNKHBT');</script>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5XNKHBT');</script>
     <!-- End Google Tag Manager -->
-    <script
-  src="https://code.jquery.com/jquery-3.3.1.min.js"
-  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-  crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js" integrity="sha-384-LNZolnKo8S7kL0Jc49nt8x2SVNb1gom5YX0lRGuuoSHYxB31xr5QRFAbLq0NdXnY" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js"
+        integrity="sha-384-LNZolnKo8S7kL0Jc49nt8x2SVNb1gom5YX0lRGuuoSHYxB31xr5QRFAbLq0NdXnY"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -66,60 +75,64 @@
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
 
-{% if page.lang == "fi" %}
+    {% if page.lang == "fi" %}
     {% assign sign_button_link_text = "Allekirjoita vetoomus" %}
-{% elsif page.lang == "sv" %}
+    {% elsif page.lang == "sv" %}
     {% assign sign_button_link_text = "Underteckna appellen" %}
-{% else %}
+    {% else %}
     {% assign sign_button_link_text = "Sign the petition" %}
-{% endif %}
+    {% endif %}
 
-  <article>
+    <article>
         <div id="header-container">
             <nav class="navbar navbar-light">
                 <!--<a class="navbar-brand" href="#">Ilmastoveivi 2019</a> -->
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                    aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                
+
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto">
 
-                    {% for menu_item in site.data.menu[page.lang] %}
+                        {% for menu_item in site.data.menu[page.lang] %}
                         {% if menu_item.children %}
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    {{ menu_item.name }}
-                                </a>
-                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    {% for submenu_item in menu_item.children %}
-                                        <a class="dropdown-item nav-link" href="{{ submenu_item.link }}">{{ submenu_item.name }}</a>
-                                    {% endfor %}
-                                </div>
-                            </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                {{ menu_item.name }}
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                {% for submenu_item in menu_item.children %}
+                                <a class="dropdown-item nav-link"
+                                    href="{{ submenu_item.link }}">{{ submenu_item.name }}</a>
+                                {% endfor %}
+                            </div>
+                        </li>
                         {% else %}
-                            <li class="nav-item"> 
-                                <a class="nav-link" href="{{ menu_item.link }}">{{ menu_item.name }}<span class="sr-only">(current)</span></a>
-                            </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ menu_item.link }}">{{ menu_item.name }}<span
+                                    class="sr-only">(current)</span></a>
+                        </li>
                         {% endif %}
                         <!-- Sign button is defined separately, because of the different HTML -->
-                        {% if forloop.index == 1 %}
+                        <!-- {% if forloop.index == 1 %}
                             <li class="nav-item">
                                 <a href="" class="sign-button-onclick nav-link"> {{sign_button_link_text}} </a>
                             </li>   
-                        {% endif %}
-                    {% endfor %}
-                    
+                        {% endif %} -->
+                        {% endfor %}
+
                     </ul>
                 </div>
             </nav>
             <div id="language-selector">
-                    {% if page.ref!=null %}
-                    {% assign pages=site.pages | where:"ref", page.ref | sort: 'order' %}
-                    {% for page in pages %} 
-                        <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> 
-                    {% endfor %}
-                    {% endif %}
+                {% if page.ref!=null %}
+                {% assign pages=site.pages | where:"ref", page.ref | sort: 'order' %}
+                {% for page in pages %}
+                <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a>
+                {% endfor %}
+                {% endif %}
             </div>
         </div>
-            
