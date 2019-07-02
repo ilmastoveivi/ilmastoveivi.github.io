@@ -7,7 +7,7 @@ title: Sign a petition for more sustainable climate policy
 slogan: Join the Wave
 description: The Ilmastoveivi2019 climate campaign will take Finland to the top in international climate change action. The puck has been dropped - it’s time to take it.
 intro: The Ilmastoveivi2019 climate campaign will take Finland to the top in international climate change action. The puck has been dropped - it’s time to take it.
-signing-ended: The collection of signatures has ended. Stay tuned for more updates!
+signing-ended: The collection of signatures has ended. Join us in presenting the petition at Kansalaistori this afternoon!
 act-title: How to contribute to our cause
 act-text1: By signing, people help create a momentum
 act-text2: …which encourages politicians
