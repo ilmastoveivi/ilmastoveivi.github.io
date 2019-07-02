@@ -1,21 +1,13 @@
 {% case page.lang %}
-  {% when "fi" %}
-    {% assign signatures = "allekirjoitusta" %}
-  {% when "en" %}
-    {% assign signatures = "signatures" %}
-  {% when 'sv' %}
-    {% assign signatures = "underteckningar" %}
+{% when "fi" %}
+{% assign signatures = "allekirjoitusta" %}
+{% when "en" %}
+{% assign signatures = "signatures" %}
+{% when 'sv' %}
+{% assign signatures = "underteckningar" %}
 {% endcase %}
 
 <section id="signature-counter" class="centre-content">
-    <h2 id="signature-count"></h2>
-    <h3> {{signatures}} </h3>
+  <h2 id="signature-count"></h2>
+  <h3> 60210 </h3>
 </section>
-<script>
-    $.ajax({
-  url: "https://script.google.com/macros/s/AKfycbxkmjxmS-5dzMW5cbqKDunPlTw6YhB3jK41M-9zssV96L7ONfk/exec"
-})
-  .done(function( data ) {
-    $("#signature-count").html(data.total.toLocaleString(window.document.documentElement.lang))
-  });
-</script>
