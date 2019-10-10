@@ -1,0 +1,35 @@
+---
+layout: post
+title:  Lapset ja nuoret ovat edelleen yksin, viimeisin lakko sen taas osoitti.
+lang: fi
+description: "Ilmastoveivi2019. Nollasta sataan muutamassa kuukaudessa. Tavalliset skidit ja jangsterit selvittivät, mitä ilmastonmuutokselle pitää tehdä EU-tasolla, miten se pitää tehdä, mistä pitää nyt ihan oikeasti alkaa puhumaan, ehdotti miten toimitaan, sai sille tuen ympäri kansaa ja maata, vei asiansa läpi korkeimpaan maata johtavaan paperiin, ojensi kätensä: kattokaa, me tehtiin absoluuttisesti kaikki mitä voitiin."
+og_type: article
+author: Laura Kolehmainen
+author-desc: Kirjoittaja Laura Kolehmainen on Ilmastoveivi2019-kampanjan perustaja, jonka usko positiivisen kautta vaikuttamiseen on koetuksella. <a href=https://yhteishyva.fi/artikkeli/opiskelija-luki-ilmastoraportin-ja-tarttui-toimeen/3U299OyfWOolnNf3k2MrQj>Yhteishyvä -lehden haastattelun</a> antamisen aikaan kesällä tunnelma oli korkealla, kun lupaukset oli juuri vastaanotettu. Nyt julkaisuajankohtana lokakuussa ne on hylätty, ja tilannekuva ei enää mahdollista kovin positiivista arviota ideoinnin ja rohkaisevan kannustuksen vaikuttavuudesta politiikkaan. Pikemminkin johtopäätös on, että poliitikkoihin toimii lähinnä ammattimainen painostus, ja että luottamuksesta on turha puhua. 
+banner-url: "/img/blog-banners/tree.jpg"
+---
+
+Ilmastoveivi2019. Nollasta sataan muutamassa kuukaudessa. Tavalliset skidit ja jangsterit selvittivät, mitä ilmastonmuutokselle pitää tehdä EU-tasolla, miten se pitää tehdä, mistä pitää nyt ihan oikeasti alkaa puhumaan, ehdotti miten toimitaan, sai sille tuen ympäri kansaa ja maata, vei asiansa läpi korkeimpaan maata johtavaan paperiin, ojensi kätensä: kattokaa, me tehtiin absoluuttisesti kaikki mitä voitiin. Tässä teille valmis agenda ja sille tuki. Uusi hallitus lupasi.
+
+Luotettiin, että nyt kun ne lupaa, on voittaneet vaalit ja meidän luottamuksen nimenomaan lupaamalla toimia kuten sovittiin, me voidaan hengähtää hetki. Sitten totuus alkoi selviämään, meidän työ ei riittänytkään: pitää olla jonkun järjestön tai firman palkattu lobbari, jotta on mahis varmistaa, että jo luvatut asiat oikeasti tapahtuu.
+
+Nyt kuulemme hallitukselta, että Suomen kansalliset ilmastotoimet ovat jäissä, koska EU-puheenjohtajuus: kaikki resurssit ovat siinä. EU-puheenjohtajuutta on takana jo yli puolet ja mitään ekstraa ei ilmaston tai veivin yli 60 000 nimeä keränneen vetoomuksen vaatimusten kannalta olla tehty. 
+
+Tällä välillä EU:n tilanne jo kehittynyt meistä huolimatta: parlamentin lisäksi myös komissio puoltaa 2030 tavoitteen kiristämistä. Onko Suomi edes yrittänyt tarttua tilaisuuteen ja avata tätä keskustelua neuvostossa? Ei ole. Puheenjohtajuuskauden kiveen hakattu tavoite on 2050-tavoitteen viimeistelemiseen pyrkiminen, vaikka huomio tulisi välittömästi siirtää lähitulevaisuuden päästövähennyksiin. Järjestääkö Suomi minkäänlaista ilmastokokousta, sitä, jonka tarpeellisuudesta ja hyödyllisyydestä uuden hallituksen vakuutimme ennen ja jälkeen vaalien ja josta suomalaiset ovat riemuinneet pitkin mediaa, tässäkin haastattelussa? Ei järjestä. Suomi päätti jättää ilmastojohtajan roolin jollekin muulle.
+
+Kokonaiskuva puuttuu ja kukaan ei analysoi tilannekuvaa reaaliajassa, vaan yhden virkamiehen aikoja sitten keksimät linjat määrittävät Suomen EU-puheenjohtajuuden suunnan. Kukaan ei muka mahda mitään.
+
+Minulla on tämän haastattelun antajana typerä olo. Viimeisimmässä ilmastolakossa oli raivokas olo. Ei ne lapset siellä huvikseen värisevin äänin anelleet eduskuntatalon portailla toimia. Ei näille lapsille ollut hauskaa, voimaannuttavaa tai inspiroivaa olla lakossa tai saada kehuja aktiivisuudesta. Me ja ne ei haluta olla siellä, ei oltaisi jos me pystyttäisiin luottamaan päättäjiimme. Poliitikot postailevat voimaantuneen hymyileviä kuvia someensa, mistä huomaa heti, etteivät he ole tilanteessa lainkaan läsnä.
+Mun kokemus lakosta oli, että moni itki. Tunnelma oli vakava. Puolenpäivän aikaan koko 12 000-päinen joukko huusi suoraa huutoa. Eduskuntatalon portailla huudettiin hätää ja epäluottamusta. Tällaisen tilanteen edessä kuuluu nöyrtyä ja lopettaa selittäminen, ei hymyillä ja poseerata. Tällaisissa tilanteissa huomaa selvästi demokratian tragedian: toisella puolella ovat ne, joille luovutettu edustuksen kautta päätäntävalta ja toisella ne, joilla ei ole muuta vaihtoehtoa kuin pyytää, anella, vaatia ja kieltäytyä yhteistyöstä.
+Veiviä oli upea tehdä, ja se oli mun tähänastisen elämäni suurin ponnistus. Itse olen tällä hetkellä aivan loppu, ja niin on moni muukin. Me nuoret ollaan viimeisen vuoden ajan tehty jonkun muun hommia omiemme lisäksi. Me oltiin liian kilttejä. 
+
+Kun pahimmasta uupumuksesta ja turpasaunasta on toivuttu, aion jatkaa toimintaa. Tuleva toiminta tuskin on samalla tavalla rakentavaa kuin tähän saakka: siinähän hukkaa vain aikaa, jota ei enää ole yhtään. Mä kutsun jatkossa ihmisiä lakkoon ja kadulle ja alan valmistelemaan Gretan ja Urgendan jalanjäljissä Suomen valtion oikeuteen haastamista ihmisoikeussopimusten rikkomisesta, kun tällä tavalla halveksii kansalaistensa, varsinkin äänioikeudettomien sellaisten, oikeutta mihinkään turvalliseen tulevaisuuteen.
+Jos tunnet juristeja, joita kiinnostaa liittyä joukkoon valmistelemaan keissiä, vinkkaa.
+
+Hallitukselle: ajatte lastenne sukupolven radikalismiin. Me opitaan nopeasti, mitä olisi pitänyt tehdä, meitä ette enää ilman seuraamuksia kuseta. Tästä tulee yhä selvemmin sukupolvien välinen eloonjäämiskamppailu, eikä ole mitään sitä rumempaa. Tämä on paljon vakavampaa kuin kysymys siitä, kuka on tulevien eläkkeiden maksumies. Gretan sanoin, tämä sukupolvi ei tule antamaan epäonnistumista anteeksi. 
+
+Lähes vuoden olemme peräänkuuluttaneet positiivista rakentavaa suhtautumista aidolla luottamuksella, lapsellisella uskolla. Ei ole mahdollista pysyä positiivisena, jos mitään tuloksia ei näy. Se ei ole rehellistä. Tällä viikolla nuoret liikehtivät jälleen ympäri maailmaa, ottavat katuja haltuun ja pysäyttävät liikenteen suurkaupungeissa pidätysten uhalla. Tämä ei ole leikkiä, vaan kyse on hätätilan julistamisesta ja hätähuudosta.
+
+Vaatimus tulevaisuudestaan huolestuneille lapsille ja nuorille on kohtuuton. Meidän olisi osattava politiikan säännöt ja kouluttauduttava ammattilobbareiksi, jotta voimme ajaa kokopäiväisesti oikeuksiamme. Vaatimuksemme ei ole sen radikaalimpi kuin mahdollisuus pitää yllä usko turvalliseen tulevaisuuteen. Asetatte omat lapsenne itseänne vastaan priorisoimalla nykyisen keski-ikäisen keskiluokan taloudellisen turvallisuuden ja saavutetut edut. Sen maksamme me tulevaisuudessa vain pahenevana kriisinä. 
+
+Me aiotaan tehdä kaikkemme sen eteen, että tulevat sukupolvet muistavat tämän päivän nuoret kaikkensa tekemisestä ilmastokriisin hillitsemiseksi. Tämä tehtävä on jäänyt nuorten harteille, sillä tällä hetkellä päättäjämme eivät osoita kykyä olla osa ratkaisua. He kieltäytyvät näkemästä ilmastokriisin vakavuutta piiloutuen jokapäiväisen politiikan pyörittämisen taakse, tärkein kiintopiste seuraavissa vaaleissa 3,5 vuoden päästä. 
