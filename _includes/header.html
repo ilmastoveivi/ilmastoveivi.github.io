@@ -99,11 +99,11 @@
                         {% for menu_item in site.data.menu[page.lang] %}
                         {% if menu_item.children %}
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                            <a class="nav-link dropdown-toggle" href="#" id="{{ menu_item.name | slugify: "ascii" }}" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 {{ menu_item.name }}
                             </a>
-                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <div class="dropdown-menu" aria-labelledby="{{ menu_item.name | slugify: "ascii" }}">
                                 {% for submenu_item in menu_item.children %}
                                 <a class="dropdown-item nav-link"
                                     href="{{ submenu_item.link }}">{{ submenu_item.name }}</a>
