@@ -5,7 +5,7 @@ lang: sv
 order: 3
 title: Underteckna appellen för en mer hållbar klimatpolitik
 slogan: Kom med i klimatkampen!
-signing-ended: Underteckingen av appellen är avslutad.
+signing-ended: Underteckingen av appellen är avslutad. Vår nya klimatrörelse Climate Move hittar du här: climatemove.fi
 description: Genom Ilmastoveivi2019 intar Finland täten i det internationella klimatarbetet. Klimatkampen är igång, Är du redo?
 intro: Genom Ilmastoveivi2019 intar Finland täten i det internationella klimatarbetet. Klimatkampen är igång, Är du redo?
 act-title: Så kan du bidra
