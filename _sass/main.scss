@@ -335,6 +335,12 @@ p {
   animation-delay: 0.8s;
 }
 
+#sign .intro a{
+  background-color: transparent;
+  text-decoration: underline;
+  color: $color-text;
+}
+
 #thanks {
   animation-delay: 0.3s;
 }
